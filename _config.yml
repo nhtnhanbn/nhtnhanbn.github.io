@@ -1,0 +1,5 @@
+markdown: kramdown
+baseurl: /
+collections:
+  repository:
+     output: true
