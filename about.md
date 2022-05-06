@@ -6,8 +6,8 @@ title: About Nhan
 
 ## About me
 
-My name is Nhan and I am a resident of Melbourne.
 Pleased to meet you!
+My name is Nhan and I am a resident of Melbourne.
 Also a year 12 student in 2022.
 
 The intention of this website is to be a repository of some documents and articles of interest to me and maybe to you.
