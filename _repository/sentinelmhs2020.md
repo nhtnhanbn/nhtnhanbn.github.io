@@ -1,7 +1,7 @@
 ---
 permalink: /sentinelmhs2020
 layout: default
-title: 2020 MHS Sentinel
+title: MHS Sentinel 2020
 ---
 
 Page last updated 19/6/2022.
