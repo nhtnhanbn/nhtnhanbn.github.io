@@ -18,7 +18,11 @@ James Merlino, Victorian Deputy Premier and Minister for Education, delivered a 
 
 #### The Reading Wars - Do we have a winner?
 
-Part of the Education at War section of the Summit. This panel was moderated by Adam Carey, The Age Education Editor. The panellists were:
+Part of the Education at War section of the Summit. The reading wars is one of several ongoing education wars, which have been renewed by debate over the newly approved in 2022 Australian Curriculum. In addition to the reading wars, Australia continues to experience history/culture wars and mathematics wars.
+
+The reading wars, on how to teach reading to the youngest children, historically was between proponents of whole language practices on one side and phonics practices on the other. In Victoria's recent history, it has adhered to a balanced literacy approach that claims to expose students to both strategies, and the reading wars have in this state and across Australia been over the extent and specific approach of phonics needed.
+
+This panel was moderated by Adam Carey, The Age Education Editor. The panellists were:
 
 - Greg Clement, Clayton South Primary School Principal
 - Loretta Piazza, Meadowglen Primary School Principal
