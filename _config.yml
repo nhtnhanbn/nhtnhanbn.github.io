@@ -1,5 +1,17 @@
 markdown: kramdown
+
 baseurl: /
+
+plugins:
+  - jekyll-sitemap
+
 collections:
   repository:
      output: true
+
+defaults:
+  -
+    scope:
+      path: "googlef0f8f70642b2ad70.html"
+    values:
+      sitemap: false
