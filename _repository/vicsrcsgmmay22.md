@@ -1,6 +1,5 @@
 ---
 permalink: /vicsrcsgmmay22
-layout: default
 title: VicSRC SGM 5/2022 and constitutional amendments
 ---
 

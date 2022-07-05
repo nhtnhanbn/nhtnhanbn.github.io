@@ -1,6 +1,5 @@
 ---
 permalink: /sentinelmhs2020
-layout: default
 title: MHS Sentinel 2020
 ---
 

@@ -1,6 +1,5 @@
 ---
 permalink: /theageschools22
-layout: default
 title: The Age Schools Summit 2022
 ---
 

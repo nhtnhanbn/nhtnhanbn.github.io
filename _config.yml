@@ -15,3 +15,15 @@ defaults:
       path: "googlef0f8f70642b2ad70.html"
     values:
       sitemap: false
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "repository"
+    values:
+      layout: "default"
