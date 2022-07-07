@@ -1,5 +1,6 @@
 ---
 permalink: /whitecasredirect
+sitemap: false
 title: Casio ClassPad II Custom Commands Collection
 ---
 
