@@ -3,13 +3,15 @@ permalink: /vicsrcsgmmay22
 title: VicSRC SGM 5/2022 and constitutional amendments
 ---
 
-Page last updated 27/5/2022.
+Page last updated 7/7/2022.
 
 ## VicSRC SGM May 2022 and constitutional amendments
 
 ### Background
 
-The Victorian Student Representative Council Student Executive Advisory Committee ("the Executive") has proposed a number of amendments to our SRC's Constitution, concerning the composition of the Executive for future terms but yet again no simplification of the Executive's outrageous full name.
+**My understanding is that these constitutional amendments are in effect, applying from the 2022 Executive election and the 2022-2023 term of the Executive.**
+
+The Victorian Student Representative Council Student Executive Advisory Committee ("the Executive") proposed a number of amendments to our SRC's Constitution, concerning the composition of the Executive for future terms but yet again no simplification of the Executive's outrageous full name.
 
 An amendment requires at least 75% of votes cast being in favour to be adopted into the Constitution.
 
@@ -29,7 +31,7 @@ The justification proposed for the necessity of this recommendation, that runnin
 
 I voted in favour of this amendment only on the assurance that the intention of a candidate to continue on for a second term would be known to the voters at the time of election. That is, a candidate would indicate at the time of initial nomination for the election whether they are nominating for a 1-year or 2-year term, and voters would be able to make their decision based on this knowledge. Of course, there are specific implementation details that will need to be considered, such as when over 10 candidates are elected for 2-year terms in the same election.
 
-The specific wording of this amendment means that the process in the future may be very different and potentially undemocratic. However, our SRC and its Executive has always acted in good faith and broadly in the interests of the democratic rights of students, so I do not believe that this amendment is currently in any real danger of being manipulated. I also note that generally, Representatives on the Executive are competent and have the confidence of Victorian students, and are often reelected when they have run again anyway. This amendment is perhaps easier to stomach if we see our SRC as a corporate advocacy organisation rather than a purely representative structure.
+The ambiguous wording of this amendment means that the process in the future may be very different and potentially undemocratic. However, our SRC and its Executive has always acted in good faith and broadly in the interests of the democratic rights of students, so I do not believe that this amendment is currently in any real danger of being manipulated. I also note that generally, Representatives on the Executive are competent and have the confidence of Victorian students, and are often reelected when they have run again anyway. This amendment is perhaps easier to stomach if we see our SRC as a corporate advocacy organisation rather than a purely representative structure.
 
 ### Documents
 
