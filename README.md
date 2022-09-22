@@ -1,4 +1,4 @@
-# nbn-tbc.github.io
+# nhtnhanbn.github.io
 Personal website of Nhan.
 
 Visit it: [nhtnhanbn.github.io](https://nhtnhanbn.github.io)
