@@ -3,7 +3,7 @@ permalink: /vcesimultaneity
 title: VCE Physics Relativity of Simultaneity
 ---
 
-Page last updated 4/11/2022.
+Page last updated 5/11/2022.
 
 ## VCE Physics and simultaneity in special relativity
 
@@ -99,7 +99,7 @@ Take Question 2 of Detailed study 1 from the 2016 VCE Physics exam which we have
 
 ### Conclusion
 
-The point is that accepting relativity of simultaneity should be something taught to every VCE Physics student. As a concept, I think it is not more difficult than length contraction, time dilation or relativistic energy, yet it helps to understand or at least accept the rest. Is it necessary, for the purposes of VCE Physics, to fully understand all its applications and implications, some of which are touched on above? Absolutely not. But knowing that it is real means that we can hand-wave away any apparent paradoxes, misunderstandings, asymmetries. It gives us permission to accept that the observations from different frames of references can be different, and so obey the fundamental rule of answering relativity exam questions. **Consider *only* the frames of reference relevant to the question.**
+The point is that accepting relativity of simultaneity should be something taught to every VCE Physics student. The Study Design does not necessarily need to explicitly mention it, although it would be good. However, it is a natural consequence of what is included in the Study Design. As a concept, I think it is not more difficult than length contraction, time dilation or relativistic energy, yet it helps to understand or at least accept the rest. Is it necessary, for the purposes of VCE Physics, to fully understand all its applications and implications, some of which are touched on above? Absolutely not. But knowing that it is real means that we can hand-wave away any apparent paradoxes, misunderstandings, asymmetries. It gives us permission to accept that the observations from different frames of references can be different, and so obey the fundamental rule of answering relativity exam questions. **Consider *only* the frames of reference relevant to the question.**
 
 ### Documents
 
