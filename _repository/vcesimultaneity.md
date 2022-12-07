@@ -3,7 +3,7 @@ permalink: /vcesimultaneity
 title: VCE Physics Relativity of Simultaneity
 ---
 
-Page last updated 5/11/2022.
+Page last updated 5/12/2022.
 
 ## VCE Physics and simultaneity in special relativity
 
@@ -11,7 +11,7 @@ Page last updated 5/11/2022.
 
 I am not a physicist having undergone only VCE Physics, I know approximately nothing, so anything I say on the physics may not be accurate. If you identify anything wrong, however minor, please email me at [nhtnhanbn@gmail.com](mailto:nhtnhanbn@gmail.com).
 
-I am writing this whilst procrastinating on exam study, so if it seems like a waste of time on something relatively trivial it is.
+If it seems like a waste of time on something relatively trivial it is.
 
 ### Background
 
