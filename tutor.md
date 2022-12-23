@@ -50,6 +50,7 @@ CAS calculators are an essential part of modern VCE mathematics subjects, with t
 - Mathematical Methods raw study score 49 in 2021
 - Specialist Mathematics raw study score 43 in 2022
 - Certified numerate by VCAA in 2022
+- Monash University Engineering Masters Pathway Scholarship (Sir John Monash Scholarship for Distinction) offer
 
 ### Informatics
 
