@@ -17,6 +17,6 @@ The Melbourne University Student Union Incorporated (MUSUi) was the predecessor 
 - [A detailed contemporary summary of events by a student](https://www.crikey.com.au/2004/02/11/the-death-of-a-12m-student-union)
 - [The Age report on the deal July 2003](https://www.theage.com.au/national/the-deal-that-threatens-to-send-a-student-union-broke-20030721-gdw2zd.html)
 - [The Age report on the infighting July 2003](https://www.theage.com.au/national/reckoning-for-a-divided-union-20030726-gdw3xe.html)
-- [The State of the Union, a documentary on the 2003 MUSU election](https://youtu.be/-GtLwWELcY4)
+- [The State of the Union](https://youtu.be/-GtLwWELcY4) - a documentary on the 2003 MUSU election
 - [Recollections from a More Beer student politician](https://web.archive.org/web/20060302222743/http://ticketdavo.blogspot.com)
-- [The MUSU files - comprehensive recounts and commentary from a former MUSU officebearer (the numbered series below the DVD link in the sidebar), dramatic accusations from key players (including Andrew Landeryou, husband of late Senator Kimberley Kitching) in the comments + bonus misspelling of "Nhan"](https://melbournescribe.blogspot.com)
+- [The MUSU files](https://melbournescribe.blogspot.com) - comprehensive recounts and commentary from a former MUSU officebearer (the numbered series below the DVD link in the sidebar), dramatic accusations from key players (including Andrew Landeryou, husband of late Senator Kimberley Kitching) in the comments + bonus misspelling of "Nhan"

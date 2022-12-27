@@ -18,3 +18,7 @@ Sources in the Melbourne High School indicate that no issues of the Sentinel wer
 ### Documents
 
 - [November and December 2020 issues of the Sentinel](https://drive.google.com/drive/folders/1wdNFN5YyT80ooM-h8IrsIABGIzycl2_f)
+
+### See also
+
+- [The Student Underground - newspapers and strikes of the Vietnam era](/underground)
