@@ -28,7 +28,7 @@ layout:
   <div markdown=1>
 ## About me
 
-I graduated year 12 in 2022, having completed the VCE with an ATAR of 99.80, and am looking forward to supporting your or your child's learning journey. I am looking to assist students up to and including VCE (Methods and Specialist) in mathematics, a subject I am intending to continue to extend my own knowledge of through university study in engineering .
+I graduated year 12 in 2022, having completed the VCE with an ATAR of 99.80, and am looking forward to supporting your or your child's learning journey. I am looking to assist students up to and including VCE (Methods and Specialist) in mathematics, a subject I am intending to continue to extend my own knowledge of through university study in engineering.
 
 ## VCE Mathematics
 
@@ -55,7 +55,6 @@ CAS calculators are an essential part of modern VCE mathematics subjects, with t
 ### Informatics
 
 - Australian Informatics Olympiad Gold and Perfect Score in 2021
-- Australian Informatics Olympiad School of Excellence invitation in 2021
 - Australian Invitational Informatics Olympiad Bronze (14th in Australia) in 2022
 - Australian Informatics Olympiad Selection School invitation (top ~15 in Australia) in 2022
 
