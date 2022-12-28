@@ -15,3 +15,11 @@ Subscribe for updates by following my [Instagram account](https://instagram.com/
     <li><a href="{{ page.url }}">{{ page.title }}</a></li>
   {% endfor %}
 </ul>
+
+## Tools
+
+<ul class="pages">
+  {% for page in site.tools %}
+    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
