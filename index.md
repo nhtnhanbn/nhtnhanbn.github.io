@@ -6,6 +6,8 @@ title: Nhan
 
 Good evening. Welcome to Nhan's site. If there are broken links anywhere, please [email me](mailto:nhtnhanbn@gmail.com).
 
+Subscribe for updates by following my [Instagram account](https://instagram.com/nhan.an.victorian).
+
 ## Index
 
 <ul class="pages">
