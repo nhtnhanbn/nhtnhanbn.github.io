@@ -30,6 +30,8 @@ layout:
 
 I graduated year 12 in 2022, having completed the VCE with an ATAR of 99.80, and am looking forward to supporting your or your child's learning journey. I am looking to assist students up to and including VCE (Methods and Specialist) in mathematics, a subject I am intending to continue to extend my own knowledge of through university study in engineering.
 
+I also completed English, Global Politics, Physics and Chemistry, as well as participating in DAV debating, symphony orchestra (violin), and the Australian Chemistry and Physics Olympiads (High Distinctions), so I am more than happy to chat informally about any of these other subjects.
+
 ## VCE Mathematics
 
 Some particular issues for those looking for support in VCE Mathematical Methods or Specialist Mathematics.
@@ -58,6 +60,6 @@ CAS calculators are an essential part of modern VCE mathematics subjects, with t
 - Australian Invitational Informatics Olympiad Bronze (14th in Australia) in 2022
 - Australian Informatics Olympiad Selection School invitation (top ~15 in Australia) in 2022
 
-My rate is $30/hour. Contact me at [nhan.beam.nguyen@gmail.com](mailto:nhan.beam.nguyen@gmail.com) if you would like to discuss further details.
+My rate is $40/hour. Contact me at [nhan.beam.nguyen@gmail.com](mailto:nhan.beam.nguyen@gmail.com) if you would like to discuss further details.
   </div>
 </div>
