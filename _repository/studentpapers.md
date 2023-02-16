@@ -19,21 +19,22 @@ If you know of any further information at all (for example, other examples of st
 
 ### Documents
 
-- [*ubique*, University High School 2012 (*Ubique Online*)/2015-2022, monthly](https://ubique.squarespace.com)
-- [*The College Chronicle*, Scotch College Melbourne 2020/2022, 3 issues in 2022](https://medium.com/collegechronicle) and audaciously describes itself as "one of the first high school student newspapers in Australia"
+- [*ubique*](https://ubique.squarespace.com), University High School 2012 (*Ubique Online*)/2015-2022, monthly
+- [*The College Chronicle*](https://medium.com/collegechronicle), Scotch College Melbourne 2020/2022, 3 issues in 2022 and audaciously describes itself as "one of the first high school student newspapers in Australia"
     - [The Scotch College Archives and Museum](https://www.oscanet.com.au/archives) apparently holds old copies of student-driven publications *Satura* and *The Scotch Collegian*
-- [*The Trinity Inquirer*, Trinity Grammar School Kew 2020-2022, 3 issues in 2022](https://issuu.com/trinitygrammar)
-- *Roxeth*, Trinity Grammar School Kew -2022, weekly
-- [*The Rumble*, Presbyterian Ladies' College Melbourne 2020-2022, 3 issues in 2022](https://issuu.com/plcbur3125)
-    - [*The Rumble*, upper secondary winner Front Page 2021](https://frontpage.online/2021-upper-secondary/the-rumble)
+- [*The Trinity Inquirer*](https://issuu.com/trinitygrammar), Trinity Grammar School Kew 2020-2022, 3 issues in 2022
+    - *Roxeth*, Trinity Grammar School Kew -2022, weekly
+- [*The Rumble*](https://issuu.com/plcbur3125), Presbyterian Ladies' College Melbourne 2020-2022, 3 issues in 2022
+    - [*The Rumble*](https://frontpage.online/2021-upper-secondary/the-rumble), upper secondary winner Front Page 2021
 - *The Stentorian*, St Catherine's School 2022, monthly
-- [*The 4U Paper*, North Sydney Boys High School 2014-2023, monthly](https://drive.google.com/drive/folders/1GIOROMSMac9rHyn7XD0bJV1j2Vb6YL19)
-    - [*The 4U Paper*, upper secondary winner Front Page 2019](https://frontpage.online/2019-upper-secondary/the-4u-paper)
-    - [*The Nest*, upper secondary finalist Front Page 2020](https://frontpage.online/2020-upper-secondary/the-nest)
-- [*The Glenunga Dispatch*, Glenunga International High School 2020-2022, every 2 months](https://sites.google.com/gihs.sa.edu.au/glenungadispatch)
+- [*YOUTHINK*](https://asprinworld.com/asprin), City of Melbourne 2020, 2 issues
+- [*The 4U Paper*](https://drive.google.com/drive/folders/1GIOROMSMac9rHyn7XD0bJV1j2Vb6YL19), North Sydney Boys High School 2014-2023, monthly
+    - [*The 4U Paper*](https://frontpage.online/2019-upper-secondary/the-4u-paper), upper secondary winner Front Page 2019
+    - [*The Nest*](https://frontpage.online/2020-upper-secondary/the-nest), upper secondary finalist Front Page 2020
+- [*The Glenunga Dispatch*](https://sites.google.com/gihs.sa.edu.au/glenungadispatch), Glenunga International High School 2020-2022, every 2 months
     - [*The Glenunga Dispatch* issue 10 26/5/2021](https://archive.org/details/issue-10-26.05.21-deleted) uncensored, including an article "A Fiery Sky Over Israel"
-    - [*The Glenunga Dispatch*, upper secondary finalist Front Page 2020](https://frontpage.online/2020-upper-secondary/the-glenunga-dispatch)
-    - [*The Glenunga Dispatch*, upper secondary finalist Front Page 2021](https://frontpage.online/2021-upper-secondary/the-glenunga-dispatch)
+    - [*The Glenunga Dispatch*](https://frontpage.online/2020-upper-secondary/the-glenunga-dispatch), upper secondary finalist Front Page 2020
+    - [*The Glenunga Dispatch*](https://frontpage.online/2021-upper-secondary/the-glenunga-dispatch), upper secondary finalist Front Page 2021
 
 ### See also
 
