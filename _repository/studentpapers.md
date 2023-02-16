@@ -1,6 +1,6 @@
 ---
 permalink: /studentpapers
-title: NSBHS 4U Paper
+title: Student newspapers
 ---
 
 Page last updated 16/2/2023.
@@ -11,7 +11,7 @@ Page last updated 16/2/2023.
 
 Inspired by an [ancient](https://research.acer.edu.au/cgi/viewcontent.cgi?article=1147&context=connect) issue of the [Connect](https://asprinworld.com/Connect1/contents/1980.html) newsletter/journal compiled by Roger Holdsworth, an index of student-led (pre-tertiary) publications that are known to me and have been active in the last few years. The style and content are diverse; some papers focus on school happenings, others on popular culture, and frequently they deal with Australian and global politics. All papers are led and written by students, for a student audience.
 
-Information as accurate as my best at the time, with dates reflecting incarnations of papers alive in the last decade or so and frequency as of the last year or so. For some items there may be some earlier issues which are either missing or may require you to dig a little. Some of these papers were finalists in the Front Page competition run by Nine (*The Age* and the *Sydney Morning Herald*) and Australian Teachers of Media, which invites submissions of single issue short school newspapers.
+Information as accurate as my best at the time, with dates reflecting incarnations of papers alive in the last decade or so and frequency as of the last year or so. For some items there may be some earlier issues which are either missing or may require you to dig a little. Some of these papers were finalists in the Front Page competition run by Nine (*The Age* and the *Sydney Morning Herald*) and Australian Teachers of Media, which invites submissions of a single short issue of a school newspaper.
 
 Ethical considerations were absent from the compilation of these items. Threatening, intimidating, or otherwise legitimate removal requests may be fulfilled.
 
