@@ -3,7 +3,7 @@ permalink: /underground
 title: Student Underground
 ---
 
-Page last updated 27/12/2022.
+Page last updated 2/4/2023.
 
 ## The Student Underground - newspapers and strikes of the Vietnam era
 
@@ -111,7 +111,8 @@ of Education to ensure that the exclusion of Michael Eidelson, a pupil of Melbou
 
 #### Contemporary newspapers
 
-- [A secondary student correspondent's unfavourable view of the May 1972 Melbourne school strike](https://glamisgazette.com/wordpress/1972/07/24/volume-16-no-2-july-1972) (*Glamis Gazette*, Stathmore High School student newspaper)
+- [A Wesley student's view of a copy of *Tabloid Underground*](https://wesleycollege.recollect.net.au/nodes/view/1006) (*Wesley College Chronicle*)
+- [A secondary student's unfavourable view of the May 1972 Melbourne school strike](https://glamisgazette.com/wordpress/1972/07/24/volume-16-no-2-july-1972) (*Glamis Gazette*, Strathmore High School student newspaper)
 - [Meaning of High School Strikes](https://trove.nla.gov.au/newspaper/article/237866236) (*Tribune*, Communist Party of Australia newspaper)
 - [1975 articles arguing the need for organised student voice in New South Wales and summarising some of the internal difficulties of the early Victorian Secondary Students Union](https://trove.nla.gov.au/newspaper/article/230399953) (*Tharunka*, University of New South Wales student newspaper)
 - [Comments from some federal MPs on the Eidelson suspension](https://trove.nla.gov.au/newspaper/article/131678830) (*The Canberra Times*)
@@ -119,15 +120,15 @@ of Education to ensure that the exclusion of Michael Eidelson, a pupil of Melbou
 - [Scans of some student underground newspapers](https://reasoninrevolt.net.au/biogs/E000614b.htm)
 - Articles from [*The Age*](https://drive.google.com/drive/folders/1Gh53NDR_WvMNXlX6ZvMGl2k_aP9YNudE?usp=share_link) and [*The Herald*](https://drive.google.com/drive/folders/1l1_OO4g7Ejjgm32Vn1RFTT_L834jsFUh?usp=share_link) 1968-1972 - most relate to student underground newspapers or school strikes, but also some coverage of broader education policy debates
 - [Hard booklet containing scans of many Melbourne student underground newspapers 1968](https://find.slv.vic.gov.au/permalink/61SLV_INST/1sev8ar/alma997290273607636) *available in the State Library of Victoria*
-  - [Tabloid Underground](https://drive.google.com/file/d/1l69GtIBUyv2a1jvI71tZysYhSQgWLOEn/view?usp=sharing) (Students in Dissent)
-  - [Ubique Underground](https://drive.google.com/file/d/1lC7JNWQUQmXCmd7rk6qQniAnEt_idhtb/view?usp=share_link) (University High School)
-  - Fallout (Mentone Girls High School)
-  - Pravda (Peninsula High School)
-  - Reform (Camberwell High School)
-  - Treason (Highett High School)
-  - Folklore Underground (Caulfield High School)
-  - Omega (Prahran High School)
-  - Peon Underground (Chadstone High School)
-  - [Sentinel Underground](https://drive.google.com/file/d/1lAdpkoVSkhvlS9QX3KYkBrJJ-QJQxDg3/view?usp=share_link) (Melbourne High School)
-  - Tirade (Croydon High School)
-  - Student Power (Doveton High School)
+  - [*Tabloid Underground*](https://drive.google.com/file/d/1l69GtIBUyv2a1jvI71tZysYhSQgWLOEn/view?usp=sharing) (Students in Dissent)
+  - [*Ubique Underground*](https://drive.google.com/file/d/1lC7JNWQUQmXCmd7rk6qQniAnEt_idhtb/view?usp=share_link) (University High School)
+  - *Fallout* (Mentone Girls High School)
+  - *Pravda* (Peninsula High School)
+  - *Reform* (Camberwell High School and Mac.Robertson Girls' High School)
+  - *Treason* (Highett High School)
+  - *Folklore Underground* (Caulfield High School)
+  - *Omega* (Prahran High School)
+  - *Peon Underground* (Chadstone High School)
+  - [*Sentinel Underground*](https://drive.google.com/file/d/1lAdpkoVSkhvlS9QX3KYkBrJJ-QJQxDg3/view?usp=share_link) (Melbourne High School)
+  - *Tirade* (Croydon High School)
+  - *Student Power* (Doveton High School)
