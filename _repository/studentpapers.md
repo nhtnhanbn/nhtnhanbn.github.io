@@ -27,6 +27,7 @@ If you know of any further information at all (for example, other examples of st
 - [*The Rumble*](https://issuu.com/plcbur3125), Presbyterian Ladies' College Melbourne 2020-2022, 3 issues in 2022
     - [*The Rumble*](https://frontpage.online/2021-upper-secondary/the-rumble), upper secondary winner Front Page 2021
 - *The Stentorian*, St Catherine's School 2022, monthly
+- *Rosanna Voice*, Rosanna Primary School -2022, at least 3 issues 2022
 - [*YOUTHINK*](https://asprinworld.com/asprin), City of Melbourne 2020, 2 issues
 - [*The 4U Paper*](https://drive.google.com/drive/folders/1GIOROMSMac9rHyn7XD0bJV1j2Vb6YL19), North Sydney Boys High School 2014-2023, monthly
     - [*The 4U Paper*](https://frontpage.online/2019-upper-secondary/the-4u-paper), upper secondary winner Front Page 2019
@@ -35,6 +36,7 @@ If you know of any further information at all (for example, other examples of st
     - [*The Glenunga Dispatch* issue 10 26/5/2021](https://archive.org/details/issue-10-26.05.21-deleted) uncensored, including an article "A Fiery Sky Over Israel"
     - [*The Glenunga Dispatch*](https://frontpage.online/2020-upper-secondary/the-glenunga-dispatch), upper secondary finalist Front Page 2020
     - [*The Glenunga Dispatch*](https://frontpage.online/2021-upper-secondary/the-glenunga-dispatch), upper secondary finalist Front Page 2021
+- [*LC Times*](https://lctimes.mailchimpsites.com), Launceston College 2019-2021, 3 issues in 2021
 
 ### See also
 
