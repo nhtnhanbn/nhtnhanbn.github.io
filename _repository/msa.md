@@ -132,4 +132,4 @@ The C&S Executive has the power to disaffiliate clubs, depriving them of recogni
 - [2022 MSA Election Regulations](https://msa.monash.edu/app/uploads/2022/08/2022-MSA-Election-Regulations.pdf)
 
 ### See also
-[Death of the Melbourne University Student Union Incorporated](/musu)
+- [Death of the Melbourne University Student Union Incorporated](/musu)
