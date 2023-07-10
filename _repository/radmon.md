@@ -3,13 +3,13 @@ permalink: /radmon
 title: Radio Monash SGM 7/2023
 ---
 
-Page last updated 7/7/2023.
+Page last updated 10/7/2023.
 
 ## Radio Monash Special General Meeting July 2023
 
 ### Thread
 
-*From my live [Thread @nhan.an.victorian](https://threads.net/t/CuZChX6JUWs).*
+*From my live [Thread @nhan.an.victorian](https://threads.net/t/CuZChX6JUWs) 7/7/2023.*
 
 The Labor Left are trying to get up to the Radio Monash committee. Despite all positions having been declared vacant, the Labor Right controlled MSA has blocked elections for almost all committee positions, with only President and Vice President to be elected tonight. For both positions, prominent Labor Left figures are running against established Radio Monash members.
 
@@ -49,6 +49,53 @@ Why were the Labor Left interested in Radio Monash? Possible reasons:
 1) Despite their institutional ignorance, they genuinely believed in modernising Radio Monash, pivoting to journalism, expanding its reach and campaigning on education affairs.
 2) The President has a vote on the Monash Student Council, which Labor Right-led ticket Together control practically unopposed.
 3) To co-opt Radio Monash as a vehicle to support a ticket in the 2023 MSA elections.
+
+### Recounting the Radio Monash SGM
+
+*Filed 10/7/2023.*
+
+As attendees gathered for the Special General Meeting of Radio Monash, the regular members had no reason to suspect that it would be aything but business as intended. It was supposed to be an orderly affair, with a smooth transition to a new, pre-determined administration. After all, modern Monash is not particularly notorious for political machinations in the clubs space.
+
+Radio Monash is in some ways structurally similar to a regular club affiliated with MSA Clubs and Societies. It is led by a committee, elected at general meetings open to anybody who has been a member for 10 business days. Members may be anybody (with no fee for MSA+ subscribers and a $5 membership fee otherwise), unlike other MSA divisions where office bearers are elected by a class of students (MUISS, MAPS), C&S club presidents (C&S Council), or all students (MSA as a whole). But as an MSA division (a product of its long history as an independent non-MSA organisation), it has something that other clubs do not: a vote on the Monash Student Council (MSC), the MSA's governing body.
+
+The past few years were turbulent for Radio Monash. The pandemic, renovations of its recording studios and technical problems it through 2020-2022. The July 2023 Special General Meeting was supposed to represent a renewal, with all committee positions to face elections and a series of constitutional amendments to be approved.
+
+Early in the meeting, a question was asked to the outgoing Radio Monash President: "Why is this committee so awesome?"
+
+The reply: "Our sense of togetherness and community! And the fact that we do not have any ulterior and selfish motives."
+
+This committee was coming to an end with the SGM.
+
+The first special resolution offered eleven amendments to bring the constitution up to date, including:
+- Restricting membership to Clayton students.
+- Increasing the waiting period before a member gains voting rights from 10 business days to 21 days.
+- Reducing quorum for general meetings from 25 members to 20 members.
+- Changing the portfolios in the general committee.
+
+Debate centred on the increase in the time a member needs to wait to gain voting rights, from 10 business days to 21 days. Only members with voting rights are eligible to become a committee member. One conventional reason for this sort of rule is to prevent non-genuine members from influencing outcomes of votes. The disagreement lay in the principle that even those who were new to the organisation might still be capable and valuable in contributing to a committee role; defending the amendment, members of the establishment argued that Radio Monash required a unique skillset that could only be gained to an acceptable level by consistent and committed experience in the organisation over an extended period of time.
+
+Radio Monash members voted 47 for and 26 against special resolution 1. Despite the majority for, a special resolution requires no less than 75% of votes in favour to pass and hence this special resolution failed. So the waiting period remained at 10 business days. This means that by any measure, the notice which gave 21 days did so incorrectly, which may impact the validity of the  meeting and elections.
+
+The second special resolution proposed another ten amendments, including:
+- Introducing life membership.
+- Defining in greater detail the responsibilities of senior office bearers, including the President.
+- Banning MSA office bearers and those receiving an honorarium from the MSA from the committee.
+
+Controversy lay in a subclause requiring that "when the President is acting as a member of the Monash Student Council their overriding legal duty is to act in the best interests of MSA, rather than [Radio Monash]." The outgoing President indicated that this subclause was inserted by legal against their wishes, and that this legal duty was current even without being explicitly specified in the Constitution. Additionally, the Constitution still contained the option to exercise its autonomy by leaving the MSA to become independent again if the MSC made decisions damaging to Radio Monash.
+
+With dissension over the legal duty passage threatening to sink the second special resolution and derail the imminent elections, the clause was removed from the amendments that were put to a vote in order to seek further legal advice. The second special resolution passed unanimously without the offending subclause. The first special resolution defeated and the second passed, next to come were the elections.
+
+The entire committee had been spilled and all positions were supposed to face elections. The MSA, controlled by the Together ticket which is led by the Labor Right, and its legal team blocked this plan. Only the President and the Vice President could be elected. So the intention from the Radio Monash establishment was to anoint its pre-determined nominees who were active members of the Radio Monash committee - again, parallels with the typical procedure observed by many C&S clubs.
+
+The plan would face an obstacle in members of the Monash ALP (Labor) Club (the campus club of the Labor Left faction of the Labor Party). For both positions of President and Vice President, two candidates (the same two) running against the establishment candidates were members of the Labor Party and seconded by the Labor Club President.
+
+Members of the Labor Party, including a figure of the Monash Labor Unity Club (the Labor Right club), controlled at least 22 votes combined, most of them proxy votes. If Radio Monash were an ordinary club struggling to make the quorum of 25 attendees, Labor members would have had control of the meeting. However, quorum was easily achieved with 73 votes attending in total, making Labor members the minority.
+
+Most attention was drawn to the first Labor Left candidate for President to speak, who attacked the Radio Monash establishment for failing to modernise and convincingly pivot to the internet and podcasting. They accused the committee of becoming a "clique" and "in-group", unwelcoming to outsiders, alongside with calls for more journalism (there was no indication of this meaning music journalism) and activism against the University's arts cuts. The candidate admitted to not being involved with Radio Monash since entering Monash University, but claimed that regular members had asked them to run for the Presidency. After speeches concluded, the extensive questioning of this candidate suggests that other attendees viewed their candidacy as illegitimate and lacking actual understanding of Radio Monash's activities (for example, podcasts having been already adopted).
+
+The vote was conducted as a single-vote first-past-the-post ballot, with the result that the establishment nominee defeated both outsider candidates to become President. Following this failure, both Labor Left candidates withdrew from the race for Vice President recognising they were unlikely to win, and the establishment nominee won the position unopposed.
+
+With the Labor insurgency overcome, but not really a successful SGM overall, the newly elected committee comprised two members from the previous committee. Given a special resolution failed, legal questions remain unresolved and an almost empty new committee, there must be further developments to come before this episode concludes.
 
 ### NOTICE of SGM for Radio Monash
 
