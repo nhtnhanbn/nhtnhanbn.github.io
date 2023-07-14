@@ -95,6 +95,43 @@ Throughout its run, the *Ubique Underground* and students associated with its pu
 
 The legacy of the *Ubique Underground* is immortalised not only in the text of the Victorian Hansard, but also in the pursuit of truth championed by a modern *ubique* that always vigorously and faithfully challenges and questions the systems under which we study, learn and become citizens of the future.
 
+#### 2
+
+The student protest movement manifested “above ground” in the secondary student union movement, which spread throughout Australia but was “strongest” and longest lasting in Victoria. Secondary student unions formed in Victoria, New South Wales, South Australia, Western Australia, Queensland and the ACT. The tertiary Australian Union of Students (predecessor to the NUS) at the time had an official policy to support the formation of secondary student unions. Of the unions that sprouted, only the Victorian Secondary Students Union lasted for more than a few years.
+
+Funding was predominantly from memberships and events hosted by the VSSU (the hostile Liberal government meant government funding was out of the question although the crossbench Country Party was at least amenable to school-based student voice). Material and advisory support was provided by the Australian Union of Students and the University of Melbourne SRC, particularly use of the SRC’s office equipment such as typewriters, stencils and printers.
+
+At its peak, VSSU membership numbered over 1000 from more than 160 schools across Victoria.  The membership fee was 50c in 1970. Membership gave the right to vote at the VSSU’s weekly meetings at the University of Melbourne Union House, as well as access to discounts at many shops in the city. The VSSU also distributed its newspaper Catharsis, which was supposed to be another funding stream but often failed to be profitable, on an irregular schedule through a network of in-school distributor and city bookshops. This was a difficult task, since most members could not drive and the cost of postage was prohibitive.
+
+The union’s activities included:
+-	Organising social events
+-	Publishing its monthly newsletter and Catharsis
+-	Intervening in individual suspension cases
+-	Organising activist events, for example learn-ins and the May 1972 Melbourne school strike
+-	Resource centre and information exchange
+-	Producing VSSU branded badges
+
+There was also a Bill of Rights proposed, the rights including (at various times):
+-	Freedom of expression
+-	Freedom of appearance
+-	Student/staff control of discipline
+-	No corporal punishment
+-	Freedom of association
+-	End inequality in education
+-	No discrimination
+-	Democratic control of schools
+-	Community access to school facilities
+
+The VSSU attributed its relatively long life, where several earlier activist groups such as Students in Dissent had folded, to its apolitical nature:
+
+*“The VSSU has always been non-political, and we believe that this is necessary if the Union is to appeal to the whole student population whatever their political beliefs.”*
+
+However, it experienced long-term internal tension between the status quo of a centralised structure effectively run by a relatively static core of cadres (“Fuehrers”) and a current for decentralisation towards each school running its own campaigns and using the VSSU primarily as a connect and resource centre. The reliance on a few active members, with limited turnover, meant that the VSSU struggled to continue when its generation of leaders graduated or otherwise became occupied. Its stance of “cooperation, not militancy”, which led it to reject endorsing the September 1972 national school strike, compounded the continuous funding challenges and recruitment issues for a largely apathetic (and where enthusiastic still practically inactive) membership, and meant that a new generation of leaders failed to immediately emerge.
+
+So the VSSU folded.
+
+*It is not the same as a new outfit branding itself as a Victorian Secondary Students Union on social media.*
+
 ### Documents
 
 - [Summary of the Ubique Underground episode](https://ubique.squarespace.com/article/ghosts-of-uni-highs-past-pt6) (Mason Johns in *ubique*)
