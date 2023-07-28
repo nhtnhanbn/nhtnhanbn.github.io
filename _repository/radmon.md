@@ -3,7 +3,7 @@ permalink: /radmon
 title: Radio Monash SGM 7/2023
 ---
 
-Page last updated 10/7/2023.
+Page last updated 28/7/2023.
 
 ## Radio Monash Special General Meeting July 2023
 
@@ -87,15 +87,21 @@ With dissension over the legal duty passage threatening to sink the second speci
 
 The entire committee had been spilled and all positions were supposed to face elections. The MSA, controlled by the Together ticket which is led by the Labor Right, and its legal team blocked this plan. Only the President and the Vice President could be elected. So the intention from the Radio Monash establishment was to anoint its pre-determined nominees who were active members of the Radio Monash committee - again, parallels with the typical procedure observed by many C&S clubs.
 
-The plan would face an obstacle in members of the Monash ALP (Labor) Club (the campus club of the Labor Left faction of the Labor Party). For both positions of President and Vice President, two candidates (the same two) running against the establishment candidates were members of the Labor Party and seconded by the Labor Club President.
+The plan would face an obstacle in members of the Monash ALP (Labor) Club (the campus club of the Labor Left faction of the Labor Party). For both positions of President and Vice President, two candidates (the same two) running against the establishment candidates were members of the Labor Club and seconded by the Labor Club President.
 
-Members of the Labor Party, including a figure of the Monash Labor Unity Club (the Labor Right club), controlled at least 22 votes combined, most of them proxy votes. If Radio Monash were an ordinary club struggling to make the quorum of 25 attendees, Labor members would have had control of the meeting. However, quorum was easily achieved with 73 votes attending in total, making Labor members the minority.
+The Labor Club controlled at least 22 votes combined, most of them proxy votes. If Radio Monash were an ordinary club struggling to make the quorum of 25 attendees, Labor Left members would have had control of the meeting. However, quorum was easily achieved with 73 votes attending in total, placing the Labor Left in the minority.
 
 Most attention was drawn to the first Labor Left candidate for President to speak, who attacked the Radio Monash establishment for failing to modernise and convincingly pivot to the internet and podcasting. They accused the committee of becoming a "clique" and "in-group", unwelcoming to outsiders, alongside with calls for more journalism (there was no indication of this meaning music journalism) and activism against the University's arts cuts. The candidate admitted to not being involved with Radio Monash since entering Monash University, but claimed that regular members had asked them to run for the Presidency. After speeches concluded, the extensive questioning of this candidate suggests that other attendees viewed their candidacy as illegitimate and lacking actual understanding of Radio Monash's activities (for example, podcasts having been already adopted).
 
 The vote was conducted as a single-vote first-past-the-post ballot, with the result that the establishment nominee defeated both outsider candidates to become President. Following this failure, both Labor Left candidates withdrew from the race for Vice President recognising they were unlikely to win, and the establishment nominee won the position unopposed.
 
-With the Labor insurgency overcome, but not really a successful SGM overall, the newly elected committee comprised two members from the previous committee. Given a special resolution failed, legal questions remain unresolved and an almost empty new committee, there must be further developments to come before this episode concludes.
+With the Labor Left insurgency overcome, but not really a successful SGM overall, the newly elected committee comprised two members from the previous committee. Given a special resolution failed, legal questions remain unresolved and an almost empty new committee, there must be further developments to come before this episode concludes.
+
+### Fascinating footnote
+
+*Filed 28/7/2023.*
+
+A senior member of the outgoing committee, who was appointed by the MSA, has been a senior member of the Victorian Young Labor Left.
 
 ### NOTICE of SGM for Radio Monash
 
@@ -157,7 +163,6 @@ The following link can be used to nominate yourself or others for a committee po
 
 ### Documents
 
-- [Unconfirmed SGM minutes](https://drive.google.com/file/d/1L4nXUELmxuO-ypn5IFKsan3w1oGOhE-B/view?usp=sharing)
 - [Radio Monash Constitution before SGM](https://drive.google.com/file/d/1iZIY7iKsv87BARZOpylRU7nkJkXZVe_i/view?usp=sharing)
 - [SGM Special Resolution 1](https://drive.google.com/file/d/1gtZqAbRM3Y_0zlubQjksVb1ax0n-SqQC/view?usp=sharing)
 - [SGM Special Resolution 2 unamended](https://drive.google.com/file/d/15vUu1GyXKBvT42Rl3A_GBuH-qmueWOFm/view?usp=sharing)
