@@ -3,7 +3,7 @@ permalink: /msa
 title: Together's Monash Student Association
 ---
 
-Page last updated 26/6/2023.
+Page last updated 1/9/2023.
 
 ## State of the Monash Student Association
 
@@ -51,7 +51,7 @@ Rainbow Collective is the autonomous ticket that runs candidates for MSA Queer O
 
 Lot's Wife is the MSA student paper. Lot's Wife editors are elected with the MSA elections, and candidates [generally](https://lotswife.com.au/the-case-for-independent-media) run with a ticket contesting the regular elections.
 
-### Hegomony
+### HeGOmony
 
 For over a decade, Go was the dominant faction. Aligned with the Labor Left, Go's opposition were Activate/Switch/Grassroots (closest to the Greens and linked to the Wholefoods Collective) and SAlt (Left Action/Left Hook tickets), with the Labor Right and Liberals also occasionally running. Traditionally, factions such as Go and SAlt would run feeder tickets with humorous or obfuscatory names intended to hide their alignment with a faction, but in fact sent preferences towards the faction's main ticket.
 
@@ -101,6 +101,8 @@ Vote totals based on presidential votes, booklet covers when presidency unoppose
 
 The dominance of tickets, and especially Together in modern times, means that students who genuinely want to represent and make life better for the Monash community have practically no option but to run on the Together ticket. Thus, students who appear on the Together ticket and also show up in other (including apolitical) representative positions should not be taken to be intending to be part of a Labor Right takeover conspiracy, but might as well just be the sort of person who tends to go for representative or leadership roles.
 
+In 2017, a member of the Socialist Alternative [commented](https://redflag.org.au/node/6030) that "Turning the MSA over to the right will be the one lasting political legacy of the Grassroots at Monash." By 2023, Grassroots appears to have collapsed as a group. Its historical powerbase the Wholefoods Collective is struggling to recruit and keep volunteers, an existential challenge.
+
 The 2022 election results mean that the MSC is dominated almost entirely by Together members. [MSC minutes](https://msa.monash.edu/governance) indicate that all motions in recent times pass unanimously.
 
 The Facebook group Monash StalkerSpace around May 2023 saw a series of Anonymous posts criticising Together's MSA. These included over its 2022 deficit (the MSA recorded a surplus in 2021), its proposal to national media to alleviate the student housing crisis by asking staff to host students, and its event held at the time of the 3 May Monash NTEU strike.
@@ -111,9 +113,9 @@ Together has been supported by leaders from a range of clubs, including some of 
 
 Nevertheless, the presidencies of some prominent clubs, including the largest Monash club, are controlled by the Labor Left.
 
-C&S is a division of the MSA, governed by presidents of its affiliated clubs. C&S Officers and Executive are elected by these presidents, independently of the MSA. At least 6 of the 9 2023 C&S Office Bearers, including 3 of the "top 4" positions, have also been elected to the MSA on the Together ticket.
+C&S is a division of the MSA, governed by presidents of its affiliated clubs. C&S Officers and Executive are elected by these presidents, independently of the MSA. At least 6 of the 9 2023 C&S Office Bearers, including 3 of the "top 4" positions, have also been elected to the MSA on the Together ticket. Another hails from the Labor Left.
 
-The C&S Executive has the power to disaffiliate clubs, depriving them of recognition, funding and other benefits. The Socialist Alternative Club was deregistered in this way and at some point they were banned from campus entirely. In 2023, the Monash Association of Debaters, among the most successful debating societies globally and historically host of MSA election debates, was [deregistered](https://drive.google.com/file/d/18xScmWDJNxH0k3lbZ-tzZgKJ4q7YqKWe) (appeal pending). The MAD President at the time is associated with the Labor Left and had previously been elected to the MSA on a Student Voice ticket (serving alongside a 2023 C&S Office Bearer from Together among others).
+The C&S Executive has the power to disaffiliate clubs, depriving them of recognition, funding and other benefits. The Socialist Alternative Club was deregistered in this way and at some point they were banned from campus entirely. In 2023, the Monash Association of Debaters, among the most successful debating societies globally and historically host of MSA election debates, was [deregistered](https://drive.google.com/file/d/18xScmWDJNxH0k3lbZ-tzZgKJ4q7YqKWe) with no dissenting vote by the C&S Executive (overturned on appeal by the C&S Council comprising all club presidents). The MAD President at the time of the C&S Executive deregistration decision is associated with the Labor Left and had previously been elected to the MSA on a Student Voice ticket (serving alongside a 2023 C&S Office Bearer from Together among others).
 
 ### Documents
 
