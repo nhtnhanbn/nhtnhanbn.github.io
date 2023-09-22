@@ -168,4 +168,4 @@ The following link can be used to nominate yourself or others for a committee po
 - [SGM Special Resolution 2 unamended](https://drive.google.com/file/d/15vUu1GyXKBvT42Rl3A_GBuH-qmueWOFm/view?usp=sharing)
 
 ### See also
-- [State of the Monash Student Association](/msa)
+- [The Monash Series](/msa)

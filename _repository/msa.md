@@ -1,9 +1,15 @@
 ---
 permalink: /msa
-title: Together's Monash Student Association
+title: The Monash Series
 ---
 
 Page last updated 1/9/2023.
+
+### The Monash Series
+
+- [Radio Monash Special General Meeting July 2023](/radmon)
+- [WIRED (Faculty of Information Technology Society) Annual General Meeting September 2023](/wired)
+- [2023 elections of the Monash Student Association](/msa23)
 
 ## State of the Monash Student Association
 
@@ -79,7 +85,7 @@ Yet again, Together won all office bearer positions, although Student Voice mana
 
 The 2021 election was marred by controversy as the Together-controlled MSC passed election regulations banning ["campaigning on campus" and "promotional material" on campus](https://www.mojonews.com.au/politics/monash-students-declare-attack-on-democracy-in-student-elections). This sparked the Defend Democracy at Monash campaign, culminating in a Student General Meeting despite [MSA executive opposition](https://www.mojonews.com.au/politics/monash-students-silenced-as-student-council-bins-campaigning-petition-1). Student Voice ran again, with Restore Democracy at Monash (SAlt aligned) also contesting the election. Together maintained their hold on the MSA, locking out all other tickets from office bearer positions.
 
-Together was practically unopposed in the 2022 MSA election. It is in fact too easy to list the positions they did not take: independent Indigenous Officer (unopposed), Rainbow Collective Queer Officers (unopposed), independent Women's Affairs Committee member (contested), independent Activities Advisory Committee member (contested), independent People of Colour Committee member (contested), independent NUS delegate (contested). Climate Action (SAlt aligned) did contest, but won nothing. Notable is that a "Grassroots" ticket which ran no candidates was registered by a Labor Right member, practically blocking any genuine Grassroots ticket from running under that name.
+Together was practically unopposed in the 2022 MSA election. It is in fact too easy to list the positions they did not take: independent Indigenous Officer (unopposed), Rainbow Collective Queer Officers (unopposed), independent Women's Affairs Committee member (contested), independent Activities Advisory Committee member (contested), independent People of Colour Committee member (contested), independent NUS delegate (contested). Climate Action/Climate Justice (SAlt aligned) did contest, but won nothing. Notable is that a "Grassroots" ticket which ran no candidates was registered by a Labor Right member, practically blocking any genuine Grassroots ticket from running under that name.
 
 ### Charts
 
@@ -134,4 +140,5 @@ The C&S Executive has the power to disaffiliate clubs, depriving them of recogni
 - [2022 MSA Election Regulations](https://msa.monash.edu/app/uploads/2022/08/2022-MSA-Election-Regulations.pdf)
 
 ### See also
+
 - [Death of the Melbourne University Student Union Incorporated](/musu)
