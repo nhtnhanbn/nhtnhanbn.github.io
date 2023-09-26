@@ -3,7 +3,7 @@ permalink: /msa23
 title: 2023 elections of the Monash Student Association
 ---
 
-Page last updated 22/9/2023.
+Page last updated 26/9/2023.
 
 ## 2023 elections of the Monash Student Association
 
@@ -48,6 +48,10 @@ In August, the Together-controlled Monash Student Council unanimously passed 5 c
 - "Blocking doors, lifts, stairways and the pathway of students with disabilities, whether or not they utilise mobility devices." is now prohibited conduct.
 - "Do Not Approach" badge that "students with disabilities can wear should they require the accommodation of not being approached by campaigners during election week due to the detrimental physical, mental and emotional consequences suffered".
 - Requiring the digital ballot be compatible with screen readers.
+
+### Update 26/9/2023 - shock resignation rocks the adult Labor Left - 13 days until polls open
+
+The most senior member of the Victorian Labor Left, and the Victorian Labor Party, announced their unexpected resignation today. Over the next few days, the Labor factions will jostle and negotiate for their replacement and other senior positions.
 
 ### Documents
 
