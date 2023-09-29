@@ -3,7 +3,7 @@ permalink: /radmon
 title: Radio Monash SGM 7/2023
 ---
 
-Page last updated 28/7/2023.
+Page last updated 29/9/2023.
 
 ## Radio Monash Special General Meeting July 2023
 
@@ -89,7 +89,7 @@ The entire committee had been spilled and all positions were supposed to face el
 
 The plan would face an obstacle in members of the Monash ALP (Labor) Club (the campus club of the Labor Left faction of the Labor Party). For both positions of President and Vice President, two candidates (the same two) running against the establishment candidates were members of the Labor Club and seconded by the Labor Club President.
 
-The Labor Club controlled at least 22 votes combined, most of them proxy votes. If Radio Monash were an ordinary club struggling to make the quorum of 25 attendees, Labor Left members would have had control of the meeting. However, quorum was easily achieved with 73 votes attending in total, placing the Labor Left in the minority.
+The Labor Club controlled at least 22 votes combined (*update 29/9/2023 - I now believe that this number is 25 votes*), most of them proxy votes. If Radio Monash were an ordinary club struggling to make the quorum of 25 attendees, Labor Left members would have had control of the meeting. However, quorum was easily achieved with 73 votes attending in total, placing the Labor Left in the minority.
 
 Most attention was drawn to the first Labor Left candidate for President to speak, who attacked the Radio Monash establishment for failing to modernise and convincingly pivot to the internet and podcasting. They accused the committee of becoming a "clique" and "in-group", unwelcoming to outsiders, alongside with calls for more journalism (there was no indication of this meaning music journalism) and activism against the University's arts cuts. The candidate admitted to not being involved with Radio Monash since entering Monash University, but claimed that regular members had asked them to run for the Presidency. After speeches concluded, the extensive questioning of this candidate suggests that other attendees viewed their candidacy as illegitimate and lacking actual understanding of Radio Monash's activities (for example, podcasts having been already adopted).
 
@@ -102,6 +102,10 @@ With the Labor Left insurgency overcome, but not really a successful SGM overall
 *Filed 28/7/2023.*
 
 A senior member of the outgoing committee, who was appointed by the MSA, has been a senior member of the Victorian Young Labor Left.
+
+### Update 29/9/2023 - the 2023 MSA election connection
+
+6 candidates for the Change ticket at the 2023 MSA elections were in attendance at this meeting - most of them held several proxy votes, all of them were participants in the stack (perhaps at most one was unintentionally so). Of the proxies, many of them were proxied from Change candidates.
 
 ### NOTICE of SGM for Radio Monash
 
