@@ -17,7 +17,7 @@ See the background post on the [State of the Monash Student Association](/msa).
 
 *Updated 29/9/2023 based on finalised notice of nominations posted by MSA. Nominations ruled ineligible are excluded.*
 
-Three tickets have nominated candidates for the 2023 MSA election: Together, CHANGE!, Social Justice.
+Three tickets have nominated candidates for the 2023 MSA election: Together, CHANGE!, Social Justice. All three nominated enough unique candidates to qualify for the voting booklet cover.
 
 Together, the incumbent ticket since the 2017 election, nominated 127 candidates. The Labor Right participates in this ticket.
 
@@ -53,9 +53,11 @@ In August, the Together-controlled Monash Student Council unanimously passed 5 c
 
 The most senior member of the Victorian Labor Left, and the Victorian Labor Party, announced their unexpected resignation today. Over the next few days, the Labor factions will jostle and negotiate for their replacement and other senior positions.
 
-### Update 29/9/2023 - nominations confirmed - 10 days until polls open
+### Update 29/9/2023 - nominations confirmed and Election Guide released - 10 days until polls open
 
 Nominations have been finalised. The **Who is running?** section above has been updated. 3 Change, 7 Social Justice (including their Authorised Officer), 7 Together, and the independent Indigenous Officer candidate's nominations were ruled ineligible for a variety of reasons. Last year, Together had only 1 invalid nomination despite more nominations in total, so they are a bit less tight this year.
+
+The [Election Guide](https://www.yumpu.com/en/document/read/68458888/msa-election-guide-2023) has been released, containing statements from all candidates (who submitted one).
 
 ### Update 29/9/2023 - student politician enters adult election - 10 days until polls open
 
@@ -64,6 +66,7 @@ Following the resignation of the most senior member of the Victorian Labor Left 
 ### Documents
 
 - [All official MSA election documents](https://msa.monash.edu/elections)
+- [2023 MSA Election Guide](https://www.yumpu.com/en/document/read/68458888/msa-election-guide-2023)
 - [2023 Election Regulations changes](https://docs.google.com/document/d/179EVEMkXy_XXNNwHGQY-06_rqdXst7QEQl4DRSXRXk8/edit)
 
 ### See also
