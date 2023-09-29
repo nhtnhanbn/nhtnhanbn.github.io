@@ -3,7 +3,7 @@ permalink: /msa23
 title: 2023 elections of the Monash Student Association
 ---
 
-Page last updated 26/9/2023.
+Page last updated 29/9/2023.
 
 ## 2023 elections of the Monash Student Association
 
@@ -15,7 +15,7 @@ See the background post on the [State of the Monash Student Association](/msa).
 
 ### Who is running?
 
-*Based on provisional notice of nominations posted by MSA 21/9/2023. As nominations provisionally ruled ineligible might end up valid, I am considering them as nominations for now.*
+*Updated 29/9/2023 based on finalised notice of nominations posted by MSA. Nominations ruled ineligible are excluded.*
 
 Three tickets have nominated candidates for the 2023 MSA election: Together, CHANGE!, Social Justice.
 
@@ -25,7 +25,7 @@ CHANGE!, renamed from the pandemic-era Student Voice ticket which did not contes
 
 Social Justice, the latest manifestation of the perennially unsuccessful Socialist Alternative ticket, nominated 73 candidates, up from 5 Climate Action/Climate Justice candidates in 2022. Their platform is the explicitly left wing and activist one typical of Socialist Alternative student tickets.
 
-Only Together nominated candidates for the Mental Health and Resilience Committee, so they will be elected unopposed. Indigenous Officer will be contested by Change and an independent. Disabilities and Carers Officer will be contested by Together and Change.
+Only Together nominated candidates for the Mental Health and Resilience Committee, so they have been elected unopposed. Only Change nominated a candidate for Indigenous Officer so they have been elected unopposed. Disabilities and Carers Officer will be contested by Together and Change.
 
 Queer Officer will be contested by Social Justice and independents. Incumbent ticket the Rainbow Collective, traditionally winning Queer Officer unopposed, did not register or hold preselections this year. However, an incumbent Queer Officer elected as Rainbow Collective candidate in 2022 has nominated again.
 
@@ -52,6 +52,14 @@ In August, the Together-controlled Monash Student Council unanimously passed 5 c
 ### Update 26/9/2023 - shock resignation rocks the adult Labor Left - 13 days until polls open
 
 The most senior member of the Victorian Labor Left, and the Victorian Labor Party, announced their unexpected resignation today. Over the next few days, the Labor factions will jostle and negotiate for their replacement and other senior positions.
+
+### Update 29/9/2023 - nominations confirmed - 10 days until polls open
+
+Nominations have been finalised. The **Who is running?** section above has been updated. 3 Change, 7 Social Justice (including their Authorised Officer), 7 Together, and the independent Indigenous Officer candidate's nominations were ruled ineligible for a variety of reasons. Last year, Together had only 1 invalid nomination despite more nominations in total, so they are a bit less tight this year.
+
+### Update 29/9/2023 - student politician enters adult election - 10 days until polls open
+
+Following the resignation of the most senior member of the Victorian Labor Left from the Victorian Parliament, a by-election will be held to determine their replacement. The Victorian Socialists candidate in the by-election has also nominated for NUS Delegate, Queer Officer and Student Welfare Committee on the Social Justice ticket in the 2023 MSA elections. This individual was previously elected NUS Delegate in 2021 on the Restore Democracy at Monash ticket, came 3rd of 4 candidates on primary vote for President in 2020 on the Student Fightback – Climate Action ticket, and lost elections in 2019 on the Climate Action ticket and in 2018 on the Left Action ticket.
 
 ### Documents
 
