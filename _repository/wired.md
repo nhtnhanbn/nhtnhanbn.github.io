@@ -3,13 +3,15 @@ permalink: /wired
 title: WIRED AGM 9/2023
 ---
 
-Page last updated 22/9/2023.
+Page last updated 30/9/2023.
 
 ## WIRED (Faculty of Information Technology Society) Annual General Meeting September 2023
 
 Disclaimer: no guarantees of factual accuracy. Some claims are based on best evidence.
 
 I recall that when I was a secondary student, well before I had made the decision to attend Monash University, for some reason I held the notion that WIRED, the official Faculty of IT Society, was dead. Where I heard or inferred it from I could not tell you, but it turned out to be accurate at the time. Perhaps it was simply my omniscient intuition. Having clubs that were active was an important part of my decision process, but since there were alternatives that were definitely very much alive, I went with Monash anyway.
+
+The WIRED story is a story of how in the space of a single year, a moribund faculty society with double-digit membership and not even a committee was transformed into the largest club at Monash University and a political battleground front for the most fiercely contested MSA elections in years.
 
 ### Getting here
 

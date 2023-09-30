@@ -63,6 +63,16 @@ The [Election Guide](https://www.yumpu.com/en/document/read/68458888/msa-electio
 
 Following the resignation of the most senior member of the Victorian Labor Left from the Victorian Parliament, a by-election will be held to determine their replacement. The Victorian Socialists candidate in the by-election has also nominated for NUS Delegate, Queer Officer and Student Welfare Committee on the Social Justice ticket in the 2023 MSA elections. This individual was previously elected NUS Delegate in 2021 on the Restore Democracy at Monash ticket, came 3rd of 4 candidates on primary vote for President in 2020 on the Student Fightback – Climate Action ticket, and lost elections in 2019 on the Climate Action ticket and in 2018 on the Left Action ticket.
 
+### Update 30/9/2023 - Rainbow Collective is indeed running, and Together are faceless - 9 days until polls open
+
+In their joint candidate statement published in the Election Guide, the independent nominees for Queer Officer claim to be Rainbow Collective candidates. It is not clear what preselection process Rainbow Collective undertook.
+
+Meanwhile, whilst almost all other officer candidates submitted a photo of themselves for the Election Guide, Together submitted none. Not even Together's President, Secretary and Treasurer candidate statements have faces to them.
+
+### Update 30/9/2023 - MSA candidate previously disqualified from MGA election - 9 days until polls open
+
+The elections for the Executive Committee of the Monash Graduate Association were held earlier in 2023. 2 candidates were [excluded](http://mga.monash.edu/wp-content/uploads/2023/08/2023-2024-MGAEC-Elections_Returning-Officer-Report-Public.pdf) by the returning officer for serious prohibited conduct breaching Election Regulations. One of these disqualified candidates is running for MSA Creative and Live Arts Officer on the Change ticket.
+
 ### Documents
 
 - [All official MSA election documents](https://msa.monash.edu/elections)

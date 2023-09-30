@@ -3,7 +3,7 @@ permalink: /radmon
 title: Radio Monash SGM 7/2023
 ---
 
-Page last updated 29/9/2023.
+Page last updated 30/9/2023.
 
 ## Radio Monash Special General Meeting July 2023
 
@@ -106,6 +106,11 @@ A senior member of the outgoing committee, who was appointed by the MSA, has bee
 ### Update 29/9/2023 - the 2023 MSA election connection
 
 6 candidates for the Change ticket at the 2023 MSA elections were in attendance at this meeting - most of them held several proxy votes, all of them were participants in the stack (perhaps at most one was unintentionally so). Of the proxies, many of them were proxied from Change candidates.
+
+
+### Update 30/9/2023 - vote count for President
+
+In the election for President, the establishment candidate received 45 votes, and the Labor Left candidates received 25 votes and 0 votes. 25 is the number of votes that the Labor Left controlled in my analysis.
 
 ### NOTICE of SGM for Radio Monash
 
