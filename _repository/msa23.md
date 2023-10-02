@@ -3,7 +3,7 @@ permalink: /msa23
 title: 2023 elections of the Monash Student Association
 ---
 
-Page last updated 29/9/2023.
+Page last updated 2/10/2023.
 
 ## 2023 elections of the Monash Student Association
 
@@ -23,7 +23,7 @@ Together, the incumbent ticket since the 2017 election, nominated 127 candidates
 
 CHANGE!, renamed from the pandemic-era Student Voice ticket which did not contest the 2022 elections last year, nominated 74 candidates. This ticket is led and organised by the Labor Left. Their platform calls for greater advocacy, and seems to be pitched broadly towards those seeking "change" from Together running MSA.
 
-Social Justice, the latest manifestation of the perennially unsuccessful Socialist Alternative ticket, nominated 73 candidates, up from 5 Climate Action/Climate Justice candidates in 2022. Their platform is the explicitly left wing and activist one typical of Socialist Alternative student tickets.
+Social Justice, the latest manifestation of the perennially unsuccessful Socialist Alternative-led ticket, nominated 73 candidates, up from 5 Climate Action/Climate Justice candidates in 2022. Their platform is the explicitly left wing and activist one typical of Socialist Alternative student tickets.
 
 Only Together nominated candidates for the Mental Health and Resilience Committee, so they have been elected unopposed. Only Change nominated a candidate for Indigenous Officer so they have been elected unopposed. Disabilities and Carers Officer will be contested by Together and Change.
 
@@ -72,6 +72,34 @@ Meanwhile, whilst almost all other officer candidates submitted a photo of thems
 ### Update 30/9/2023 - MSA candidate previously disqualified from MGA election - 9 days until polls open
 
 The elections for the Executive Committee of the Monash Graduate Association were held earlier in 2023. 2 candidates were [excluded](http://mga.monash.edu/wp-content/uploads/2023/08/2023-2024-MGAEC-Elections_Returning-Officer-Report-Public.pdf) by the returning officer for serious prohibited conduct breaching Election Regulations. One of these disqualified candidates is running for MSA Creative and Live Arts Officer on the Change ticket.
+
+### Update 1/10/2023 - Rainbow Collective comment on Social Justice - 8 days until polls open
+
+Rainbow Collective claims that their candidates were "elected from, by and for Queer Students". This year, they did not call for public nominations, so perhaps this was an internal Queer Department preselection. Core to their pitch this year is the autonomy of the Queer Department, separated from regular student politics.
+
+According to the Rainbow Collective, "this year the Monash Socialists (under the party name Social Justice) have opportunistically decided to run two candidates who are unknown to the Queer Department".
+
+### Update 1/10/2023 - who could not be bothered to submit a candidate statement? - 8 days until polls open
+
+Together, not content with just being faceless, can also claim fewest candidate statements submitted. Together did not submit a statement for any MSA Committees and NUS Delegates. The Together candidate for Secretary exceeded the word count.
+
+Change was most disciplined, submitting statements for every contested position. Social Justice did not submit a statement for MSC General Representatives and Creative and Live Arts Committee. The independent candidate for Education (Academic Affairs) Officer did not submit a statement.
+
+In 2022, Together like this year submitted no statements for MSA Committees and NUS delegates, and no photos at all. In 2022, unlike this year, the MSA elections were practically uncontested.
+
+Candidate statements and photos were due before the ballot draw and before nominations were made public. Were Together really that complacent? Did they think they would have it as easy as last year? They should not have been - members of the Labor Right previously predicted that the Labor Left would mount a credible challenge, there were several instances of public dissatisfaction with the Together-controlled MSA's conduct this year, and one imagines that during candidate recruitment there would have been signs of opposition ticket formation.
+
+### Update 2/10/2023 - Social Justice reset - 7 days until polls open
+
+Following their campaign launch on Sunday 1/10/2023, Social Justice has deleted all their Facebook posts. Today, they have reposted the announcement of their candidate for MSA President, coinciding with a flood of posts from Social Justice candidates. The presidential candidate attacked Together's MSA as "a boring internship program for Labor party beauracrats".
+
+I had initially assumed that Social Justice was an exclusively Socialist Alternative (Monash Socialists) ticket. Whilst most candidates are indeed Socialist Alternative members, my assumption was not correct. Members of the Greens are split between at least the Change and Social Justice tickets.
+
+### Update 2/10/2023 - NTEU to strike in election week - 7 days until polls open
+
+As part of their ongoing dispute with Monash University management, the National Tertiary Education Union's Monash branch will strike from 12:00pm Monday 9 October to 11:59am Wednesday 11 October. MSA election polling, available online and at voting booths on the Clayton campus, will be open from 9:00am Monday 9 October to 5:00pm Thursday 12 October.
+
+It will be interesting to see how the strike will affect Social Justice's ground game. Socialist Alternative, the group behind Monash Students Support Staff Strikes, would be expected to participate in the demonstrations and pickets, and this may reduce the number available to campaign particularly as picketing moves to the Caulfield campus on the Wednesday. Those more inclined to suggest conspiracy might suggest that the timing is not a coincidence.
 
 ### Documents
 
