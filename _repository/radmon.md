@@ -3,7 +3,7 @@ permalink: /radmon
 title: Radio Monash SGM 7/2023
 ---
 
-Page last updated 30/9/2023.
+Page last updated 2/10/2023.
 
 ## Radio Monash Special General Meeting July 2023
 
@@ -111,6 +111,12 @@ A senior member of the outgoing committee, who was appointed by the MSA, has bee
 ### Update 30/9/2023 - vote count for President
 
 In the election for President, the establishment candidate received 45 votes, and the Labor Left candidates received 25 votes and 0 votes. 25 is the number of votes that the Labor Left controlled in my analysis.
+
+### Annual General Meeting
+
+Radio Monash will have an Annual General Meeting in October 2023. All committee positions will be up for election. Special resolution 1 from the SGM, which failed due to a minority 26 dissenting votes, returns but this time split. The proposed amendements to increase the voting rights waiting period for members from 10 business days to 21 days (the most controversial part) and to reduce quorum from 25 to 20 members are now in a separate special resolution.
+
+I missed this previously, but the President of Radio Monash receives a monetary honorarium ($6,000 p/a) from the MSA.
 
 ### NOTICE of SGM for Radio Monash
 
