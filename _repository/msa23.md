@@ -101,6 +101,16 @@ As part of their ongoing dispute with Monash University management, the National
 
 It will be interesting to see how the strike will affect Social Justice's ground game. Socialist Alternative, the group behind Monash Students Support Staff Strikes, would be expected to participate in the demonstrations and pickets, and this may reduce the number available to campaign particularly as picketing moves to the Caulfield campus on the Wednesday. Those more inclined to suggest conspiracy might suggest that the timing is not a coincidence.
 
+### Update 4/10/2023 - student Voice - 5 days until polls open
+
+Today, the Liberal Club ran a stall advocating a No vote in the upcoming referendum, since "as many of you can attest to, it is not easy to find any opposing views on the Voice on campus". The stall was held right outside the Menzies Building (which is also a common meeting place for the Monash Socialists) on a major pedestrian thoroughfare. Unsurprisingly, socialists picked a fight with the Liberals.
+
+The Socialist Alternative, while initially reluctant to support Yes, eventually did so despite its reservations primarily since it saw the No campaign as dominated by racism.
+
+The referendum is to be held the Saturday following MSA election week, with election week overlapping with referendum pre-poll. When I wrote that the staff strike would likely distract the Socialists from MSA election campaigning, I did consider whether Labor members and sympathisers in the Change and Together tickets would also be drawn away from campaigning by referendum pre-poll volunteering or even the NTEU strike too. My assessment was that Labor students were likely to be less tightly committed to Voice campaigning (remember that Change dropped the Student Voice label this year) than to the MSA election, and less compared to the Socialists' commitment to the strike. Local Yes campaign organisers have confirmed to me that they have found it difficult to find sufficient numbers of volunteers to staff pre-poll, since one of their major pools in Labor-aligned university students have decided that MSA elections are more important than a permanent constitutional amendment.
+
+In addition to the Voice referendum, MSA election week will also overlap with many club AGMs (including possible stupol fights at [Radio Monash](/radmon) and [WIRED EGM](/wired)), the New Zealand general election on Saturday, and plenty of Week 11 assignment deadlines.
+
 ### Documents
 
 - [All official MSA election documents](https://msa.monash.edu/elections)
