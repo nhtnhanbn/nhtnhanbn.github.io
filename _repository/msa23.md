@@ -3,7 +3,7 @@ permalink: /msa23
 title: 2023 elections of the Monash Student Association
 ---
 
-Page last updated 2/10/2023.
+Page last updated 5/10/2023.
 
 ## 2023 elections of the Monash Student Association
 
@@ -19,11 +19,13 @@ See the background post on the [State of the Monash Student Association](/msa).
 
 Three tickets have nominated candidates for the 2023 MSA election: Together, CHANGE!, Social Justice. All three nominated enough unique candidates to qualify for the voting booklet cover.
 
-Together, the incumbent ticket since the 2017 election, nominated 127 candidates. The Labor Right participates in this ticket.
+Together, the incumbent ticket since the 2017 election, nominated 120 candidates. The Labor Right participates in this ticket.
 
-CHANGE!, renamed from the pandemic-era Student Voice ticket which did not contest the 2022 elections last year, nominated 74 candidates. This ticket is led and organised by the Labor Left. Their platform calls for greater advocacy, and seems to be pitched broadly towards those seeking "change" from Together running MSA.
+CHANGE!, renamed from the pandemic-era Student Voice ticket which did not contest the 2022 elections last year, nominated 70 candidates. This ticket is led and organised by the Labor Left. Their platform calls for greater advocacy, and seems to be pitched broadly towards those seeking "change" from Together running MSA.
 
-Social Justice, the latest manifestation of the perennially unsuccessful Socialist Alternative-led ticket, nominated 73 candidates, up from 5 Climate Action/Climate Justice candidates in 2022. Their platform is the explicitly left wing and activist one typical of Socialist Alternative student tickets.
+Social Justice, the latest manifestation of the perennially unsuccessful Socialist Alternative-led ticket, nominated 60 candidates, up from 5 Climate Action/Climate Justice candidates in 2022. Their platform is the explicitly left wing and activist one typical of Socialist Alternative student tickets.
+
+The numbers above include candidates who nominated for multiple positions, so Together nominated fewer than 120 *unique* candidates, for example. Together nominated 7 candidates to 2 positions, and Change nominated 9 candidates to 2 positions. Social Justice nominated 8 candidates to 2 positions, 6 candidates to 3 positions, and 1 candidate to 4 positions.
 
 Only Together nominated candidates for the Mental Health and Resilience Committee, so they have been elected unopposed. Only Change nominated a candidate for Indigenous Officer so they have been elected unopposed. Disabilities and Carers Officer will be contested by Together and Change.
 
@@ -103,7 +105,7 @@ It will be interesting to see how the strike will affect Social Justice's ground
 
 ### Update 4/10/2023 - student Voice - 5 days until polls open
 
-Today, the Liberal Club ran a stall advocating a No vote in the upcoming referendum, since "as many of you can attest to, it is not easy to find any opposing views on the Voice on campus". The stall was held right outside the Menzies Building (which is also a common meeting place for the Monash Socialists) on a major pedestrian thoroughfare. Unsurprisingly, socialists picked a fight with the Liberals.
+Today, the Liberal Club ran a stall advocating a No vote in the upcoming referendum, since "as many of you can attest to, it is not easy to find any opposing views on the Voice on campus". They were joined by Senator for Victoria and Commonwealth Shadow Minister for Education Sarah Henderson. The stall was held right outside the Menzies Building (which is also a common meeting place for the Monash Socialists) on a major pedestrian thoroughfare. Unsurprisingly, socialists picked a fight with the Liberals. Simultaneously, Social Justice used this to attack "the current people in control" of the MSA, who they claim "have no interest in any sort of left wing activism whatsoever".
 
 The Socialist Alternative, while initially reluctant to support Yes, eventually did so despite its reservations primarily since it saw the No campaign as dominated by racism.
 
