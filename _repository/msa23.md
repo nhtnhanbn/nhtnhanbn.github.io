@@ -127,6 +127,18 @@ A member of the Monash Labor Club, who is not a candidate in the 2023 MSA electi
 
 ![The 2023 Residential Communities Officer and Together's candidate for 2024 MSA President reported a Stalkerspace post criticising the 2023 MSA President for encouraging tutors to house international students in national media](/files/MSA housing.png)
 
+### Update 9/10/2023 - polls open - 3 days until polls close
+
+It was a lovely, quiet morning on the Clayton campus. At 9am, all Monash Clayton students were emailed a link to cast a vote in the elections and referendum.
+
+"Our campaigners will be out in force chatting to everyone and anyone about our vision for a fighting MSA." - Social Justice
+
+Also, the NTEU strike commences at midday.
+
+### Update 9/10/2023 - Change endorses Rainbow Collective - 3 days until polls close
+
+"It's important that we keep the Queer Department autonomous and controlled by the Queer community."
+
 ### Documents
 
 - [All official MSA election documents](https://msa.monash.edu/elections)
