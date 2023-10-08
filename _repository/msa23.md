@@ -3,7 +3,7 @@ permalink: /msa23
 title: 2023 elections of the Monash Student Association
 ---
 
-Page last updated 5/10/2023.
+Page last updated 8/10/2023.
 
 ## 2023 elections of the Monash Student Association
 
@@ -112,6 +112,20 @@ The Socialist Alternative, while initially reluctant to support Yes, eventually 
 The referendum is to be held the Saturday following MSA election week, with election week overlapping with referendum pre-poll. When I wrote that the staff strike would likely distract the Socialists from MSA election campaigning, I did consider whether Labor members and sympathisers in the Change and Together tickets would also be drawn away from campaigning by referendum pre-poll volunteering or even the NTEU strike too. My assessment was that Labor students were likely to be less tightly committed to Voice campaigning (remember that Change dropped the Student Voice label this year) than to the MSA election, and less compared to the Socialists' commitment to the strike. Local Yes campaign organisers have confirmed to me that they have found it difficult to find sufficient numbers of volunteers to staff pre-poll, since one of their major pools in Labor-aligned university students have decided that MSA elections are more important than a permanent constitutional amendment.
 
 In addition to the Voice referendum, MSA election week will also overlap with many club AGMs (including possible stupol fights at [Radio Monash](/radmon) and [WIRED EGM](/wired)), the New Zealand general election on Saturday, and plenty of Week 11 assignment deadlines.
+
+### Update 7/10/2023 - adult politicians visit pre-poll - 2 days until polls open
+
+Federal and state Labor politicans Penny Wong (leader of the Government in the Senate), Carina Garland and Paul Hamer joined Yes23 volunteers at Box Hill pre-poll today. As it happened, members of the Monash Labor Club were there volunteering. How fortunate!
+
+### Update 7/10/2023 - Hamas attacks Israel - 2 days until polls open
+
+In Social Justice's original Facebook announcement post on Facebook, now deleted, Palestinian rights were a key issue. Since the attack, as far as I can tell none of the tickets have issued a statement (some student unions are known to comment and advocate on global issues). However, the Socialist Alternative, Victorian Socialists and Monash Socialists have shared statements supporting Palestine and blaming Israel.
+
+### Update 8/10/2023 - housing - 1 day until polls open
+
+A member of the Monash Labor Club, who is not a candidate in the 2023 MSA elections, posted in the Monash Stalkerspace Facebook group this afternoon a reminder of an incident from earlier in the year.
+
+![The 2023 Residential Communities Officer and Together's candidate for 2024 MSA President reported a Stalkerspace post criticising the 2023 MSA President for encouraging tutors to house international students in national media](/files/MSA housing.png)
 
 ### Documents
 
