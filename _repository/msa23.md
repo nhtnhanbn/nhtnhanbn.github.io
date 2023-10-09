@@ -3,7 +3,7 @@ permalink: /msa23
 title: 2023 elections of the Monash Student Association
 ---
 
-Page last updated 8/10/2023.
+Page last updated 9/10/2023.
 
 ## 2023 elections of the Monash Student Association
 
@@ -142,6 +142,10 @@ Also, the NTEU strike commences at midday.
 ### Update 9/10/2023 - Academic Board nominations open - 3 days until polls close
 
 It was student representatives on the Academic Board who led the Student Voice insurgency in the 2020 MSA elections. Since then, Together has run candidates for Academic Board each year. Nominations for this year's elections will close this Friday. By that point, we may know the results for the MSA elections.
+
+### Update 9/10/2023 - Liberal Club get on national television - 3 days until polls close
+
+On 6/10/2023, [Sky News](https://www.youtube.com/watch?v=nza4mQhOeFU) brought the Liberal Club Secretary on to cover the earlier 4/10/2023 incident between the Socialists and Liberals at the No stall at Monash Clayton campus.
 
 ### Documents
 
