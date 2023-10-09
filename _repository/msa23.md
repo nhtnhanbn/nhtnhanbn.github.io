@@ -139,6 +139,10 @@ Also, the NTEU strike commences at midday.
 
 "It's important that we keep the Queer Department autonomous and controlled by the Queer community."
 
+### Update 9/10/2023 - Academic Board nominations open - 3 days until polls close
+
+It was student representatives on the Academic Board who led the Student Voice insurgency in the 2020 MSA elections. Since then, Together has run candidates for Academic Board each year. Nominations for this year's elections will close this Friday. By that point, we may know the results for the MSA elections.
+
 ### Documents
 
 - [All official MSA election documents](https://msa.monash.edu/elections)
