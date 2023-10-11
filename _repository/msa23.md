@@ -159,6 +159,26 @@ Several individuals have posted to Facebook with a common statement accusing Soc
 
 This is not an update, but an ask. Which elected officers get paid an honorarium in the MSA and how much? 
 
+### Update 11/10/2023 - Social Justice and Rainbow Collective clash - 1 day until polls close
+
+New Facebook salvoes in the stoush over Queer Officer. Social Justice made the following Facebook post:
+
+> *"MAKE THE QUEER OFFICE POLITICAL, ACTIVIST, AND LEFT WING.*
+
+> *Madi Curkovic and Kelly Cvetkova [also Victorian Socialists candidate for the Mulgrave by-election] have a proven track record of fighting for queer rights. They contributed to the activist campaign to expose the transphobia of Kelly-Jay Keen, a virulent anti-trans activist. Through 2023 they have fought against the far-right, as the right have been attacking queer rights and queer events.*
+
+> *Queer rights are under attack by right wingers, nazis, and religious bigots, here in Australia and internationally. Our opponents have spent the week saying we need to keep the queer office APOLITICAL. We need the opposite - a political, activist, and left-wing queer office, ready to fight the right, and fight for queer students."*
+
+In a comment to this post, the outgoing GLEAM (Queers in STEM) President and Rainbow Collective candidate for Queer Officer made the following case:
+
+> *"Fantastic work that both of you have been doing, thank you. I'd just like to remind you all that we have clearly stated we are apolitical in student politics. Of course Queer rights are political, but not every aspect of being a Queer Officer is political. Most of it isn't. It's about being there for the queer community on a personal level, on a community level, about running events where people can be themselves, giving confidence to queer students, and fighting for them personally. As someone who is deeply involved with many different queer communities at Monash, I can tell you people want safe spaces to be able to exist and build community. Activism is critical, but only after your look after your community at home.*
+
+> *Whatever the outcome of this election, I hope we don't have to see each other as 'opponents' and can work together to support and care for the queer people on Monash to the best of our abilities."*
+
+### Update 11/10/2023 - regulations - 1 day until polls close
+
+You hear people say campaigners breached election regulations. Of course they would. And if you were a pedant, you would point out that the Returning Officer has not placed any notices relating to the election on the MSA notice-board, which is required by MSA election regulations.
+
 ### Documents
 
 - [All official MSA election documents](https://msa.monash.edu/elections)

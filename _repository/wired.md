@@ -3,7 +3,7 @@ permalink: /wired
 title: WIRED AGM 9/2023
 ---
 
-Page last updated 30/9/2023.
+Page last updated 11/10/2023.
 
 ## WIRED (Faculty of Information Technology Society) Annual General Meeting September 2023
 
@@ -41,7 +41,7 @@ The losing Presidential candidate also nominated for the Vice Presidency from th
 
 Following these elections, which required manually counting paper ballots, the attendance had largely thinned out with the meeting going an hour over time. The remainder of the elections were uncontested and uncontroversial, with several nominations being voided since the candidates were no longer present in the room.
 
-Following elections, attendees belonging to the Labor Left, a delegation which included individuals who were not voting members, moved a number of motions which all passed unanimously to request the incoming committee investigate affirmative action quotas and supporting staff in their industrial dispute with Monash University management.
+Following elections, attendees belonging to the Labor Left, a delegation which included individuals who were not voting members, instigated a number of motions which all passed unanimously to request the incoming committee investigate affirmative action quotas and supporting staff in their industrial dispute with Monash University management.
 
 ### Extraordinary.
 
@@ -58,6 +58,26 @@ Before the vote for President, ballot papers were distributed through two C&S of
 The EGM has been scheduled for the second week of October 2023. The Returning Officer will be the incoming WIRED Secretary.
 
 Returning Officers at both the 2023 AGM and EGM are candidates in the 2023 MSA elections on the Change ticket. There is no suggestion of impropriety.
+
+### EGM
+
+Less than one hour before the Extraordinary General Meeting was to start on the ground floor, WIRED members received an email informing them that the venue had changed to a room on the third floor. It did not seem to affect turnout too badly (although the effects of a sudden venue change are rarely obvious to anybody who did not instigate the move).
+
+Members needed to register by the start of the meeting (22 minutes after the notified start time), otherwise they were unable to vote. This time, neither physical voting cards nor paper ballots were issued.
+
+As the President and Vice President were vacant, the Clubs and Societies President-elect was elected to the chair unopposed. Upon acceding to the chair, they proposed that the meeting have a break for food, a suggestion immediately met with dissent from members of the Monash Cybersecurity Club (MonSec). So the meeting continued.
+
+A motion that "forbids any audio-visual recordings of this meeting except by the Secretary for minute taking purposes" passed unanimously. Not that anybody was intending to, I am sure.
+
+Constitutional amendments passed unanimously. Changes to committee composition were the addition of a General Representative and the introduction of an affirmative action requirement for at least 2 non-male identifying committee members. Affirmative action was originally proposed in a motion at the AGM in September.
+
+Ahead of the elections, the Secretary read out a list of prohibited conduct in full, and a motion to approve these passed unanimously. The elections were to be conducted using an online platform, a move away from the paper ballots of the original AGM. These measures were never needed; the opposition did not show.
+
+The declared victor for President at the AGM, seconded by outgoing MAC President, won election again. They had run a prominent turn-out-the-vote campaign, but they ended up unopposed. Likewise, the Vice President. So the results ended up the same as the AGM.
+
+There also needed to be a new General Representative elected after the constitutional amendments, and this election was also unopposed.
+
+It was a 16 minute meeting from start to finish, concluding 38 minutes after notified start time. Those who attended hoping for drama may have been disappointed. But perhaps the amazing growth of WIRED over the past year (excluding the conflict) can offer hope for a club who held their AGM the same night, and managed to elect *only* a President and Vice President - a similar story repeated across too many vital clubs. It could be any club.
 
 ### See also
 - [The Monash Series](/msa)
