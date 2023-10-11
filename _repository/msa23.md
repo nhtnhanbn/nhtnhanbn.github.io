@@ -3,7 +3,7 @@ permalink: /msa23
 title: 2023 elections of the Monash Student Association
 ---
 
-Page last updated 9/10/2023.
+Page last updated 11/10/2023.
 
 ## 2023 elections of the Monash Student Association
 
@@ -146,6 +146,18 @@ It was student representatives on the Academic Board who led the Student Voice i
 ### Update 9/10/2023 - Liberal Club get on national television - 3 days until polls close
 
 On 6/10/2023, [Sky News](https://www.youtube.com/watch?v=nza4mQhOeFU) brought the Liberal Club Secretary on to cover the earlier 4/10/2023 incident between the Socialists and Liberals at the No stall at Monash Clayton campus.
+
+### Update 10/10/2023 - Rainbow Collective and Social Justice clash - 2 days until polls close
+
+In addition to Change's endorsement, Together's how to vote also instructs voters to vote for the Rainbow Collective candidates over Social Justice for Queer Officer.
+
+As far as I can tell, there is no hard requirement (other than box ticking) to satisfy in order to run and vote for Queer Officer.
+
+Several individuals have posted to Facebook with a common statement accusing Social Justice of running for Queer Officer "purely to gain a seat on Monash Student Council", emphasising the "apolitical" (with respect to student politics) nature of the Queer Department and Rainbow Collective ticket. Social Justice appears to be focussed on the "apolitical" aspect, publishing a post which asserts again that "the Queer office SHOULD BE POLITICAL" and voters should "Make MSA Queer left wing".
+
+### Update 11/10/2023 - who gets paid, anyway? - 1 day until polls close
+
+This is not an update, but an ask. Which elected officers get paid an honorarium in the MSA and how much? 
 
 ### Documents
 
