@@ -179,9 +179,58 @@ In a comment to this post, the outgoing GLEAM (Queers in STEM) President and Rai
 
 You hear people say campaigners breached election regulations. Of course they would. And if you were a pedant, you would point out that the Returning Officer has not placed any notices relating to the election on the MSA notice-board, which is required by MSA election regulations.
 
+### Update 12/10/2023 - queer - 5 hours until polls close
+
+Rainbow Collective on Facebook:
+
+> *"!! SOCIAL JUSTICE CAMPAIGNER ENCOURGING VOTERS WHO DON’T SELF-IDENTIFY TO VOTE IN QUEER ELECTION !!*
+
+> *We just witnessed a Social Justice campaigner direct a voter (who did not self-identify as queer) to tick the queer election box.*
+
+> *It is now more important than ever to reach out to your queer networks and make sure they are voting!!*
+
+> *This is not the first time this has been complained about this week (however, it is the first we managed to get with evidence to complain to the RO)"*
+
 ### Update 12/10/2023 - polls close
 
 Results are expected tomorrow. Where are the tickets' campaigners gathering tonight?
+
+### Monash has Changed
+
+Change has won the 2023 MSA elections, victors over Social Justice and incumbents Together.
+
+5260 students cast their vote in this election representing 12.1% of eligible voters.
+
+Preliminary results released Thursday night reveal that Change has won the elections for President, Secretary, Treasurer, Residential Community Officer, Lot's Wife Editor, Education (Academic Affairs) Officer, Education (Public Affairs) Officer, Welfare Officer, Environment & Social Justice Officer, Activities Officer, Creative and Live Arts Officer, People of Colour Officer, and Indigenous Officer.
+
+For the Presidential election, on primary votes Together was first on 1806 (36%), followed by Change on 1737 (35%) and Social Justice (28%) on 1411. Following exclusion of Social Justice, 1087 votes exhausted (did not indicate any second preference), representing a 77% exhaustion rate. Of the remainder of Social Justice votes that did not exhaust, preferences overwhelmingly flowed to Change at a rate of 72%, letting Change narrowly overtake Together to secure the Presidency with the final vote tally being 1970 (50.9%) - 1897 (49.1%).
+
+For almost every office bearer position, the result was very similar. The high degree of vote exhaustion reflects the fact that no tickets instructed voters to select second preferences.
+
+The only exceptions were Residential Community Officer (uncontested by Social Justice), People of Colour Officer (autonomous ballot with Change ahead on primary), and Indigenous Officer (unopposed).
+
+The only office bearers which Change did not win were the autonomous ballots: Disabilities & Carers Officer and Women’s Officer won by Together, and Queer Officer won by Social Justice.
+
+Despite being backed by both Change and Together, Rainbow Collective lost. There were allegations of fraud being encouraged by Social Justice campaigners. Social Justice received 608 votes to Rainbow Collective's 331. For comparison, the Disabilities & Carers Officer had 222 voters in total, Women’s Officer 444, and People of Colour Officer 468.
+
+I have previously commented that
+> *"The practice of directly electing office bearers by the general student body means that single tickets tend to "sweep" office bearer positions even if a substantial minority of the electorate support another ticket, since students preferring a certain ticket are likely to vote for that ticket across all positions. This all-or-nothing system favours the development of larger tickets and pre-election coalitions, and recent history shows that incumbent tickets remain dominant for a long period of time. The phenomenon of large tickets is probably cemented by the 2019 introduction of booklet voting."*
+
+This has played out, with Change taking out almost all office bearer positions despite coming second on primary with 35% of the vote and only narrowly winning the two-candidate preferred with 51%.
+
+The Mental Health and Resilience Committee will be controlled by Together who were unopposed. The Student Welfare Committee and Women’s Affairs Committee will both be split evenly, with each ticket controlling 3 seats. The Activities Advisory Committee will be controlled by Change with 5 seats to Together's 4 seats.
+
+Results are not yet known for the Student Affairs Committee, Environment and Social Justice Committee, Creative and Live Arts Committee, and People of Colour Collective as an affirmative action count will need to be taken.
+
+Delegates to the National Union of Students will be 3 Together (Student Unity/Labor Right), 2 Change (National Labor Students/Labor Left), 2 Social Justice (Socialist Alternative).
+
+MSC General Representatives will be 2 Together, 2 Change and 1 Social Justice.
+
+The results mean that Change will control the Monash Student Council, with 14/24 seats. All three tickets will be represented on the MSC.
+
+The referendum failed with 91% in favour but turnout of only 1.77%, far below the 5% required. Only Together seemed to advocate a Yes vote, or any vote at all.
+
+Plenty more to talk about.
 
 ### Documents
 
