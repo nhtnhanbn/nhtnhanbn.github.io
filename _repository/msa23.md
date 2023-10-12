@@ -3,7 +3,7 @@ permalink: /msa23
 title: 2023 elections of the Monash Student Association
 ---
 
-Page last updated 11/10/2023.
+Page last updated 12/10/2023.
 
 ## 2023 elections of the Monash Student Association
 
@@ -178,6 +178,10 @@ In a comment to this post, the outgoing GLEAM (Queers in STEM) President and Rai
 ### Update 11/10/2023 - regulations - 1 day until polls close
 
 You hear people say campaigners breached election regulations. Of course they would. And if you were a pedant, you would point out that the Returning Officer has not placed any notices relating to the election on the MSA notice-board, which is required by MSA election regulations.
+
+### Update 12/10/2023 - polls close
+
+Results are expected tomorrow. Where are the tickets' campaigners gathering tonight?
 
 ### Documents
 
