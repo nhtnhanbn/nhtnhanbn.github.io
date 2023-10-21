@@ -11,7 +11,7 @@ Disclaimer: no guarantees of factual accuracy. Some claims are based on best evi
 
 I recall that when I was a secondary student, well before I had made the decision to attend Monash University, for some reason I held the notion that WIRED, the official Faculty of IT Society, was dead. Where I heard or inferred it from I could not tell you, but it turned out to be accurate at the time. Perhaps it was simply my omniscient intuition. Having clubs that were active was an important part of my decision process, but since there were alternatives that were definitely very much alive, I went with Monash anyway.
 
-The WIRED story is a story of how in the space of a single year, a moribund faculty society with double-digit membership and not even a committee was transformed into the largest club at Monash University and a political battleground front for the most fiercely contested MSA elections in years.
+The WIRED story is a story of how in the space of a single year, a moribund faculty society with double-digit membership and not even a committee was transformed into the largest Clayton C&S club and a political battleground front for the most fiercely contested MSA elections in years.
 
 ### Getting here
 
@@ -80,4 +80,4 @@ There also needed to be a new General Representative elected after the constitut
 It was a 16 minute meeting from start to finish, concluding 38 minutes after notified start time. Those who attended hoping for drama may have been disappointed. But perhaps the amazing growth of WIRED over the past year (excluding the conflict) can offer hope for a club who held their AGM the same night, and managed to elect *only* a President and Vice President - a similar story repeated across too many vital clubs. It could be any club.
 
 ### See also
-- [The Monash Series](/msa)
+- [The Monash Series](/monash)

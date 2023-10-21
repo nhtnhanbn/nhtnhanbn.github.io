@@ -18,6 +18,6 @@ Want to talk or have something to share?
 You can contact me on Instagram [@nhan.an.victorian](https://instagram.com/nhan.an.victorian)
 or by email [nhtnhanbn@gmail.com](mailto:nhtnhanbn@gmail.com).
 
-Any personal sources will not be disclosed or acknowledged without mutual agreement
+Any personal sources will not be disclosed or acknowledged without mutual agreement.
 
 *Verbis non factis* crudely means "By words, not deeds".

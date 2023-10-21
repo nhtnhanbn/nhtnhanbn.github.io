@@ -1,6 +1,6 @@
 ---
 permalink: /msa23
-title: 2023 elections of the Monash Student Association
+title: 2023 Monash Student Association elections
 ---
 
 Page last updated 12/10/2023.
@@ -240,4 +240,5 @@ Plenty more to talk about.
 
 ### See also
 
-- [The Monash Series](/msa)
+- [Together no more: a recapitulation of the 2023 MSA elections](/changemsa)
+- [The Monash Series](/monash)

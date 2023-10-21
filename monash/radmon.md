@@ -3,7 +3,7 @@ permalink: /radmon
 title: Radio Monash SGM 7/2023
 ---
 
-Page last updated 2/10/2023.
+Page last updated 21/10/2023.
 
 ## Radio Monash Special General Meeting July 2023
 
@@ -114,9 +114,13 @@ In the election for President, the establishment candidate received 45 votes, an
 
 ### Annual General Meeting
 
-Radio Monash will have an Annual General Meeting in October 2023. All committee positions will be up for election. Special resolution 1 from the SGM, which failed due to a minority 26 dissenting votes, returns but this time split. The proposed amendements to increase the voting rights waiting period for members from 10 business days to 21 days (the most controversial part) and to reduce quorum from 25 to 20 members are now in a separate special resolution.
+Radio Monash held its Annual General Meeting in October 2023. All committee positions were be up for election. Special resolution 1 from the SGM, which failed due to a minority 26 dissenting votes, returned but this time split. The proposed amendments to increase the voting rights waiting period for members from 10 business days to 21 days (the most controversial part) and to reduce quorum from 25 to 20 members were now in a separate special resolution.
 
-I missed this previously, but the President of Radio Monash receives a monetary honorarium ($6,000 p/a) from the MSA.
+At least 40 voting members were present at this meeting, still a remarkable number despite having decreased from the "high stakes SGM". The Labor Left members who showed up at the SGM were absent, their Change ticket having just won a controlling majority of the Monash Student Council in the MSA elections earlier that week.
+
+The special resolutions passed without controversy, with the "controversial" bit passing unanimously. This was the proposal to increase the waiting time before voting rights were granted, which was sunk by 26 votes at the SGM.
+
+All elections were uncontested, with "establishment" candidates passing in without opposition. Despite all committee positions being up for election and extensive reports being delivered from various members of the outgoing committee, the entire AGM lasted only 1 hour, compared to the 2.5 hours at the SGM to elect only 2 positions.
 
 ### NOTICE of SGM for Radio Monash
 
@@ -183,4 +187,4 @@ The following link can be used to nominate yourself or others for a committee po
 - [SGM Special Resolution 2 unamended](https://drive.google.com/file/d/15vUu1GyXKBvT42Rl3A_GBuH-qmueWOFm/view?usp=sharing)
 
 ### See also
-- [The Monash Series](/msa)
+- [The Monash Series](/monash)

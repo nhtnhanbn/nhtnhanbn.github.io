@@ -1,17 +1,11 @@
 ---
 permalink: /msa
-title: The Monash Series
+title: Together's MSA
 ---
 
-Page last updated 29/9/2023.
+Page last updated 21/10/2023.
 
-### The Monash Series
-
-- [Radio Monash Special General Meeting July 2023](/radmon)
-- [WIRED (Faculty of Information Technology Society) Annual General Meeting September 2023](/wired)
-- [2023 elections of the Monash Student Association](/msa23)
-
-## State of the Monash Student Association
+## State of the Monash Student Association pre-Change
 
 Disclaimer: no guarantees of factual accuracy. Some claims are based on best evidence.
 
@@ -75,17 +69,25 @@ The Together-controlled MSC controversially implemented [booklet voting](https:/
 
 3 tickets qualified for the booklet cover in the 2019 election: Together, Grassroots and Climate Action (Labor Left led). All candidates from tickets which failed to make the booklet cover withdrew from the election after close of nominations. Booklet voting failed to lift voter turnout, as the offices of President, Secretary and Treasurer went to Together unopposed with all other contested offices also won by Together.
 
-### Unite
+### Support Your Students
 
-After rejecting online voting in 2019, the MSC approved a fully online election for the following year. That year, the 2 undergraduate representatives on Academic Board, aligned with Labor and Grassroots, had scored key victories for students alongside the Support Your Students movement. Together's MSA also claimed credit for these victories. The SYS movement decided to run a ticket for MSA, but found that 3 other people had attempted to register the same name (Mojo News ran an [article](https://www.mojonews.com.au/politics/the-name-of-the-game-ticket-mayhem-in-the-lead-up-to-the-msa-election) about this incident that has since been deleted). The original SYS group ended up running as Student Voice, unrelated to the ticket labelled "Support Your Students". Backed by Labor Left and Grassroots, which broke their alliance with Together to merge into the ticket, Student Voice nominated the Academic Board representatives for President and Secretary of MSA.
+In March 2020, members of the Labor Left, including the President of the Monash Labor Club, organised a [petition](https://www.megaphone.org.au/petitions/monash-university-support-your-students) and Facebook page named Monash University: Support Your Students!. Spurred by the MSA and Monash University's initial inaction the campaign [pushed](https://www.greenleft.org.au/content/monash-students-force-win-during-covid-19-lockdown) for [policy changes](https://drive.google.com/file/d/1O3RxC1pKjpkwrqOv942DFgCRrSLfMtLk), with [key wins](https://lotswife.com.au/breaking-news-academic-board-student-reps-secure-huge-win-for-monash-students) achieved alongside the 2 undergraduate representatives on Academic Board, aligned with Labor Left and Grassroots, and eventually the MSA. Together's MSA claimed credit for these [victories](https://www.mojonews.com.au/education/monash-scraps-examity-and-revises-semester-one-grading-system).
+
+After rejecting online voting in 2019, the MSC approved a fully online election for 2020.
+
+The SYS movement decided to run a ticket for MSA, but found that 3 other people had attempted to register the same name (Mojo News ran an [article](https://www.mojonews.com.au/politics/the-name-of-the-game-ticket-mayhem-in-the-lead-up-to-the-msa-election) about this incident that has since been deleted). The original SYS group ended up rebranding their Facebook page and running as Student Voice, unrelated to the ticket labelled "Support Your Students". Backed by Labor Left and Grassroots, which broke their alliance with Together to merge into the ticket, Student Voice nominated the Academic Board representatives for President and Secretary of MSA.
 
 SAlt also ran the Student Fightback - Climate Action ticket. Under booklet cover voting introduced in 2019, Student Fightback qualified for the "front cover" of the online ballot. However, it was not possible to cast a front cover vote for Student Fightback and the online ballot paper [breached election regulations](https://drive.google.com/file/d/1IlRmFKVfLJWnxtRs49R34MKCnaHhKYsK). After these allegations were raised by the ticket, the Returning Officer issued a temporary campaigning ban for Student Fightback based on a nominally separate issue.
 
 Yet again, Together won all office bearer positions, although Student Voice managed to secure almost a third of seats on committees.
 
+### Unite
+
 The 2021 election was marred by controversy as the Together-controlled MSC passed election regulations banning ["campaigning on campus" and "promotional material" on campus](https://www.mojonews.com.au/politics/monash-students-declare-attack-on-democracy-in-student-elections). This sparked the Defend Democracy at Monash campaign, culminating in a Student General Meeting despite [MSA executive opposition](https://www.mojonews.com.au/politics/monash-students-silenced-as-student-council-bins-campaigning-petition-1). Student Voice ran again, with Restore Democracy at Monash (SAlt aligned) also contesting the election. Climate Justice, a SAlt ticket, failed to make the booklet cover under system introduced in 2019, and thus withdrew to support Restore Democracy at Monash. Together maintained their hold on the MSA, locking out all other tickets from office bearer positions.
 
 Together was practically unopposed in the 2022 MSA election. It is in fact too easy to list the positions they did not take: independent Indigenous Officer (unopposed), Rainbow Collective Queer Officers (unopposed), independent Women's Affairs Committee member (contested), independent Activities Advisory Committee member (contested), independent People of Colour Committee member (contested), independent NUS delegate (contested). Climate Action/Climate Justice (SAlt aligned) did contest, but won nothing. Notable is that a "Grassroots" ticket which ran no candidates was registered by a Labor Right member, practically blocking any genuine Grassroots ticket from running under that name.
+
+Throughout 2022 and early 2023, the Student Voice (formerly Support Your Students) Facebook page was inactive, where previously it had advocated on student issues and held Together's MSA to account.
 
 ### Charts
 
@@ -117,7 +119,7 @@ The Facebook group Monash StalkerSpace around May 2023 saw a series of Anonymous
 
 Together has been supported by leaders from a range of clubs, including some of the largest. Methods by which this might have been achieved could have been offering positions or club benefits for support, or "stacking" club general meetings.
 
-Nevertheless, the presidencies of some prominent clubs, including the largest Monash club, are controlled by the Labor Left.
+Nevertheless, the presidencies of some prominent clubs, including the largest C&S club, are controlled by the Labor Left.
 
 C&S is a division of the MSA, governed by presidents of its affiliated clubs. C&S Officers and Executive are elected by these presidents, independently of the MSA. At least 6 of the 9 2023 C&S Office Bearers, including 3 of the "top 4" positions, have also been elected to the MSA on the Together ticket. Another hails from the Labor Left.
 
@@ -141,4 +143,5 @@ The C&S Executive has the power to disaffiliate clubs, depriving them of recogni
 
 ### See also
 
+- [The Monash Series](/monash)
 - [Death of the Melbourne University Student Union Incorporated](/musu)
