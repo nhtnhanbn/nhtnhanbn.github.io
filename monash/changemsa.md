@@ -3,7 +3,7 @@ permalink: /changemsa
 title: Together no more
 ---
 
-Page last updated 21/10/2023.
+Page last updated 22/10/2023.
 
 ## Together no more: a recapitulation of the 2023 MSA elections
 
@@ -60,6 +60,10 @@ Vote totals based on presidential votes, booklet covers when presidency unoppose
 ![2021 MSA election results](files/MSA 2021.png)
 ![2022 MSA election results](files/MSA 2022.png)
 ![2023 MSA election results](/files/MSA 2023.png)
+
+![2023 MSA election results preference flows](/files/MSA 2023 preference flows.png)
+![2023 MSA election results head to head](/files/MSA 2023 H2H.png)
+![2023 MSA election results with abstentions](/files/MSA 2023 with abstentions.png)
 
 ![Turnout and number of candidates over time](files/MSA turnout -2023.png)
 
