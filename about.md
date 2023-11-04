@@ -15,8 +15,8 @@ I sometimes post on my Instagram account [@nhan.an.victorian](https://instagram.
 usually about education and youth issues. I will also notify of updates to this website (new or updated posts) through Instagram.
 
 Want to talk or have something to share?
-You can contact me on Instagram [@nhan.an.victorian](https://instagram.com/nhan.an.victorian)
-or by email [nhtnhanbn@gmail.com](mailto:nhtnhanbn@gmail.com).
+You can contact me on Instagram [@nhan.an.victorian](https://instagram.com/nhan.an.victorian),
+by email [nhtnhanbn@gmail.com](mailto:nhtnhanbn@gmail.com), or my anonymous [dropbox](/dropbox).
 
 Any personal sources will not be disclosed or acknowledged without mutual agreement.
 

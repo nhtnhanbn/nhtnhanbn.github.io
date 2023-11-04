@@ -76,3 +76,38 @@ img {
 details summary {
     cursor: pointer;
 }
+
+form {
+    margin: 20px auto;
+}
+
+/* Partially stolen from https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas */
+.dropbox {
+    width: 100%;
+    min-height: 10em;
+    display: grid;
+}
+
+.dropbox::after {
+    /* Note the weird space! Needed to preventy jumpy behavior */
+    content: attr(data-replicated-value) " ";
+    white-space: pre-wrap;
+    visibility: hidden;
+}
+
+.dropbox > textarea {
+    /* You could leave this, but after a user resizes, then it ruins the auto sizing */
+    resize: none;
+
+    /* Firefox shows scrollbar on growth, you can hide like this. */
+    overflow: hidden;
+}
+
+.dropbox > textarea, .dropbox::after {
+    /* Identical styling required!! */
+    padding: 0.5rem;
+    font: inherit;
+
+    /* Place on top of each other */
+    grid-area: 1 / 1 / 2 / 2;
+}

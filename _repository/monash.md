@@ -17,7 +17,7 @@ Page last updated 21/10/2023.
 
 I am in the dark.
 
-**If you have an error that should be correct, content that should be removed, or context to add (basically anything you would change), please [email me](mailto:nhtnhanbn@gmail.com).**
+**If you have an error that should be correct, content that should be removed, or context to add (basically anything you would change), please [contact me](/dropbox).**
 
 I share, on this site and on Instagram, plenty of what I know. The "standard of proof" to share a fact is that I am convinced that it is true.
 
