@@ -23,3 +23,7 @@ Voluntary student unionism was legislated in 2005.
 - [Recollections from a More Beer student politician](https://web.archive.org/web/20060302222743/http://ticketdavo.blogspot.com)
 - [The MUSU files](https://melbournescribe.blogspot.com) - comprehensive recounts and commentary from a former MUSU officebearer (the numbered series below the DVD link in the sidebar), dramatic accusations from key players (including Andrew Landeryou, husband of late Senator Kimberley Kitching) in the comments + bonus misspelling of "Nhan"
 - [2023 reflections from Newman and other players](https://farragomagazine.com/article/farrago/Notes-on-a-Scandal-Conversations-and-Reflections-on-Gary-Newmans-The-State-of-the-Union)
+
+### See also
+
+- [Stupol Stories](/stupol)

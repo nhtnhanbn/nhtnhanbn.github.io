@@ -7,6 +7,7 @@ Page last updated 21/10/2023.
 
 ## The Monash Series
 
+- [Stories from ancient history](/stupol)
 - [State of the Monash Student Association pre-Change](/msa)
 - [Radio Monash Special General Meeting July 2023 - Labor Left stack](/radmon)
 - [WIRED (Faculty of Information Technology Society) Annual General Meeting September 2023 - Change shenanigans and voter fraud](/wired)
@@ -31,4 +32,4 @@ I act impartial when it suits me.
 
 ### See also
 
-- [Death of the Melbourne University Student Union Incorporated](/musu)
+- [Stupol Stories](/stupol)
