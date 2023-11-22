@@ -3,7 +3,7 @@ permalink: /changemsa
 title: Together no more
 ---
 
-Page last updated 22/10/2023.
+Page last updated 22/11/2023.
 
 ## Together no more: a recapitulation of the 2023 MSA elections
 
@@ -67,11 +67,40 @@ Vote totals based on presidential votes, booklet covers when presidency unoppose
 
 ![Turnout and number of candidates over time](files/MSA turnout -2023.png)
 
+
+### Epilogue: the Academic Board elections
+
+The Monash University Academic Board has two undergraduate student members, elected in alternating years. The power of Academic Board student members is not obvious, but they were prominent in [2020](/msa) with the two undergraduates running for President and Secretary on the Student Voice ticket at that year's MSA elections. Nominations and candidate statements for the 2023 election were due the day after the 2023 MSA elections ended.
+
+In 2023, the two sitting undergraduate members had both been elected with the backing of Together, and had both been elected MSA President in the same year they were elected to the Academic Board. Both were opposed in their Academic Board election by people who eventually became Change office bearer candidates in the 2023 MSA elections. In 2021, the Together candidate won 56% primary vote, with the single future Change candidate coming second with 19%. In 2022, the Together candidate was elected only on the final count. On primary vote, the Together candidate was first with 35%, the future Change candidate returning from 2021 second with 28%, and another future Change candidate third with 14%.
+
+At the 2023 Academic Board election, no candidates publicly admitted their affiliation with Together after the ticket's defeat at the MSA elections. One candidate had unsuccessfully run for an office bearer role on the Together ticket at the 2023 MSA elections and used fonts and graphic designs previously used by Together-endorsed Academic Board campaigns. However, this quasi-Together candidate used a different colour scheme and made no mention in their material of Together.  Notably, their candidate statement mentioned running for "Academic Council" in the first sentence, a mistake which raised attentive eyebrows.
+
+One other candidate had been elected to an MSA committee at the bottom of the Change ticket in 2023, but was not publicly endorsed by Change in this Academic Board election. Another was a former MSA office bearer who was elected on the Together ticket but did not run in 2023.
+
+Turnout was 6%, compared to 12% for the 2023 MSA elections and about double the 2021 and 2022 Academic Board elections. In a crowded field of 13 candidates, the highest primary vote achieved by any candidate was 22% to the quasi-Together candidate, followed by 16% to the ex-Together candidate.
+
+The vote count was conducted using optional preferential voting, with the count coming down to the wire requiring the elimination of all but two candidates before anybody achieved a majority of remaining votes. The final two candidates after a full distribution of preferences were the same as the top two from the primary vote, that is the quasi-Together and ex-Together candidates. Both candidates are law students and both have been active in the Law Students Society and the Progressive Law Network.
+
+Throughout the count, the quasi-Together candidate had maintained the lead they had established in the primary vote. However, on the very final count after every other candidate had been excluded, the non-exhausting additional preferences flowed a staggering 82% to the second-placed ex-Together candidate. This huge windfall of preferences went well beyond inverting the previous margin, carrying the ex-Together candidate to a comfortable victory with 54% of the two-candidate preferred vote. By the final count, 38% of the votes had exhausted, leaving 34% for the ex-Together candidate and 29% for the quasi-Together candidate.
+
+For the quasi-Together candidate, this would have been especially bitter. Mirroring their MSA election loss, they had clearly won the largest number of primary votes, only to be overtaken on the very last count and be defeated. Throughout the count, they had gained only 7% of the vote between their primary and the final preference distribution, whilst the ex-Together candidate more than doubled their vote with an addition 18% from preferences.
+
+One other abnormal preference flow is found following the exclusion of the Change-aligned candidate. They were not running as a Change candidate, but after their elimination preferences flowed 36% to the ex-Together candidate compared to 8% to the quasi-Together candidate.
+
+At a superficial level, the Academic Board elections seem much less partisan than the MSA elections with a much more subdued campaign. There was barely any on-campus campaigning, with the only postering I am aware of being for a candidate coming 7th. Ordinarily, the uninformed observer might expect preference flows to be relatively uniform, so the drastic surges towards the ex-Together candidate and against the quasi-Together candidate on particular counts appears remarkable.
+
+In the election for Higher Degree by Research student member on Academic Board, the (appointed) incumbent was defeated, coming third out of four candidates.
+
+![2023 Academic Board vote count](/files/MUAB 2023.png)
+
 ### Documents
 
 - [All official MSA election documents](https://msa.monash.edu/elections)
 - [2023 MSA Election Guide](https://www.yumpu.com/en/document/read/68458888/msa-election-guide-2023)
 - [2023 Election Regulations changes](https://docs.google.com/document/d/179EVEMkXy_XXNNwHGQY-06_rqdXst7QEQl4DRSXRXk8/edit)
+- [2023 Academic Board candidate statements](https://www.bigpulse.com/biopreview?code=1697506618sdUxUbGmkkrB3rFeEWTc)
+- [2023 Academic Board Notice of Results](https://www.monash.edu/__data/assets/pdf_file/0003/3456462/Notice-of-Results-2023.pdf)
 
 ### See also
 

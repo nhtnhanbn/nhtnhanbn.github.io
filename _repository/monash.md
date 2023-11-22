@@ -3,7 +3,7 @@ permalink: /monash
 title: The Monash Series
 ---
 
-Page last updated 21/10/2023.
+Page last updated 22/11/2023.
 
 ## The Monash Series
 
@@ -18,9 +18,9 @@ Page last updated 21/10/2023.
 
 I am in the dark.
 
-**If you have an error that should be correct, content that should be removed, or context to add (basically anything you would change), please [contact me](/dropbox).**
+**If you know an error that should be corrected, content that should be removed, or context to add (basically anything you would change), please [contact me](/dropbox).**
 
-I share, on this site and on Instagram, plenty of what I know. The "standard of proof" to share a fact is that I am convinced that it is true.
+I share, on this site or on Instagram, plenty of what I know. The "standard of proof" to share a fact is that I am convinced that it is true.
 
 Until recently, I have minimally relied on personal sources. Most second-hand information is derived or available from public or quasi-public sources and will continue to be. Whilst this strategy has been key to the extent of what I have been able to find, it amounts to just the tip of the iceberg and is exhausting its usefulness. This means that external contributors and allies will become more important, especially through the transformation of the political climate at Monash. There is plenty (mathematically "almost everything") that I do not know - I always open to hear tips or leads. If you have a story to tell I would love to hear it.
 
