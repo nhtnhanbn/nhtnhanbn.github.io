@@ -3,10 +3,11 @@ permalink: /monash
 title: The Monash Series
 ---
 
-Page last updated 22/11/2023.
+Page last updated 27/11/2023.
 
 ## The Monash Series
 
+- [Prehistory - Monash Labor Club Genesis](/maonash)
 - [Stories from ancient history](/stupol)
 - [State of the Monash Student Association pre-Change](/msa)
 - [Radio Monash Special General Meeting July 2023 - Labor Left stack](/radmon)

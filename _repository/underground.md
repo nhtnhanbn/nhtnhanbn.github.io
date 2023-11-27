@@ -169,3 +169,9 @@ of Education to ensure that the exclusion of Michael Eidelson, a pupil of Melbou
   - [*Sentinel Underground*](https://drive.google.com/file/d/1lAdpkoVSkhvlS9QX3KYkBrJJ-QJQxDg3/view?usp=share_link) (Melbourne High School)
   - *Tirade* (Croydon High School)
   - *Student Power* (Doveton High School)
+  
+### See also
+
+- [Monash Labor Club around 1970](/maonash)
+- [Modern school student newspapers](/studentpapers)
+- [2020 issues of the Melbourne High School Sentinel](/sentinelmhs)
