@@ -94,6 +94,7 @@ In chronological order.
 #### Monash University
 
 - [Modern Monash](/monash)
+- [University election cancelled after uproar over 'racist' foreign student ban](https://www.theage.com.au/national/victoria/university-election-cancelled-after-uproar-over-racist-foreign-student-ban-20190911-p52qef.html)
 - [Labor Left MSA Presidential candidate wins and is not disqualified, but is banned for life from future elections](https://web.archive.org/web/20150226200135/http://abovequota.com.au/files/Monash-Report-2008.pdf) - over an ableist poster suggesting a candidate was faking their disability, published in collaboration with the then-MSA President who is a current state MP
 - [Monash activist disciplined for Palestine solidarity](https://www.greenleft.org.au/content/monash-activist-disciplined-palestine-solidarity) - Socialist Alternative member organises a Students for Palestine rally
 - [Socialist Alternative occupies MSA President's (Labor Left) office to prevent registration of Students for Palestine ticket name](https://web.archive.org/web/20150226200127/http://www.abovequota.com.au/files/Monash-Report-2009.pdf)
