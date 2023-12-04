@@ -3,7 +3,7 @@ permalink: /vcesimultaneity
 title: VCE Physics Relativity of Simultaneity
 ---
 
-Page last updated 5/12/2022.
+Page last updated 4/12/2023.
 
 ## VCE Physics and simultaneity in special relativity
 
@@ -11,13 +11,13 @@ Page last updated 5/12/2022.
 
 I am not a physicist having undergone only VCE Physics, I know approximately nothing, so anything I say on the physics may not be accurate. If you identify anything wrong, however minor, please email me at [nhtnhanbn@gmail.com](mailto:nhtnhanbn@gmail.com).
 
-If it seems like a waste of time on something relatively trivial it is.
+If it seems like a way to procrastinate on preparing for a final exam it is.
 
 ### Background
 
 The Study Designs, examinations and teaching of the subjects offered as part of the Victorian Certificate of Education, administered by the Victorian Curriculum and Assessment Authority and often completed by year 12 as both a graduating and matriculating process, are often [not perfect](https://mathematicalcrap.com). Physics is no exception.
 
-One of the concepts studied and tested as part of Units 3/4 VCE Physics, undertaken generally in year 12, is Einstein's theory of special relativity. However, conspicuously (to me) absent from both the 2017-2023 and the 2024-2027 Study Designs is explicit prescription of relativity of simultaneity.
+One of the concepts studied and tested as part of Units 3/4 VCE Physics, undertaken generally in year 12, is Einstein's theory of special relativity. However, conspicuously (to me) absent from both the 2017-2023 and the 2024-2027 Study Designs is explicit prescription of relativity of simultaneity. Minkowski diagrams are also missing and they also should not be (they would be a good aid to many of the explanations to follow, but are outside the scope of this piece) - nevertheless, I consider neglecting relativity of simultaneity to be the greater crime.
 
 ### Relativity of simultaneity
 
@@ -45,13 +45,13 @@ This presents an apparent paradox. It is clear that accepting that simultaneity 
 
 This is a classic example of an apparent paradox under special relativity.
 
-A ladder has length that just fits inside the length of a garage. The ladder travels, left to right, parallel to the ground through the garage which has open doors on either end. As the ladder passes through the garage, the doors close, simultaneously in the frame of reference of the garage.
+A ladder has length that just fits inside the length of a garage. The ladder travels, left to right, parallel to the ground through the garage which has open doors on either end. As the ladder passes through the garage, the doors close, simultaneously in the frame of reference of the garage, and trap the ladder.
 
 We say the ladder fits inside the garage if at an instant, both ends of the ladder are simultaneously within the garage. Does the ladder fit inside the garage?
 
-Consider the frame of reference of the garage. The ladder, being in motion, is observed to have its length contracted. In the frame of reference of the garage, the ladder will fit inside the garage. The doors close simultaenously; both ends of the ladder decelerate simultaneously when the right end hits the right door.
+Consider the frame of reference of the garage. The ladder, being in motion, is observed to have its length contracted. The doors close simultaneously. In the frame of reference of the garage, the ladder will fit inside the garage.
 
-Consider the frame of reference of the ladder. The garage, being in motion, is observed to have its length contracted. In the frame of reference of the ladder, the ladder will not fit inside the garage. In fact, the two events corresponding to the two ends of the ladder being at the corresponding two positions at the instant the ladder passes through the garage, which are simultaneous in the ladder's frame of reference, are not simultaneous in the garage's frame of reference. Further, the two events corresponding to the two doors closing, which are simultaneous in the garage's frame of reference, are not simultaneous in the ladder's frame of reference. The right door closes first. This causes the right end of the ladder to decelerate when the door hits it. Then, that is starting later, the left end of the ladder decelerates. Then the ladder indeed fits (just), the garage being now stationary relative to the ladder, by the time the left door closes.
+Consider the frame of reference of the ladder. The garage, being in motion, is observed to have its length contracted. In the frame of reference of the ladder, the ladder will not fit inside the garage. In fact, the two doors closing, which are simultaneous in the garage's frame of reference, are not simultaneous in the ladder's frame of reference. The right door closes first. This causes the garage to decelerate when the right end of the ladder hits it. As the garage's relative velocity approaches zero in the ladder's frame of reference, the effect of length contraction diminishes and the garage's length increases. By the time the left door closes, the garage is stationary in the ladder's frame of reference and the ladder indeed fits (just).
 
 The observations made in all frames of reference are fully valid. Length contraction is symmetric between inertial frames of reference. There is no real paradox.
 
@@ -67,7 +67,7 @@ The observations made in all frames of reference are fully valid. Time dilation 
 
 Also note that when Nhan observes Scheelite to be 14 light years away (at Wolf 1061) is not simultaneous with when Scheelite (not at Wolf 1061) observes Nhan to be 14 light years away.
 
-As an aside, the classic full twin paradox can be resolved using special relativity alone, without relying on "acceleration" (in the sense of being in a non-inertial frame of reference). Here is a scenario to consider that involves no acceleration. Say Scheelite is always at constant velocity. Scheelite is already at velocity when they pass the Earth, at which point Scheelite and Nhan set their clocks/ages to the same time (as in the scenario just considered), that is Scheelite does not accelerate as they leave Earth. As Scheelite passes Wolf 1061, Wolfram, travelling at the same speed in the opposite direction, passes Wolf 1061. As the positions of Scheelite and Wolfram coincide, Wolfram sets their clock/age to equal Scheelite, that is Scheelite/Wolfram do not accelerate around Wolf 1061. As Wolfram passes Earth and the positions of Wolfram and Nhan coincide, they make their observations, that is Wolfram does not accelerate as they arrive at Earth. There is no acceleration in this scenario, one reality must be true. I will not present a solution here.
+As an aside, the classic full twin paradox can be resolved using special relativity alone, without relying on "acceleration" (in the sense of being in a non-inertial frame of reference). It is worth noting that it is a misconception that dealing with acceleration requires general relativity - in fact, general relativity is only required when dealing with curved spacetime and special relativity can account for acceleration just fine, it is just more complicated to do so. Here is a scenario to consider that involves no acceleration. Say Scheelite is always at constant velocity. Scheelite is already at velocity when they pass the Earth, at which point Scheelite and Nhan set their clocks/ages to the same time (as in the scenario just considered), that is Scheelite does not accelerate as they leave Earth. As Scheelite passes Wolf 1061, Wolfram, travelling at the same speed in the opposite direction, passes Wolf 1061. As the positions of Scheelite and Wolfram coincide, Wolfram sets their clock/age to equal Scheelite, that is Scheelite/Wolfram do not accelerate around Wolf 1061. As Wolfram passes Earth and the positions of Wolfram and Nhan coincide, they make their observations, that is Wolfram does not accelerate as they arrive at Earth. There is no acceleration in this scenario, but Scheelite and Wolfram are different frames of reference with velocities equal in magnitude and opposite in direction. One reality must be true, the solution is left as an exercise for the reader.
 
 #### Clock synchronisation, symmetry of time dilation and proper time
 
@@ -83,7 +83,7 @@ The above scenario can be used to construct a thought experiment that, in my per
 
 ### Foreground
 
-We realise how important relativity of simultaneity is in special relativity. I suspect that it is not sufficiently understood by too many close to VCE Physics. Much of what I had to learn about it, to resolve my understanding of the other parts of special relativity like time dilation and length contraction, I had to do my own reading for owing to the lack of specifically VCE resources that deal with it. That is not to say that special relativity is well understood by university, or by anybody. However, the consequences of ignoring such an important idea that underpins so much of special relativity in VCE Physics are unacceptable.
+We realise how important relativity of simultaneity is in special relativity. I suspect that it is not sufficiently understood by too many close to VCE Physics. Much of what I had to learn about it, to resolve my understanding of the other parts of special relativity like time dilation and length contraction, I had to do my own reading for owing to the lack of specifically VCE resources that deal with it. The consequences of ignoring such an important idea that underpins so much of special relativity in VCE Physics are unacceptable.
 
 Whilst often we can ignore relativity of simultaneity by getting by with accepting definitions or formulas of time dilation, length contraction, postulates and whatever else (although it is easier to trip up without consideration of relativity of simultaneity), there appears to be a class of questions for which ignoring relativity of simultaneity can be actively fatal, and all of students, VCAA examiners and trial exam setters have been killed by it.
 
