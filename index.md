@@ -20,7 +20,7 @@ Subscribe for updates by following my [Instagram account](https://instagram.com/
 ## Tools
 
 <ul class="pages">
-  {% for page in site.tools %}
+  {% for page in site.data.tools %}
     <li><a href="{{ page.url }}">{{ page.title }}</a></li>
   {% endfor %}
 </ul>
