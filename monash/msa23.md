@@ -73,7 +73,7 @@ Meanwhile, whilst almost all other officer candidates submitted a photo of thems
 
 ### Update 30/9/2023 - MSA candidate previously disqualified from MGA election - 9 days until polls open
 
-The elections for the Executive Committee of the Monash Graduate Association were held earlier in 2023. 2 candidates were [excluded](http://mga.monash.edu/wp-content/uploads/2023/08/2023-2024-MGAEC-Elections_Returning-Officer-Report-Public.pdf) by the returning officer for serious prohibited conduct breaching Election Regulations. One of these disqualified candidates is running for MSA Creative and Live Arts Officer on the Change ticket.
+The elections for the Executive Committee of the Monash Graduate Association were held earlier in 2023. 2 candidates were [excluded](https://drive.google.com/file/d/1iWPIah8Pz8MkeG3i4kF8deuAHBcoZ8l7/view?usp=drivesdk) *(link updated 31/12/2023)* by the returning officer for serious prohibited conduct breaching Election Regulations. One of these disqualified candidates is running for MSA Creative and Live Arts Officer on the Change ticket and was the individual who withdrew from the fraud-affected [Wired presidential election](/wired).
 
 ### Update 1/10/2023 - Rainbow Collective comment on Social Justice - 8 days until polls open
 
