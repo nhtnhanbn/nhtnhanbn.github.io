@@ -17,6 +17,7 @@ The relevance of the old Monash Labor Club, which was active in the early years 
 - [The Rise and Fall of Practically Everybody](https://trove.nla.gov.au/work/21510759) - an account of student political activity at Monash University 1965-1972, published 1973 from a less sympathetic point of view
 - [The Yeast is Red](https://labourhistorymelbourne.org/wp-content/uploads/2019/09/Ken-Mansell-The-Yeast-is-Red.pdf) - a history of The Bakery (off-campus centre of the Monash University Labor Club 1968-1971) from the point of view of a member
 - [Source documents](https://www.reasoninrevolt.net.au/biogs/E000612b.htm)
+- [How to Capture a Prime Minister](https://www.howtocaptureapm.com/) - a documentary detailing the 1975 entrapment of Malcolm Fraser at Monash University
 
 ### See also
 

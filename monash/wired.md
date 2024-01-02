@@ -73,7 +73,7 @@ Constitutional amendments passed unanimously. Changes to committee composition w
 
 Ahead of the elections, the Secretary read out a list of prohibited conduct in full, and a motion to approve these passed unanimously. The elections were to be conducted using an online platform, a move away from the paper ballots of the original AGM. These measures were never needed; the opposition did not show.
 
-The declared victor for President at the AGM, seconded by outgoing MAC President, won election again. They had run a prominent turn-out-the-vote campaign, but they ended up unopposed. Likewise, the Vice President. So the results ended up the same as the AGM.
+The declared victor for President at the AGM, seconded by the outgoing Monash Association of Coding President, won election again. They had run a prominent turn-out-the-vote campaign, but they ended up unopposed. Likewise, the Vice President. So the results ended up the same as the AGM.
 
 There also needed to be a new General Representative elected after the constitutional amendments, and this election was also unopposed.
 

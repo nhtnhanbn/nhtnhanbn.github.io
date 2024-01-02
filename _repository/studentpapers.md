@@ -1,9 +1,9 @@
 ---
 permalink: /studentpapers
-title: Student newspapers
+title: School student newspapers
 ---
 
-Page last updated 27/5/2023.
+Page last updated 2/1/2024.
 
 ## Modern school student newspapers
 
@@ -19,26 +19,29 @@ If you know of any further information at all (for example, other examples of st
 
 ### Documents
 
+- [*6 News Australia*](https://6newsau.com), national 2019-2024, 24/7
 - [*ubique*](https://ubique.squarespace.com), University High School 2012 (*Ubique Online*)/2015-2023, monthly
-- [*The Trinity Inquirer*](https://issuu.com/trinitygrammar), Trinity Grammar School Kew 2020-2023, 3 issues in 2022
-    - *Roxeth*, Trinity Grammar School Kew -2022, weekly
-- [*The Rumble*](https://issuu.com/plcbur3125), Presbyterian Ladies' College Melbourne 2020-2023, 3 issues in 2022
-    - [*The Rumble*](https://frontpage.online/2021-upper-secondary/the-rumble), upper secondary winner Front Page 2021
-- [*Rosanna Voice*](https://facebook.com/rosannaprimaryschool), Rosanna Primary School -2023, 3 issues 2022
-- *The Stentorian*, St Catherine's School 2022, monthly
-- [*The College Chronicle*](https://medium.com/collegechronicle), Scotch College Melbourne 2020/2022, 3 issues in 2022 and audaciously describes itself as "one of the first high school student newspapers in Australia"
-    - [The Scotch College Archives and Museum](https://www.oscanet.com.au/archives) apparently holds old copies of student-driven publications *Satura* and *The Scotch Collegian*
-- [*YOUTHINK*](https://asprinworld.com/asprin), City of Melbourne 2020, 2 issues
 - [*The 4U Paper*](https://drive.google.com/drive/folders/1GIOROMSMac9rHyn7XD0bJV1j2Vb6YL19), North Sydney Boys High School 2014-2023, monthly
     - [*The 4U Paper*](https://frontpage.online/2019-upper-secondary/the-4u-paper), upper secondary winner Front Page 2019
     - [*The Nest*](https://frontpage.online/2020-upper-secondary/the-nest), upper secondary finalist Front Page 2020
-- [*The Glenunga Dispatch*](https://sites.google.com/gihs.sa.edu.au/glenungadispatch), Glenunga International High School 2020-2023, every 2 months
+- [*The Trinity Inquirer*](https://issuu.com/trinitygrammar), Trinity Grammar School Kew 2020-2023, 3 issues in 2023
+    - *Roxeth*, Trinity Grammar School Kew -2022, weekly
+- [*The Rumble*](https://issuu.com/plcbur3125), Presbyterian Ladies' College Melbourne 2020-2023, 2 issues in 2023
+    - [*The Rumble*](https://frontpage.online/2021-upper-secondary/the-rumble), upper secondary winner Front Page 2021
+- [*Rosanna Voice*](https://facebook.com/rosannaprimaryschool), Rosanna Primary School -2023, 2 issues in 2023
+- [*The Glenunga Dispatch*](https://sites.google.com/gihs.sa.edu.au/glenungadispatch), Glenunga International High School 2020-2023, 2 issues in 2023
     - [*The Glenunga Dispatch* issue 10 26/5/2021](https://archive.org/details/issue-10-26.05.21-deleted) uncensored, including an article "A Fiery Sky Over Israel"
     - [*The Glenunga Dispatch*](https://frontpage.online/2020-upper-secondary/the-glenunga-dispatch), upper secondary finalist Front Page 2020
     - [*The Glenunga Dispatch*](https://frontpage.online/2021-upper-secondary/the-glenunga-dispatch), upper secondary finalist Front Page 2021
-- [*Baulko Bulletin*](https://baulkobulletin1974.wixsite.com/website), Baulkham Hills High School 2007-2023, 2 issues in 2022
+- [*Baulko Bulletin*](https://baulkobulletin1974.wixsite.com/website), Baulkham Hills High School 2007-2023, 2 issues in 2023
     - [*Baulko Bulletin*](https://frontpage.online/2021-lower-secondary/baulko-bulletin-n%E2%88%9E), lower secondary finalist Front Page 2021
+- [*The Fifth Avenue Times*](https://instagram.com/the_fifth_avenue_times), Blacktown Girls High School 2022-2023
+- [*The College Chronicle*](https://medium.com/collegechronicle), Scotch College Melbourne 2020/2022, 3 issues in 2022 and audaciously describes itself as "one of the first high school student newspapers in Australia"
+    - [The Scotch College Archives and Museum](https://www.oscanet.com.au/archives) apparently holds old copies of student-driven publications *Satura* and *The Scotch Collegian*
+- [*The Chase*](https://kuringgai-h.schools.nsw.gov.au/newsletter), Ku-ring-gai High School 2022, 2 issues
+- *The Stentorian*, St Catherine's School 2022, monthly
 - [*LC Times*](https://lctimes.mailchimpsites.com), Launceston College 2019-2021, 3 issues in 2021
+- [*YOUTHINK*](https://asprinworld.com/asprin), City of Melbourne 2020, 2 issues
 
 ### See also
 
