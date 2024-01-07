@@ -33,6 +33,7 @@ The stories listed here focus on controversial conduct and mismanagement from th
 - [Sydney Uni resets controversial criminal law exam](https://www.smh.com.au/national/sydney-uni-resets-controversial-criminal-law-exam-20221109-p5bwt7.html) - after centre-right student 'shamed'
 - [RepsElect 2022: Campus left retain dominance despite Enviro officer debacle](https://honisoit.com/2022/10/repselect-2022-campus-left-retain-dominance-despite-enviro-officer-debacle/) - left-wing infighting, especially between different Trotskyist factions, results in Liberals getting into office bearer positions
 - [How Repselect wet the bed](https://honisoit.com/2018/11/how-repselect-wet-the-bed/) - museum flooding
+- [Male Liberal staffer 'pretended to be a woman' to win student executive position](https://www.smh.com.au/politics/federal/male-liberal-staffer-pretended-to-be-a-woman-to-win-student-executive-position-20161020-gs6reg.html)
 - [Police called to chaotic University of Sydney Student Representative Council meeting](https://www.smh.com.au/education/police-called-to-chaotic-university-of-sydney-student-representative-council-meeting-20151105-gks2k5.html) - "They'll make the SRC look bad" as journalists are ejected from the room
 - [Sydney university meeting in 'chaos' after student makes personal donation of $50,000](https://www.theguardian.com/australia-news/2020/nov/12/sydney-university-meeting-in-chaos-after-student-makes-personal-donation-of-50000)
 - [A political paradigm shifts as NLS splits](https://web.archive.org/web/20220911092204/http://honisoit.com/2013/03/a-political-paradigm-shifts-as-nls-splits/) - Sydney Labor Students split from National Labor Students
@@ -47,6 +48,25 @@ The stories listed here focus on controversial conduct and mismanagement from th
 
 - [A Brief History of the LTSA](https://www.rabelais.com.au/la-trobe/brief-history-of-the-ltsa) - attempted amalgamation of all campus student unions including the Bundoora-based LTSU into a single "apolitical" LTSA
 - [LTSU & LTSA Joint Statement](https://drive.google.com/file/d/1hSBMjT3Xya5OdKrSBc9j0r5elGNz5Cv1/view) - following the failed vote to shut down the LTSA with 72% of voters in favour
+
+#### University of Queensland
+
+- [Liberal staffers in uni turf war](https://www.reddit.com/r/AustraliaLeftPolitics/comments/15o1pkb/a_turf_war_has_erupted_on_queensland_university/)
+- [Student personal information stolen in UQU database hack](https://www.facebook.com/UQUnion/posts/the-union-has-become-aware-that-at-519pm-this-afternoon-there-was-an-unauthorise/10158509638626131/)
+- [UQ Liberal National club president dies after backlash to drag storytime video](https://www.sbs.com.au/news/article/uq-liberal-national-club-president-dies-after-backlash-to-drag-storytime-video/kabs851jj)
+- [Votes stolen using an automated script](https://www.uqu.com.au/blog/union-updates/uq-union-press-release-regarding-the-declaration-of-referenda)
+- [UQ election called off amid bitter irregularity dispute](https://www.crikey.com.au/2013/08/08/uq-election-called-off-amid-bitter-irregularity-dispute/)
+- [UQ union turns left after fraught election](https://www.facebook.com/Democracy4Uqu/posts/this-mornings-australian-newspaper-covering-the-uqu-elections-although-the-artic/406317942801683/)
+- [Democracy 4 UQU](https://www.democracy4uqu.com/) - a campaign against the incumbents stealing ticket names
+- [Drew Pavlou: The Timeline So Far](https://web.archive.org/web/20200703030533/http://www.qutglass.com/drew-pavlou-complete-story-glass-qut/)
+
+#### Queensland University of Technology
+
+- [Fourth Time Lucky: QUT Student Guild AGM WILL be reconvened, after being postponed twice, then held without quorum](https://www.qutglass.com/fourth-time-lucky-qut-student-guild-agm-will-be-reconvened-after-being-postponed-twice-then-held-without-quorum/)
+- [Take Two: Voting Suspended Then Relaunched for Major Guild Committee ](https://www.qutglass.com/take-two-voting-suspended-then-relaunched-for-major-guild-committee/)
+- [Multiple 2019 QUT Guild Election Results Invalidated](https://www.qutglass.com/qut-guild-election-results-invalidated-glass/)
+- [Students outraged by QUT Guild’s “dirty election tactics”](https://limblr.wordpress.com/2018/08/14/students-outraged-by-qut-guilds-dirty-election-tactics/)
+- [Tribunal rules Guild Council election undemocratic](https://limblr.wordpress.com/2018/10/07/tribunal-rules-guild-council-election-undemocratic/)
 
 #### Australian National University
 
@@ -67,6 +87,15 @@ The stories listed here focus on controversial conduct and mismanagement from th
 #### Western Sydney University
 
 - [SRC President wants guns on campus: what do students think?](https://wsup.news/src-president-wants-guns-on-campus-what-do-students-think/)
+
+#### University of Western Australia
+
+- [The WA uni vote where the most popular candidate got axed for 'campaigning'](https://www.watoday.com.au/national/western-australia/the-wa-uni-vote-where-the-most-popular-candidate-got-axed-for-campaigning-20161031-gserjo.html)
+
+#### Curtin University
+
+- [Curtin Council Election Result Overturned](https://grokonline.com.au/2022/06/17/curtin-council-election-result-overturned/)
+- [Friendly fire: Guild exec asks University Council candidate to withdraw from race](https://grokonline.com.au/2018/03/22/friendly-fire-guild-exec-asks-university-council-candidate-to-withdraw-from-race/)
 
 #### University of Adelaide
 
