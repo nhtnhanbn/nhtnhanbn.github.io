@@ -97,6 +97,10 @@ The stories listed here focus on controversial conduct and mismanagement from th
 - [Curtin Council Election Result Overturned](https://grokonline.com.au/2022/06/17/curtin-council-election-result-overturned/)
 - [Friendly fire: Guild exec asks University Council candidate to withdraw from race](https://grokonline.com.au/2018/03/22/friendly-fire-guild-exec-asks-university-council-candidate-to-withdraw-from-race/)
 
+#### Deakin University
+
+- [Labor kids in new branch-stack scam at Deakin University](https://www.theage.com.au/politics/federal/labor-kids-in-new-branchstack-scam-at-deakin-university-20151124-gl6jw7.html)
+
 #### University of Adelaide
 
 In chronological order.
