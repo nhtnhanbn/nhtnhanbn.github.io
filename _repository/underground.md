@@ -145,6 +145,7 @@ So the VSSU folded.
 - [Students in Dissent: The Underground High School Movement 1968](https://melbournewalks.com.au/melbourne-high-1968) (Melbourne Walking Tours, a company run by Meyer (Michael) Eidelson) - includes many contemporary newspaper clippings, both mainstream and student underground
 - [Victorian Hansard record](https://parliament.vic.gov.au/images/stories/historical_hansard/VicHansard_19681023_19681023.pdf) of the parliamentary debate on "the failure of the Minister
 of Education to ensure that the exclusion of Michael Eidelson, a pupil of Melbourne High School, be lifted", in which Ubique Underground was directly quoted
+- [*School Power in Australia: is* your *child being manipulated by political operators?*](https://drive.google.com/file/d/1ytKA2W6yHIMS6lv46WT2PE_2xoHuUPOn/view?usp=sharing) - a 1970 book by a New South Wales Liberal MP
 
 #### Contemporary newspapers
 
