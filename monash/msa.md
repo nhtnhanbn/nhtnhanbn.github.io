@@ -3,11 +3,13 @@ permalink: /msa
 title: Together's MSA
 ---
 
-Page last updated 21/10/2023.
+Page last updated 18/2/2024.
 
 ## State of the Monash Student Association pre-Change
 
 Disclaimer: no guarantees of factual accuracy. Some claims are based on best evidence.
+
+The contents of this page are based on the situation as it stood immediately before the [2023 MSA elections](/msa23), in which Labor Left-led ticket Change [defeated](/changemsa) the incumbent Labor Right-aligned Together ticket.
 
 ### A brief context
 
@@ -41,7 +43,7 @@ The different layers of political groups require some subtle distinctions in how
 
 "Political club" is used to mean the "official" sort of organisation, and are a convenient system to categorise and label the allegiance of individuals: ALP/Labor Club (Labor Left), Greens, Labor Unity (Labor Right), Liberals, Socialists (SAlt).
 
-"Faction" is used to mean a particular grouping, generally aligned with a political club but also including others, that aims to win positions for its members in MSA: Go, SAlt, Activate/Switch/Grassroots, Together, Activate, Student Voice and so on.
+"Faction" is used to mean a particular grouping, generally aligned with a political club but also including others, that aims to win positions for its members in MSA: Go, SAlt, Grassroots, Together, Activate, Student Voice and so on.
 
 "Ticket" is used to mean a ticket registered for an election, with which candidates are labelled on the ballot paper. Factions (except SAlt) tend to have a ticket using the faction name, but [historically](https://lotswife.com.au/fragmented-notes-from-a-depraved-week-in-the-msa) there were [feeder tickets](https://www.mojonews.com.au/page/so-many-parties-but-who-are-you-really-voting-for) run by the same faction which [funnelled preferences](https://lotswife.com.au/flush-away-feeder-tickets) to the main ticket.
 
@@ -53,11 +55,11 @@ Lot's Wife is the MSA student paper. Lot's Wife editors are elected with the MSA
 
 ### HeGOmony
 
-For over a decade, Go was the dominant faction. Aligned with the Labor Left, Go's opposition were Activate/Switch/Grassroots (closest to the Greens and linked to the Wholefoods Collective) and SAlt (Left Action/Left Hook tickets), with the Labor Right and Liberals also occasionally running. Traditionally, factions such as Go and SAlt would run feeder tickets with humorous or obfuscatory names intended to hide their alignment with a faction, but in fact sent preferences towards the faction's main ticket.
+For over a decade, Go was the dominant faction. Aligned with the Labor Left, Go's opposition were the grassroots left (Activate/Switch/Grassroots tickets, closest to the Greens and linked to the Wholefoods Collective) and SAlt (Left Action/Left Hook tickets), with the Labor Right and Liberals also occasionally running. Traditionally, factions such as Go and SAlt would run feeder tickets with humorous or obfuscatory names intended to hide their alignment with a faction, but in fact sent preferences towards the faction's main ticket.
 
-Switch had a tradition of avoiding election deals and negotiations, and presented itself as a left-wing activist alternative to Go. In 2014, Switch formed a coalition with Go. Despite this, the first day of voting was [believed](https://lotswife.com.au/we-came-we-saw-we-voted-the-msa-election-recap) to have given Left Hook the lead. Only a social media astroturfing campaign ended the threat to Switch being handed several office bearer positions.
+Grassroots had a tradition of avoiding election deals and negotiations, and presented itself as a left-wing activist alternative to Go. In 2014, Grassroots formed a coalition with Go. Despite this, the first day of voting was [believed](https://lotswife.com.au/we-came-we-saw-we-voted-the-msa-election-recap) to have given Left Hook the lead. Only a social media astroturfing campaign ended the threat to the Switch ticket being handed several office bearer positions.
 
-In 2015, Switch rebranded as Grassroots and ran a full ticket against Go. They were defeated across all positions. After that disaster, Grassroots sat out the 2016 election.
+In 2015, Grassroots ran a full ticket against Go. They were defeated across all positions. After that disaster, Grassroots sat out almost all office bearer elections in 2016 except for the Environment and Social Justice Officer race which they lost to the Go ticket (which as a result of an election deal ran SAlt members for this position). 2016 also saw an [independent ticket](https://lotswife.com.au/the-case-for-independent-media), supported by the outgoing editors (elected in 2015 on the Go ticket), receive 38% of the vote for the Lot's Wife Editors in their loss to Go.
 
 ### Switch
 
@@ -129,6 +131,7 @@ The C&S Executive has the power to disaffiliate clubs, depriving them of recogni
 
 - [2014 MSA Notice of Results](https://lotswife.com.au/wp-content/uploads/2014/09/Notice-of-Results-MSA-140928.pdf)
 - [2015 MSA Notice of Results](https://web.archive.org/web/20160305235543/http://msa.monash.edu/MSA/files/b8/b8d25862-477d-4756-b716-3986ce105481.pdf)
+- [2016 MSA Results of Elections](https://drive.google.com/file/d/1NAFMdJjb-CBR4P3zhnS-fpJv2nXO-n-Q/view?usp=sharing)
 - [2017 MSA Notice of Results](http://lotswife.com.au/wp-content/uploads/2017/10/Notice-of-results-MSA-election-2017.pdf)
 - [2018 MSA Election Report](https://web.archive.org/web/20200325073914/https://msa.monash.edu/app/uploads/2019/08/2018-MSA-Election-Report.pdf)
 - [2019 MSA Declaration of Positions Elected Unopposed](https://msa.monash.edu/app/uploads/2019/09/Notice-of-Nominations-Received-in-Ballot-Order-and-Positions-Elected-Unopposed-1.pdf)

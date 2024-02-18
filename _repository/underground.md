@@ -3,7 +3,7 @@ permalink: /underground
 title: Student Underground
 ---
 
-Page last updated 2/4/2023.
+Page last updated 17/2/2024.
 
 ## The Student Underground - newspapers and strikes of the Vietnam era
 

@@ -3,7 +3,7 @@ permalink: /stupol
 title: Stupol Stories
 ---
 
-Page last updated 6/11/2023.
+Page last updated 17/2/2024.
 
 ## Stupol Stories
 
