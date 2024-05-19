@@ -7,9 +7,10 @@ title: About Nhan
 
 Pleased to meet you!
 My name is Nhan and I live in Melbourne.
-Also a first-year university student in 2023.
+Also a second-year university student in 2024, at Monash University in the Faculties of Engineering and Information Technology.
 
-The intention of this website is to be a repository of some documents and articles of interest to me and maybe to you. In addition, there are a few small tools I have made
+The intention of this website is to be a repository of some documents and articles of interest to me and maybe to you.
+I started it back in 2022 when I was a year 12 student at a school in Melbourne.
 
 I sometimes post on my Instagram account [@nhan.an.victorian](https://instagram.com/nhan.an.victorian),
 usually about education and youth issues. I will also notify of updates to this website (new or updated posts) through Instagram.

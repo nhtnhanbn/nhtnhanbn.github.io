@@ -23,9 +23,9 @@ I am in the dark.
 
 I share, on this site or on Instagram, plenty of what I know. The "standard of proof" to share a fact is that I am convinced that it is true.
 
-Until recently, I have minimally relied on personal sources. Most second-hand information is derived or available from public or quasi-public sources and will continue to be. Whilst this strategy has been key to the extent of what I have been able to find, it amounts to just the tip of the iceberg and is exhausting its usefulness. This means that external contributors and allies will become more important, especially through the transformation of the political climate at Monash. There is plenty (mathematically "almost everything") that I do not know - I always open to hear tips or leads. If you have a story to tell I would love to hear it.
+Most second-hand information is derived or available from public or quasi-public sources and will continue to be. There is plenty that I do not know - I always open to hear tips or leads. If you have a story to tell I would love to hear it - or even post about it yourself!
 
-And on my bias in general terms.
+On my biases in general.
 I am political.
 I am not objective.
 I am not partisan.
