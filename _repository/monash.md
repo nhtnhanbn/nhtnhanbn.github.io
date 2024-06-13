@@ -3,15 +3,16 @@ permalink: /monash
 title: The Monash Series
 ---
 
-Page last updated 27/11/2023.
+Page last updated 13/6/2024.
 
 ## The Monash Series
 
 - [Prehistory - Monash Labor Club Genesis](/maonash)
 - [Stories from ancient history](/stupol)
+- [Monash Socialist Alternative club deregistration 2014](/msalt)
 - [State of the Monash Student Association pre-Change](/msa)
 - [Radio Monash Special General Meeting July 2023 - Labor Left stack](/radmon)
-- [WIRED (Faculty of Information Technology Society) Annual General Meeting September 2023 - Change shenanigans and voter fraud](/wired)
+- [Wired (Faculty of Information Technology Society) Annual General Meeting September 2023 - Change shenanigans and voter fraud](/wired)
 - [2023 elections of the Monash Student Association - comprehensive "live" updates](/msa23)
 - [Together no more: a recapitulation of the 2023 MSA elections](/changemsa)
 
