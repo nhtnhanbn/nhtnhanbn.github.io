@@ -7,6 +7,8 @@ Page last updated 13/6/2024.
 
 ## Monash Socialist Alternative club deregistration 2014
 
+Disclaimer: no guarantees of factual accuracy. Some claims are based on best evidence.
+
 A long time ago, "Socialist Alternative" (SAlt) was a club affiliated with the Clubs and Societies (C&S) Council, a division of the Clayton-based Monash Student Association. The club was linked to the national Socialist Alternative organisation which maintains affiliate groups at many Australian universities. In this piece, "SAlt" refers specifically to the Monash Socialist Alternative club.
 
 Students for Palestine was also a C&S club in the past. SFP is a brand linked to SAlt, and at Monash the group known as Students for Palestine historically and to now is a SAlt front. The SFP club became disaffiliated from C&S before the deregistration of SAlt.
