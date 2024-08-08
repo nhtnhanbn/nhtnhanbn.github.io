@@ -96,6 +96,7 @@ In the election for Higher Degree by Research student member on Academic Board, 
 
 ### Documents
 
+- [2023 MSA Elections Count Sheets](https://drive.google.com/file/d/1BjVdr_enYAE8-az_EuX4Pb6CRiYDGVk-/view?usp=sharing)
 - [All official MSA election documents](https://msa.monash.edu/elections)
 - [2023 MSA Election Guide](https://www.yumpu.com/en/document/read/68458888/msa-election-guide-2023)
 - [2023 Election Regulations changes](https://docs.google.com/document/d/179EVEMkXy_XXNNwHGQY-06_rqdXst7QEQl4DRSXRXk8/edit)
