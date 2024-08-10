@@ -26,6 +26,8 @@ I share, on this site or on Instagram, plenty of what I know. The "standard of p
 
 Most second-hand information is derived or available from public or quasi-public sources and will continue to be. There is plenty that I do not know - I always open to hear tips or leads. If you have a story to tell I would love to hear it - or even post about it yourself!
 
+My only role in the Monash Student Association or its Clubs and Societies division is as a general member of some clubs and a committee member of fewer. I am not and have never been a member of the C&S Executive. I am not and have never been an office bearer in the MSA or a member of an MSA committee. I have never run as a candidate in a C&S Executive or MSA election.
+
 On my biases in general.
 I am political.
 I am not objective.
