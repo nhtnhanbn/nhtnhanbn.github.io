@@ -17,7 +17,7 @@ See the [recap](/changemsa) of the last MSA elections, in which the Change ticke
 
 A number of positions have changed hands since, some of them apparently less consequential than others. It is worth paying a few words to Dilhan, a member of the Labor Left who continues to be an actor.
 
-![dilhan (the guy who literally orchestrated and organised the change ticket and is singlehandedly responsible for togethers downfall) is now on academic board?](/files/dilhanmoving.png)
+<img src="/files/dilhanmoving.png" alt="dilhan (the guy who literally orchestrated and organised the change ticket and is singlehandedly responsible for togethers downfall) is now on academic board?" style="max-width:none">
 
 In 2022, Dilhan was [elected president](/wired) of Wired, the Faculty of IT Society, at the top of a seemingly non-political stack. Later that year, he was elected a General Representative on the MSA Clubs and Societies Executive, a position open to C&S or club office bearers. In July 2023, he was a candidate with the attempted stack of [Radio Monash](/radmon). In the 2023 MSA elections, he was not a candidate but helped to organise and campaign for Change. In February 2024, he was appointed by the Academic Board to fill one of two undergraduate representative positions on Academic Board, after the 2023 MSA President departed. In March 2024, the Monash Student Council General Representative elected second on the Change ticket resigned, and Dilhan ascended to the position. Subsequently, he was elected to be the General Representative sitting on the MSA Executive, a position which had been left vacant after insufficient support for a candidate at an earlier MSC meeting.
 
