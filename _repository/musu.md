@@ -21,7 +21,7 @@ Voluntary student unionism was legislated in 2005.
 - [The Age report on the infighting July 2003](https://www.theage.com.au/national/reckoning-for-a-divided-union-20030726-gdw3xe.html)
 - [The State of the Union](https://www.youtube.com/watch?v=eZ2liFcw2Qw) - a documentary on the 2003 MUSU election
 - [Recollections from a More Beer student politician](https://web.archive.org/web/20060302222743/http://ticketdavo.blogspot.com)
-- [The MUSU files](https://melbournescribe.blogspot.com) - comprehensive recounts and commentary from a former MUSU officebearer (the numbered series below the DVD link in the sidebar), dramatic accusations from key players (including Andrew Landeryou, husband of late Senator Kimberley Kitching) in the comments + bonus misspelling of "Nhan"
+- [The MUSU files](https://web.archive.org/web/20231121033306/https://melbournescribe.blogspot.com/) (access using desktop site) - comprehensive recounts and commentary from a former MUSU officebearer (the numbered series below the DVD link in the sidebar), dramatic accusations from key players (including Andrew Landeryou, husband of late Senator Kimberley Kitching) in the comments + bonus misspelling of "Nhan"
 - [2023 reflections from Newman and other players](https://farragomagazine.com/article/farrago/Notes-on-a-Scandal-Conversations-and-Reflections-on-Gary-Newmans-The-State-of-the-Union)
 
 ### See also
