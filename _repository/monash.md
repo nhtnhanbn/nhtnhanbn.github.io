@@ -15,6 +15,7 @@ Page last updated 13/6/2024.
 - [Wired (Faculty of Information Technology Society) Annual General Meeting September 2023 - Change shenanigans and voter fraud](/wired)
 - [2023 elections of the Monash Student Association - comprehensive "live" updates](/msa23)
 - [Together no more: a recapitulation of the 2023 MSA elections](/changemsa)
+- [2024 elections of the Monash Student Association](/msa24)
 
 ### Information integrity
 
