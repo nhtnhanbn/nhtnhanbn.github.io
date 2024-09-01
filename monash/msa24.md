@@ -51,7 +51,7 @@ Free Palestine is led by the Socialist Alternative and members of Students for P
 
 Access, Change, Elevate, Forward, Regen and Party in the MSA, in that order, have qualified for the front page of the ballot. Free Palestine failed to reach the front page.
 
-Positions declared elected unopposed are the Queer Affairs Committee, all on the Change ticket, and independent Indigenous Officers. One of the Queer Affairs Committee candidates, a former president of GLEAM (Queers in STEM), ran last year for Queer Officer with Rainbow Collective but was controversially defeated by Social Justice. One candidate for the Activities Advisory Committee, a member of the Socialist Alternative and incumbent Queer Officer from Social Justice, appears without a ticket.
+Positions declared elected unopposed are the Queer Affairs Committee, all on the Change ticket, and independent Indigenous Officers. One of the Queer Affairs Committee candidates, a former president of GLEAM (Queers in STEM), ran last year for Queer Officer with Rainbow Collective but was controversially defeated by Social Justice. There is no Rainbow Collective this year, with Queer Officer contested by Change and Regen. One candidate for the Activities Advisory Committee, a member of the Socialist Alternative and incumbent Queer Officer from Social Justice, appears without a ticket.
 
 Keep in mind that candidates in a ticket are not necessarily members of or even aligned with the political faction involved with the ticket.
 
@@ -60,11 +60,11 @@ Keep in mind that candidates in a ticket are not necessarily members of or even 
 Students for Palestine ran a petition to call a Student General Meeting. The last (unofficial) SGM had been held online in [2021](/msa), organised by another Socialist Alternative front Defend Democracy at Monash after the Monash Student Council refused to run it in contravention of the MSA constitution. SFP claimed to have gathered over 900 signatures, comfortably enough to require an SGM. The first scheduled MSC meeting at which the petition was to be presented failed to hit quorum. In frustration SFP unilaterally set the date to 3 September. At a rescheduled MSC meeting, that date was unanimously endorsed, despite the MSA claiming to be only able to verify about 250 signatures as belonging to students due to restrictions on student data access. The SGM will be held from 12pm Tuesday 3 September in Campus Centre, 13 days before polls open.
 
 The resolutions proposed by SFP are:
-- MSA, on behalf of the students at Monash University Clayton Campus, supports an immediate and just end to Israel’s war on Gaza. This means stopping the bombing, a permanent withdrawal -of Israeli troops, an end to the 18-year long blockade, and reparations to be paid for the reconstruction of Gaza.
+- MSA, on behalf of the students at Monash University Clayton Campus, supports an immediate and just end to Israel’s war on Gaza. This means stopping the bombing, a permanent withdrawal of Israeli troops, an end to the 18-year long blockade, and reparations to be paid for the reconstruction of Gaza.
 - MSA calls upon Monash University to reveal and cut all ties with companies and institutions involved in the development and manufacturing of weapons used by the IDF against the Palestinian people.
 - MSA will make representations on behalf of students by bringing resolutions [1] and [2] to the attention of the Vice-Chancellor and the General Manager of Monash University.
 
-The election for the student member in the Monash University Council will be held Tuesday 10 September to Tuesday 17 September, essentially the week leading up to the MSA elections. The elections for student members in the Academic Board will be held in October.
+An election for the student member on the Monash University Council will be held Tuesday 10 September to Tuesday 17 September, essentially the week leading up to the MSA elections. Elections for student members on the Academic Board will be held in October.
 
 ### Documents
 
