@@ -3,7 +3,7 @@ permalink: /msa24
 title: 2024 Monash Student Association elections
 ---
 
-Page last updated 1/9/2024.
+Page last updated 2/9/2024.
 
 ## 2024 elections of the Monash Student Association
 
@@ -65,6 +65,8 @@ The resolutions proposed by SFP are:
 - MSA will make representations on behalf of students by bringing resolutions [1] and [2] to the attention of the Vice-Chancellor and the General Manager of Monash University.
 
 An election for the student member on the Monash University Council will be held Tuesday 10 September to Tuesday 17 September, essentially the week leading up to the MSA elections. Elections for student members on the Academic Board will be held in October.
+
+There are also many elections and Annual General Meetings coming up for the MSA Divisions and clubs. These include the MSA Clubs and Societies Council's AGM on Wednesday 4 September to elect a new C&S Executive and the Law Students Society's elections from Wednesday 4 September to Friday 8 September.
 
 ### Documents
 
