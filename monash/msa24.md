@@ -3,13 +3,17 @@ permalink: /msa24
 title: 2024 Monash Student Association elections
 ---
 
-Page last updated 2/9/2024.
+Page last updated 3/9/2024.
 
 ## 2024 elections of the Monash Student Association
 
 Disclaimer: no guarantees of factual accuracy. Some claims are based on best evidence.
 
 Polls are open Monday 16 September to Thursday 19 September.
+
+### Update 3/9/2024 - Student General Meeting motions passed but not binding - 13 days until polls open
+
+The vote was roughly 450 in favour and 40 against, but failed to meet the threshold of 1% of Clayton students voting in favour and so is not binding on the MSA.
 
 ### A context
 
