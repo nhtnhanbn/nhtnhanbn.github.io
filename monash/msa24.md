@@ -3,13 +3,17 @@ permalink: /msa24
 title: 2024 Monash Student Association elections
 ---
 
-Page last updated 3/9/2024.
+Page last updated 6/9/2024.
 
 ## 2024 elections of the Monash Student Association
 
 Disclaimer: no guarantees of factual accuracy. Some claims are based on best evidence.
 
 Polls are open Monday 16 September to Thursday 19 September.
+
+### Update 6/9/2024 - New C&S Executive elected - 10 days until polls open
+
+The Annual General Meeting of the MSA Clubs and Societies Council has elected a [new C&S Executive](https://www.monashclubs.org/About/Admin-News/C-S-Council-AGM-Election-Results-(1)). Of the big four, three have been linked to Change and one is running this year for an MSA office bearer position and NUS delegate on the Change ticket. C&S is often said to be autonomous and apolitical - it is not surprising that some people interested in being on the C&S Executive would also be interested in being in the MSA and interested in government generally.
 
 ### Update 3/9/2024 - Student General Meeting motions passed but not binding - 13 days until polls open
 
@@ -25,7 +29,7 @@ A number of positions have changed hands since, some of them apparently less con
 
 In 2022, Dilhan was [elected president](/wired) of Wired, the Faculty of IT Society, at the top of a seemingly non-political stack. Later that year, he was elected a General Representative on the MSA Clubs and Societies Executive, a position open to C&S or club office bearers. In July 2023, he was a candidate with the attempted stack of [Radio Monash](/radmon). In the 2023 MSA elections, he was not a candidate but helped to organise and campaign for Change. In February 2024, he was appointed by the Academic Board to fill one of two undergraduate representative positions on Academic Board, after the 2023 MSA President departed. In March 2024, the Monash Student Council General Representative elected second on the Change ticket resigned, and Dilhan ascended to the position. Subsequently, he was elected to be the General Representative sitting on the MSA Executive, a position which had been left vacant after insufficient support for a candidate at an earlier MSC meeting.
 
-The position of Authorised Officer for the Change ticket changed hands a few times, and ended up with Dilhan. This gave him the power to appoint people to fill vacancies if a person elected on the Change ticket resigned from their MSA position, besides office bearers but including MSC General Representatives.
+The position of Authorised Officer for the Change ticket changed hands and ended up with Dilhan. This gave him the power to appoint people to fill vacancies if a person elected on the Change ticket resigned from their MSA position, besides office bearers but including MSC General Representatives.
 
 ### Palestine
 
