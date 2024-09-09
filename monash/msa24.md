@@ -11,6 +11,10 @@ Disclaimer: no guarantees of factual accuracy. Some claims are based on best evi
 
 Polls are open Monday 16 September to Thursday 19 September.
 
+### Update 9/9/2024 - University Council candidates - 7 days until polls open
+
+The candidates for student member of the Monash University Council have been [released](https://www.monash.edu/council-elections). With 20 candidates successfully nominating, this is an especially crowded election for a position elected once every two years from both undergraduate and postgraduate students across every Australian campus. Familiar names include a leader of the Labor Right closely linked to Elevate, a Liberal and current MSA MAPS President, and the student representative to Academic Board elected last year. The current student member is a former MSA President and Academic Board student representative, from Together and the Labor Right. Voting starts tomorrow and runs for one week.
+
 ### Update 6/9/2024 - New C&S Executive elected - 10 days until polls open
 
 The Annual General Meeting of the MSA Clubs and Societies Council has elected a [new C&S Executive](https://www.monashclubs.org/About/Admin-News/C-S-Council-AGM-Election-Results-(1)). Of the big four, three have been linked to Change and one is running this year for an MSA office bearer position and NUS delegate on the Change ticket. C&S is often said to be autonomous and apolitical - it is not surprising that some people interested in being on the C&S Executive would also be interested in being in the MSA and interested in government generally.
