@@ -3,13 +3,25 @@ permalink: /msa24
 title: 2024 Monash Student Association elections
 ---
 
-Page last updated 6/9/2024.
+Page last updated 11/9/2024.
 
 ## 2024 elections of the Monash Student Association
 
 Disclaimer: no guarantees of factual accuracy. Some claims are based on best evidence.
 
 Polls are open Monday 16 September to Thursday 19 September.
+
+### Update 11/9/2024 - Election Guide released - 5 days until polls open
+
+Read it [here](https://www.yumpu.com/en/document/view/68800046/msa-election-guide-2024).
+
+### Update 11/9/2024 - On "joke" tickets - 5 days until polls open
+
+This is not specifically about the MSA, it is a bit of student politics history. "More beer" is perhaps one of the more common phrases and policies in student union elections.
+
+The 11th of September happens to be a historic date for Australian student politics. The national growth of the initially Melbourne-based Socialist Alternative was catalysed by the S11 (September 11) protests in 2000. SAlt tried to replicate the protests again on 11 September 2001, which overlapped with election week at the Melbourne University Student Union. This was one of the speculated reasons that the left-wing administration of MUSU decided to delay the election. After going to court, the result was the original election dates reinstated and nominations not reopened. The only tickets to have successfully nominated by the original date were the Labor Right ticket and a small "quasi-joke" opposition ticket, headed by a figure later central in the More Beer club and its MUSU ticket. So the Labor Right gained control of MUSU practically uncontested, which it maintained until the union's collapse.
+
+Despite running joke election campaigns, More Beer was a core part of the opposition to the Labor Right and its corruption of MUSU. Its representative on the Activities Committee recognised and delayed the establishment of the subcommittee which would go on to deregister the leftwing clubs and deprive them of a box on the front page of the ballot booklet. The subcommittee failed to deregister More Beer due to its rock-solid paperwork. More Beer was first to recognise the value in collaborating with the filmmaker Gary Newman. It was central in creating the coalition to exchange preferences and try to take down the Labor Right in that election. More Beer ran as a joke ticket, but it was serious about the union.
 
 ### Update 9/9/2024 - University Council candidates - 7 days until polls open
 
