@@ -11,6 +11,10 @@ Disclaimer: no guarantees of factual accuracy. Some claims are based on best evi
 
 Polls are open Monday 16 September to Thursday 19 September.
 
+### Update 12/9/2024 - Access and Regen exchange endorsements - 4 days until polls open
+
+2 days ago, Regen endorsed Access. Today, Access has endorsed Regen. The two tickets do not compete directly for any positions, with Access running only for Disabilities and Carers Officer and Committee which they are contesting against Change.
+
 ### Update 11/9/2024 - Election Guide released - 5 days until polls open
 
 Read it [here](https://www.yumpu.com/en/document/view/68800046/msa-election-guide-2024).
