@@ -3,13 +3,16 @@ permalink: /msa24
 title: 2024 Monash Student Association elections
 ---
 
-Page last updated 11/9/2024.
+Page last updated 16/9/2024.
 
 ## 2024 elections of the Monash Student Association
 
 Disclaimer: no guarantees of factual accuracy. Some claims are based on best evidence.
 
 Polls are open Monday 16 September to Thursday 19 September.
+
+### Update 16/9/2024 - Polls open - 3 days until polls close
+All eligible voters have been emailed a link to cast their vote online. Voting closes 5pm on Thursday.
 
 ### Update 12/9/2024 - Access and Regen exchange endorsements - 4 days until polls open
 
@@ -61,9 +64,9 @@ Separately, the Greens Society (and SFP indirectly) called on engineering clubs 
 
 ### Who is running?
 
-Coming off the back of a remarkably close three-ticket election in 2023, this year will see an extraordinary number of tickets nominate candidates compared to recent MSA elections. The factions participating in tickets are the Labor Left (under Change), Labor Right (Elevate), Socialist Alternative (Free Palestine, Change, unticketed), Greens (Regen) and Liberals (Forward).
+Coming off the back of a remarkably close three-ticket election in 2023, this year will see an extraordinary number of tickets nominate candidates compared to recent MSA elections. The factions participating in tickets are the Labor Left (under Change), Labor Right (Elevate), Socialist Alternative (Free Palestine, Change), Greens (Regen) and Liberals (Forward).
 
-The incumbents Change are led by the Labor Left and also includes candidates from the Socialist Alternative for Education (Public Affairs) Officer. Change is running the most candidates of the contesting tickets, with 88 across all positions except Indigenous Officer and the Student Affairs Committee (in which Free Palestine has nominated). An item of trivia about the Change candidate for Treasurer is that they feature in one of the few [documented stacks](/radmon) in recent Monash history.
+The incumbents Change are led by the Labor Left and also includes candidates from the Socialist Alternative for Education (Public Affairs) Officers, one of two Environment and Social Justice Officers and one NUS Delegate. Change is running the most candidates of the contesting tickets, with 88 across all positions except Indigenous Officer and the Student Affairs Committee (in which Free Palestine has nominated). An item of trivia about the Change candidate for Treasurer is that they feature in one of the few [documented stacks](/radmon) in recent Monash history.
 
 Elevate, which could be considered successors of the previously dominant Together ticket, is organised by a coalition of subfactions of the Labor Right. Running 86 candidates across all positions except Indigenous Officer and the Queer and D&C Officers and Committees, Elevate will compete directly against Change in the vast majority of elections.
 
