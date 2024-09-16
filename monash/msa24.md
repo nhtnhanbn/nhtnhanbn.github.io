@@ -11,10 +11,22 @@ Disclaimer: no guarantees of factual accuracy. Some claims are based on best evi
 
 Polls are open Monday 16 September to Thursday 19 September.
 
+### Update 16/9/2024 - First day of polling done - 3 days until polls close
+
+Elevate had a relatively strong presence on campus today, alongside Change and Free Palestine campaigners. Elevate in red, Change in green, with Free Palestine blending in with their darker colour scheme.
+
+A number of tickets have published "how to vote" posts today. Change is not recommending any further preference, which is unsurprising as they are running in almost every contest and would be expecting to easily make the top two across all elections. Elevate is recommending Access for the D&C Department and Regen for Queer Officers, both of which have Change as the only other ticket. With the decision to not contest these two departments, this HTV reflects Elevate's priority to lock Change out of all contested positions. Regen is recommending full preferences in order to Access, Elevate, Change, Party in the MSA, and Forward last. Forward is recommending preferences to Elevate followed by Access.
+
+Free Palestine, which did not achieve front page status, has not published an HTV. Members of Socialist Alternative running on the Change ticket generally are campaigning for Free Palestine and pretending that they are part of that ticket instead. On the other hand, a few Socialist Alternative members promoting Free Palestine are saying to "vote 1 Change".
+
+Voters are not obligated to follow the tickets' suggestions nor submit full preferences, and there is not a lot of reason to believe that a high proportion would do either. Overall, in the two-ticket contest between Change and Elevate, Change is favoured by Free Palestine whilst Elevate has the support of Regen and Forward.
+
 ### Update 16/9/2024 - Graduations - 3 days until polls close
+
 There are graduation ceremonies at the Clayton campus for all four days of polling.
 
 ### Update 16/9/2024 - Polls open - 3 days until polls close
+
 All eligible voters have been emailed a link to cast their vote online. Voting closes 5pm on Thursday.
 
 ### Update 12/9/2024 - Access and Regen exchange endorsements - 4 days until polls open
@@ -69,7 +81,7 @@ Separately, the Greens Society (and SFP indirectly) called on engineering clubs 
 
 Coming off the back of a remarkably close three-ticket election in 2023, this year will see an extraordinary number of tickets nominate candidates compared to recent MSA elections. The factions participating in tickets are the Labor Left (under Change), Labor Right (Elevate), Socialist Alternative (Free Palestine, Change), Greens (Regen) and Liberals (Forward).
 
-The incumbents Change are led by the Labor Left and also includes candidates from the Socialist Alternative for Education (Public Affairs) Officers, one of two Environment and Social Justice Officers and one NUS Delegate. Change is running the most candidates of the contesting tickets, with 88 across all positions except Indigenous Officer and the Student Affairs Committee (in which Free Palestine has nominated). An item of trivia about the Change candidate for Treasurer is that they feature in one of the few [documented stacks](/radmon) in recent Monash history.
+The incumbents Change are led by the Labor Left and also includes candidates from the Socialist Alternative for Education (Public Affairs) Officers, one of two Environment and Social Justice Officers, one MSC General Representative and one NUS Delegate. Change is running the most candidates of the contesting tickets, with 88 across all positions except Indigenous Officer and the Student Affairs Committee (in which Free Palestine has nominated). An item of trivia about the Change candidate for Treasurer is that they feature in one of the few [documented stacks](/radmon) in recent Monash history.
 
 Elevate, which could be considered successors of the previously dominant Together ticket, is organised by a coalition of subfactions of the Labor Right. Running 86 candidates across all positions except Indigenous Officer and the Queer and D&C Officers and Committees, Elevate will compete directly against Change in the vast majority of elections.
 
