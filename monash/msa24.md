@@ -11,6 +11,9 @@ Disclaimer: no guarantees of factual accuracy. Some claims are based on best evi
 
 Polls are open Monday 16 September to Thursday 19 September.
 
+### Update 16/9/2024 - Graduations - 3 days until polls close
+There are graduation ceremonies at the Clayton campus for all four days of polling.
+
 ### Update 16/9/2024 - Polls open - 3 days until polls close
 All eligible voters have been emailed a link to cast their vote online. Voting closes 5pm on Thursday.
 
