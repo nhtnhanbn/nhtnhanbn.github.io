@@ -13,18 +13,7 @@ Polls are open Monday 16 September to Thursday 19 September.
 
 ### Update 17/9/2024 - Second day of polling done - 2 days until polls close
 
-Posters showed up on campus:
-> *"Different name.*
-
-> *Different colour.*
-
-> *Elevate = Together*
-
-> *Same people.*
-
-> *Same mistakes.*
-
-> ***Don't go back."***
+Posters showed up on campus *"Different name. - Different colour. - Elevate = Together - Same people. - Same mistakes. - **Don't go back.***"
 
 Some students have reported being called by members of Socialist Alternative who obtained phone numbers from the Students for Palestine petition to call the SGM. Elevate have linked this to the Change ticket.
 
