@@ -11,6 +11,12 @@ Disclaimer: no guarantees of factual accuracy. Some claims are based on best evi
 
 Polls are open Monday 16 September to Thursday 19 September.
 
+### Update 18/9/2024 - Third day of polling done - 1 day until polls close
+
+Free Palestine copped a pretty substantial campaigning ban today. They have been pushing for Change votes.
+
+In a funny encounter today an Elevate campaigner approached me and asked me if I have voted, and I replied that I have not, to which they walked away.
+
 ### Update 17/9/2024 - Second day of polling done - 2 days until polls close
 
 Posters showed up on campus *"Different name. - Different colour. - Elevate = Together - Same people. - Same mistakes. - **Don't go back.***"
