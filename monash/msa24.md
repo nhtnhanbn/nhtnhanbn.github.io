@@ -3,13 +3,17 @@ permalink: /msa24
 title: 2024 Monash Student Association elections
 ---
 
-Page last updated 17/9/2024.
+Page last updated 19/9/2024.
 
 ## 2024 elections of the Monash Student Association
 
 Disclaimer: no guarantees of factual accuracy. Some claims are based on best evidence.
 
 Polls are open Monday 16 September to Thursday 19 September.
+
+### Update 19/9/2024 - Change wins
+
+The incumbents have scored another, crucial, victory, consolidating their hold on the MSA after coming to power at last year's elections.
 
 ### Update 19/9/2024 - Polls closed
 
