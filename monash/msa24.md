@@ -11,6 +11,16 @@ Disclaimer: no guarantees of factual accuracy. Some claims are based on best evi
 
 Polls are open Monday 16 September to Thursday 19 September.
 
+### Update 19/9/2024 - Polls closed
+
+Campaigners now nowhere to be seen on campus. We await results.
+
+Today, Regen joined Elevate in reporting unsolicited phone calls asking the receiver to vote for Change.
+
+I have been given a photo of a room being used to store some merchandise of a ticket. While the room is widely considered/assumed to be a club office of an MSA C&S-affiliated club, it is not officially recognised as such by C&S.
+
+And yes, I did vote although my ballot for NUS Delegate did not go through in time.
+
 ### Update 18/9/2024 - Third day of polling done - 1 day until polls close
 
 Free Palestine copped a pretty substantial campaigning ban today. They have been pushing for Change votes.
