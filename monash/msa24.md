@@ -3,13 +3,39 @@ permalink: /msa24
 title: 2024 Monash Student Association elections
 ---
 
-Page last updated 19/9/2024.
+Page last updated 20/9/2024.
 
 ## 2024 elections of the Monash Student Association
 
 Disclaimer: no guarantees of factual accuracy. Some claims are based on best evidence.
 
 Polls are open Monday 16 September to Thursday 19 September.
+
+### Update 20/9/2024 -
+
+[Provisional results](https://drive.google.com/file/d/1gpA-XXkBIjX5RSHhUOcwUOMJMXkKQXon/view?usp=sharing) have been distributed, revealing the extent of Change's victory.
+
+Total turnout was 13.2%, marginally up from 12.1% last year.
+
+In the presidential election, Change increased their primary vote share significantly from 35% last year to 53%, with Elevate's share identical to Together's at 36%. Party in the MSA and Forward both won 4%, with Regen trailing on 3% of the vote.
+
+In direct head-to-head elections between Change and Elevate, Change won the two-ticket preferred vote 57%-43%. Compared to the primary vote, after the exclusion of the small tickets Change gains 4% whilst Elevate gains 7%.
+
+With a majority of the vote, Change has won all non-autonomous office bearer positions and again achieved a majority of the Monash Student Council. They will almost certainly hold the entire MSA Executive. Together, Change and Elevate have locked out the smaller tickets from non-autonomous committees with Change winning 4 to Elevate's 3 seats on each committee and the National Union of Students. Change will hold 3 Monash Student Council General Representatives, with Elevate winning 2. The Monash Student Council will have a Change majority (including the Socialist Alternative), with representation of Elevate and Access alongside the divisions (which also might be politically linked).
+
+Access has defeated Change in the Disabilities & Carers Department. With 60% of the vote, the incumbent D&C Officer and Access organiser has won re-election, alongside 4 seats to Access on the D&C Committee against Change's 3.
+
+Elevate will hold all seats in the Student Affairs Committee, winning 96% of the vote in this election. The only other ticket contesting this committee, Free Palestine, received a dismal 4% of the vote and no seats after failing to qualify for the front page of the ballot.
+
+Elevate has defeated Change in the Women's Department, following Together's victory last year. Elevate won Women's Officer with 52% of the vote and secured 4 seats on the Women's Committee, with Change taking the remaining 3.
+
+Change has defeated Regen to gain the Queer Officer on 58% of the vote after taking the Queer Affairs Committee unopposed.
+
+People of Colour Officer was the only office-bearer election to require a distribution of preferences in order to determine the winner. Change received a primary vote of 47% to Elevate's 42%. After preferences from Party in the MSA (6%) and Regen (5%) were distributed, Change were elected with 49% against Elevate on 46% and 5% of votes exhausted. The POC Collective balance is uncertain with Change holding 45% and Elevate holding 43%, however based on the POC Officer election it will likely go 4 seats to Change and 3 seats to Elevate.
+
+Despite the failure of Free Palestine, members of the Socialist Alternative elected with the Change ticket include both Education (Public Affairs) Officers, one of the two Environment & Social Justice Officers, an MSC General Representative and an NUS Delegate.
+
+This election was a success for Change. Although not quite a landslide by MSA standards, the incumbents have importantly strengthened their vote after a closely contested election last year. Coming from second on primary in 2023, Change has jumped to a majority of the vote after absorbing most of the Social Justice/Socialist Alternative vote, holding the Labor Right ticket to a static share, and easily seeing off challenges from a broader array of tickets. However, they have not come close to meeting the landslide proportions of the Together victories and will be very aware that even those buffers are no guarantee of retaining the MSA next year.
 
 ### Update 19/9/2024 - Change wins
 
@@ -23,7 +49,7 @@ Today, Regen joined Elevate in reporting unsolicited phone calls asking the rece
 
 I have been given a photo of a room being used to store some merchandise of a ticket. While the room is widely considered/assumed to be a club office of an MSA C&S-affiliated club, it is not officially recognised as such by C&S.
 
-And yes, I did vote although my ballot for NUS Delegate did not go through in time.
+And yes, I did vote although my ballot for NUS Delegate did not go through in time. I also forgot that I am a person of colour.
 
 ### Update 18/9/2024 - Third day of polling done - 1 day until polls close
 
