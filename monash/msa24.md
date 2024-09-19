@@ -11,7 +11,7 @@ Disclaimer: no guarantees of factual accuracy. Some claims are based on best evi
 
 Polls are open Monday 16 September to Thursday 19 September.
 
-### Update 20/9/2024 -
+### Update 20/9/2024 - No surprises
 
 [Provisional results](https://drive.google.com/file/d/1gpA-XXkBIjX5RSHhUOcwUOMJMXkKQXon/view?usp=sharing) have been distributed, revealing the extent of Change's victory.
 
