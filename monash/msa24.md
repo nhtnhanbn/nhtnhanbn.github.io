@@ -11,6 +11,12 @@ Disclaimer: no guarantees of factual accuracy. Some claims are based on best evi
 
 Polls are open Monday 16 September to Thursday 19 September.
 
+### Update 20/9/2024 - University Council results
+
+The Academic Board undergraduate student representative elected last year has also been [elected](https://www.monash.edu/__data/assets/pdf_file/0007/3781852/Monash-University-Council-2024-Election-Notice-of-Results-v2.pdf) as student member of University Council, easily defeating 19 other candidates including major challengers in a Liberal and an Elevate-linked Labor Right member.
+
+The NTEU failed to elect their candidate for staff member of University Council.
+
 ### Update 20/9/2024 - No surprises
 
 [Provisional results](https://drive.google.com/file/d/1gpA-XXkBIjX5RSHhUOcwUOMJMXkKQXon/view?usp=sharing) have been distributed, revealing the extent of Change's victory.
