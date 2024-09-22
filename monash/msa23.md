@@ -234,7 +234,7 @@ Plenty more to talk about.
 
 ### Documents
 
-- [All official MSA election documents](https://msa.monash.edu/elections)
+- [All official MSA election documents](https://web.archive.org/web/20240330114832/https://monashstudentassociation.com.au/elections/)
 - [2023 MSA Election Guide](https://www.yumpu.com/en/document/read/68458888/msa-election-guide-2023)
 - [2023 Election Regulations changes](https://docs.google.com/document/d/179EVEMkXy_XXNNwHGQY-06_rqdXst7QEQl4DRSXRXk8/edit)
 
