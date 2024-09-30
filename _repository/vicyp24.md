@@ -3,7 +3,7 @@ permalink: /vicyp24
 title: Victorian Youth Parliament 2024
 ---
 
-Page last updated 30/9/2024.
+Page last updated 1/10/2024.
 
 ## Victorian Youth Parliament 2024
 
@@ -13,9 +13,9 @@ In June of 2023, I visited the State Library to collect primary source material 
 
 I joined the Whitehorse City Council's Youth Parliament team this year. The [Victorian Youth Parliament](https://vicyouth.ymca.org.au/learning-and-leadership/youth-parliament) has young Victorians 16-25 years old draft a bill in teams of six, then debate and vote on them over a few days at Parliament House. Participants also get the chance to deliver a member's statement, in the style of an adjournment debate. Additionally, there is a national matter of public importance which is debated at all Youth Parliaments around Australia, which this year was on regulation of monopoly. In debates, youth parliamentarians are assigned a specific side to debate on but ultimately have an unbound conscience vote.
 
-At Parliament House I gave a number of speeches, all with a time limit of two minutes. While certain fellow youth parliamentarians were impressively intent about using the programme and their speeches to make/test actual change and influence MPs, I saw it as mainly a performance aimed at the audience sitting in the green house with me. Whilst the programme is for participants aged 16-25 years, this year especially had a younger, overwhelmingly school student cohort. These were the people I had in mind when I spoke, and what I spoke was naturally not necessarily what I believe.
+At Parliament House I gave a number of speeches, all with a time limit of two minutes. While certain fellow youth parliamentarians were impressively intent about using the programme and their speeches to make/test actual change and influence MPs, I saw it as mainly a performance aimed at the audience sitting in the green house with me. Whilst the programme is for participants aged 16-25 years (I was 20 years old), this year especially had a younger, overwhelmingly school student cohort. These were the people I had in mind when I spoke, and what I spoke was naturally not necessarily what I believe. Neither did I prioritise conforming to the broader strategy and context of my side of the debate.
 
-I have decided to post a few of my speeches. The ones that I wrote out are a small minority (and even then sometimes incomplete with space for improvisation), so speeches for which I hold few or no notes cannot yet be published. Some others would have been recorded or transcribed, but these have not yet been made available.
+I have decided to post a selection of my speeches. The ones that I wrote out are a small minority (and even then sometimes incomplete with space for improvisation), so speeches for which I hold few or no notes cannot yet be published. Some others would have been recorded or transcribed, but these have not yet been made available.
 
 ### School costs
 
@@ -65,11 +65,13 @@ An earlier version of this speech included a denunciation of a trade union, whic
 
 This was a speech against a bill proposing comprehensive Auslan education. It was a bill proposed by the Hume City Council team, a team which supplied some of the most powerful debaters that I heard in either the green or red house. I voted for the bill.
 
-> This bill is novel and it is bold. I think it is worth recognising and thanking the ambitious and valuable contribution that our friends opposite have given to this discussion.
+> Let us be very clear that this is an important issue. This bill is novel and it is bold. I think it is worth recognising and thanking the ambitious and valuable contribution that our friends opposite have given to this discussion.
 
-> With that ambition comes risk and the unknown, and we have already heard some concerns with the practical aspects of this bill. My fear is that passing this bill would distract and divert effort, attention and resources from measures and programmes which have a higher likelihood of success and positive impact, including programmes which are already supported and being implemented by the deaf community and existing organisations.
+> With that ambition comes risk and the unknown, and we have already heard from my friends on this side some concerns with the practical aspects of this bill. My fear is that passing this bill would distract and divert effort, attention and resources from measures and programmes which have a higher likelihood of success and positive impact, including programmes which are already supported and being implemented right now by the deaf community and existing organisations.
 
-> As we have heard, this bill has to be implemented on a massive scale and is not targeted to provide the most impact and relevance to deaf and hard of hearing people in an efficient manner. It relies on the creation of a new government bureacracy to enforce and oversee the implementation and compliance requirements as outlined in the bill. For these reasons, I believe that we can provide more practical and directed support by prioritising what has been specifically proposed by the deaf community, acknowledging the diverse range of views and experiences of people in the community.
+> As we have heard, this bill has to be implemented on a massive scale. Every employer in the retail and pharmaceutical sectors, every school will be implementing part of this bill. And with that massive scale, that means that this bill is not targeted to provide the most impact and relevance to deaf and hard of hearing people in an efficient manner.
+
+> It relies on the creation of a new government bureaucracy to enforce and oversee the implementation of this bill. It asks for Auslan educators to act as compliance officers, to go to businesses to audit. Would these Auslan educators not be better used to provide the most impact to where deaf and hard of hearing people interact the most and are most relevant for them? For these reasons, I believe that we can provide more practical and directed support by prioritising what has been specifically proposed by the deaf community, acknowledging the diverse range of views and experiences of people in the community.
 
 > These are things like ensuring that functional hearing loops become the norm. Like guaranteeing captions in all media. Like guaranteeing Auslan interpreters at all press conferences and public addresses, and requiring that broadcasters ensure that the Auslan interpreters are visible at all times. Like providing sustainable recurrent funding to community support and advocacy organisations.
 
@@ -103,15 +105,53 @@ A taster of the infamous [collapse](/musu) of the Melbourne University Student U
 
 > Speaker, inaction, allowing this situation to continue, would be negligence by this House. Our failure means gaps will persist, to be filled by other indpendent organisations without oversight. Like MUSU, there are no guarantees that such programmes will not be affected by incompetence, corruption and rorts. There is no guarantee that such programmes will not end. This bill provides certainty. This bill provides confidence. This bill provides accountability. This bill provides affordability.
 
+### Public transport
+
+This was a speech against a bill proposing a number of reforms to regional public transport. I do not remember my vote.
+
+> Can I first say that I love public transport. And I would love for my regional and rural comrades to have the same mobility that I do as a resident of a metropolitan area.
+
+> I do have some questions for our friends opposite and I would love for them to be answered to clarify some points on this bill.
+
+> Why are we maintaining fares for concession holders, rather than providing free public transport for concession holders or indeed free public transport for all Victorians?
+
+> Would tailoring concession fares make it more complicated and confusing for the traveller? Is it worth it?
+
+> The bill proposes to extend Myki statewide, but also provides to install card and cash machines. Would the use of these machines slow boarding of buses and lead to delays?
+
+> The bill also proposes a campaign to increase public transport usage, and some of our friends opposite have given good reasons for doing so. But would doing so lead to overcrowding or lower service quality for those who truly need it?
+
+> The bill proposes that to increase efficiency of services, that frequency is increased. But, and correct me if I have misread, but there seems to be no mention of reviews to add or modify routes, or to add stops as my colleague on this side has mentioned. Is simply increasing frequency sufficient?
+
+> I look forward to these questions being answered by our friends opposite.
+
+Several of the questions were answered in subsequent speeches.
+
+### Sovereignty
+
+This was a speech in favour of a bill proposing mandatory desexing of pets. I was absent from the house during the division.
+
+> Fundamentally, this bill is about what our responsibility is to our fellow living beings. That includes both our pets, and the other animals and plants that our pets interact with.
+
+> So to be responsible, that means to ensure that our pets have the best quality of life. It also means that our pets are not damaging the environment, are not harming other animals, are not harming other people.
+
+> So unfortunately, it seems that some of our friends opposite have missed the point. Because of course it is the responsibility of the individual pet owners to demonstrate that care for both their pets and other living beings. But of course, when pet owners fail to do that, it is the responsibility of the government to intervene to ensure that our community and our environment continue to be safe and protected.
+
+> And for anybody who thinks that it is infeasible, we have heard already that local councils are already implementing these sorts of policies, we have seen interstate that these similar policies have been implemented, so all that this bill does is harmonise that across this state and ensure that there is consistent regulation of desexing across this state so that there is certainty for every pet owner.
+
 ### Devolution
 
-This was part of a speech against a bill proposing widespread implementation of digester tanks to turn organic waste into biofuels and fertiliser. The debate was chaired by Tim Read, who seemed to have fun.
+This was part of a speech against a bill (the final debate) proposing widespread implementation of digester tanks to turn organic waste into biofuels and fertiliser. I do not remember my vote. The debate was chaired by Tim Read, who seemed to have fun.
 
 In an earlier debate, I had extolled the benefits of imposing statewide uniformity on a traditional council issue.
 
-> Despite its facade of nobility, this bill reveals our friends' shocking disregard for local council autonomy. Is nothing sacred?
+> We have heard a lot of discussion about the various benefits and disadvantages of this proposal. My point would be that each local community is unique. There is no two identical councils or local government areas in this state. And for that reason, the local councils who are closest to their constituents are best placed to respond to the needs of their residents, to accommodate the needs of their community, and to work towards a renewable future within the context of their unique circumstances.
 
-> Tyranny is what our friends opposite are proposing. We are appalled. I condemn this bill.
+> So despite its facade of nobility, this bill reveals our friends' shocking disregard for local council autonomy. Is nothing sacred?
+
+> Tyranny is what our friends opposite are proposing. We are appalled and I condemn this bill.
+
+In the speech immediately following, the deputy opposition leader - a formidable and intelligent politician - referenced and refuted my speech alongside many of the previous speeches on my side of the debate.
 
 ### Proportionality
 
@@ -127,5 +167,20 @@ This was an impromptu member's statement.
 
 > If we are serious about youth participation in government, if we are serious about encouraging young people to run for council, to contribute to the civic life of our state, we need to return to proportional multi-member wards in order to encourage - in order to make it feasible and actually realistic for young people to actually get elected to councils.
 
+### Drugs
+
+This is not my speech. It was a member's statement by fellow youth parliamentarian Chris Oates. Chris and I have similar age but lead different lives - for instance, he has never studied at a university. He is a wise man and one of the great youth parliamentarians of this year.
+
+> I stand here today because I want to reduce the amount of drug abuse in Victoria, and I believe educating the youth is the most effective strategy. Get to them before someone less responsible does.
+
+> Currently, drugs like MDMA, psilocybin are being used in studies in trauma therapy. Cannabis is around the corner and Oregon, a state in America, had a four-year stint of decriminalising all hard drugs, which only receently ended this April. Plus, an overall increase in the use of party drugs such as methamphetamine, heroin, cocaine, GHB, MDMA, ketamine, and not so party LSD, psilocybin, cannabis. Point being, drugs are around. Regulated or not, people will do them.
+
+> What I want is people educated before they are given that opportunity to dabble. I want a PSA, similar to what you have been doing with domestic violence. In this PSA, highlight what I call the five Rs: Right place, Right time, Right people and Right Respect. The fifth R being Respect. Get this running through young people's heads.
+
+> I also want the PSA to highlight Right Respect, R-E-S-P-E-C-T. Research and reduction for the first R. Research the drug. Reduce the harm on the body. Experience - people have never done this, so value it. Safety - common sense. Plan - cater to the drug. If you are using LSD, arts and crafts, simple. Enjoy - it is meant to be an enjoyable experience. Conversate with others - tell others what is happening to you. And Test before you do.
+
+> To put this into perspective, a young man who is curious about the drug scene, fresh out of high school, goes clubbing. Is offered a substance and in his head he runs the five R's. He analyses the situation and instead of taking the drug in the heat of the moment, he takes it home to take into the experience in a controlled environment.
+
 ### Archive
-- [List of bills and full audio of debates](https://vicyouth.ymca.org.au/learning-and-leadership/youth-parliament/youth-parliament-archives/2024-archives)
+
+[List of bills and full audio of debates](https://vicyouth.ymca.org.au/learning-and-leadership/youth-parliament/youth-parliament-archives/2024-archives) - there are many profound and powerful speeches to listen to. The consistently best debaters were deservedly recognised as [Salman and McArdle](https://www.parliament.vic.gov.au/news/general-news/yp24closing/) from the green and red house respectively.
