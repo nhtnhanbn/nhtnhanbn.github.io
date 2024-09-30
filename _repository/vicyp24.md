@@ -3,7 +3,7 @@ permalink: /vicyp24
 title: Victorian Youth Parliament 2024
 ---
 
-Page last updated 22/9/2024.
+Page last updated 30/9/2024.
 
 ## Victorian Youth Parliament 2024
 
@@ -15,7 +15,7 @@ I joined the Whitehorse City Council's Youth Parliament team this year. The [Vic
 
 At Parliament House I gave a number of speeches, all with a time limit of two minutes. While certain fellow youth parliamentarians were impressively intent about using the programme and their speeches to make/test actual change and influence MPs, I saw it as mainly a performance aimed at the audience sitting in the green house with me. Whilst the programme is for participants aged 16-25 years, this year especially had a younger, overwhelmingly school student cohort. These were the people I had in mind when I spoke, and what I spoke was naturally not necessarily what I believe.
 
-I have decided to post a few of my speeches. The ones that I wrote out are a small minority (and even then sometimes incomplete with space for improvisation), so speeches for which I hold few or no notes (like my second member's statement) cannot be published. Some others would have been recorded or transcribed, but these have not yet been made available.
+I have decided to post a few of my speeches. The ones that I wrote out are a small minority (and even then sometimes incomplete with space for improvisation), so speeches for which I hold few or no notes cannot yet be published. Some others would have been recorded or transcribed, but these have not yet been made available.
 
 ### School costs
 
@@ -103,7 +103,7 @@ A taster of the infamous [collapse](/musu) of the Melbourne University Student U
 
 > Speaker, inaction, allowing this situation to continue, would be negligence by this House. Our failure means gaps will persist, to be filled by other indpendent organisations without oversight. Like MUSU, there are no guarantees that such programmes will not be affected by incompetence, corruption and rorts. There is no guarantee that such programmes will not end. This bill provides certainty. This bill provides confidence. This bill provides accountability. This bill provides affordability.
 
-### Local government
+### Devolution
 
 This was part of a speech against a bill proposing widespread implementation of digester tanks to turn organic waste into biofuels and fertiliser. The debate was chaired by Tim Read, who seemed to have fun.
 
@@ -112,3 +112,20 @@ In an earlier debate, I had extolled the benefits of imposing statewide uniformi
 > Despite its facade of nobility, this bill reveals our friends' shocking disregard for local council autonomy. Is nothing sacred?
 
 > Tyranny is what our friends opposite are proposing. We are appalled. I condemn this bill.
+
+### Proportionality
+
+This was an impromptu member's statement.
+
+> My statement will be addressed to the Minister for Local Government, and I call on the Minister to take action to roll back forcing single-member wards on all local councils in Victoria.
+
+> Yesterday, I had the amazing opportunity to speak with Sven Bluemmel, and I first met Sven when he was the Information Commissioner - a phenomenal Information Commissioner.
+
+> But now he is the Electoral Commissioner. And I spoke to him about this year's local government elections, which will be occurring in October. And I spoke to him about the introduction of single-member wards across the board. And in our conversation, we realise that the last time local government elections were held, there were around two hundred something essentially individual elections across the state. Now there are over four hundred. So that is now a massive logistical challenge for the Victorian Electoral Commission to address in this cycle.
+
+> But more importantly, across my time in Youth Parliament I have met some incredible young people, and a number of those young people will be running for local government this October. But being young people, they do not have the profile that many other members of their community do. And that means that in single-member wards, as opposed to multi-member proportionally elected wards, these young people will have an inherent disadvantage in getting elected to their council.
+
+> If we are serious about youth participation in government, if we are serious about encouraging young people to run for council, to contribute to the civic life of our state, we need to return to proportional multi-member wards in order to encourage - in order to make it feasible and actually realistic for young people to actually get elected to councils.
+
+### Archive
+- [List of bills and full audio of debates](https://vicyouth.ymca.org.au/learning-and-leadership/youth-parliament/youth-parliament-archives/2024-archives)
