@@ -3,7 +3,7 @@ permalink: /vicyp24
 title: Victorian Youth Parliament 2024
 ---
 
-Page last updated 1/10/2024.
+Page last updated 18/10/2024.
 
 ## Victorian Youth Parliament 2024
 
@@ -15,7 +15,9 @@ I joined the Whitehorse City Council's Youth Parliament team this year. The [Vic
 
 At Parliament House I gave a number of speeches, all with a time limit of two minutes. While certain fellow youth parliamentarians were impressively intent about using the programme and their speeches to make/test actual change and influence MPs, I saw it as mainly a performance aimed at the audience sitting in the green house with me. Whilst the programme is for participants aged 16-25 years (I was 20 years old), this year especially had a younger, overwhelmingly school student cohort. These were the people I had in mind when I spoke, and what I spoke was naturally not necessarily what I believe. Neither did I prioritise conforming to the broader strategy and context of my side of the debate.
 
-I have decided to post a selection of my speeches. The ones that I wrote out are a small minority (and even then sometimes incomplete with space for improvisation), so speeches for which I hold few or no notes cannot yet be published. Some others would have been recorded or transcribed, but these have not yet been made available.
+Also obvious this year was the relatively low number of returning participants, especially compared to last year. It shows in the flavour and tone of debate.
+
+I have decided to post a selection of my speeches. The ones that I wrote out are a small minority (and even then sometimes incomplete with space for improvisation), so many of them have been hastily transcribed from audio released of the debates. In at least one instance, audio of my speech is partially blanked out. Speeches may have been lightly edited for clarity and accuracy.
 
 ### School costs
 
@@ -39,13 +41,13 @@ This was a member's statement.
 
 > Speaker, the reality is that going to school in Victoria costs money. Persistent government failure on this means that schools have had to offload costs to families, teachers and charities. And we need to be clear that especially when cost of living is biting, means-tested measures will exclude many that desperately need the support. If the Education State is honestly committed to universal free education, it needs to be practically, genuinely free for every child, whether their family is poor or whether they are rich.
 
-The Department of Education [responded](https://drive.google.com/file/d/1qaaCznvpEbSKjqI5riiQ_e9LtXqK0P00/view?usp=sharing) to the statement.
+The Department of Education [responded](https://drive.google.com/file/d/1qaaCznvpEbSKjqI5riiQ_e9LtXqK0P00/view?usp=sharing) to the statement. A version of the speech is available at the [October 2024 issue](https://mailchi.mp/08b268358a1e/parents-voice-9-urgent-action-on-school-funding-online-safety-and-more) of Parents Voice, the newsletter of Parents Victoria, which also includes several other relevant items.
 
 ### Monopoly
 
 The national matter of public importance was a motion that "calls for the Commonwealth Government to introduce breakup powers for concentrated markets".
 
-I wrote my speech before finding out which side I would be formally debating on, which ended up being the side for the motion. I believe that I voted for the motion.
+I wrote the substance of my speech before finding out which side I would be formally debating on, which ended up being the side for the motion. I believe that I voted for the motion.
 
 An earlier version of this speech included a denunciation of a trade union, which I replaced on the day. The idea which replaced it is something that I was trying to convey in the rest of the speech, but a conversation that I had the day before with one of this year's great youth parliamentarians crystallised the expression of it.
 
@@ -183,4 +185,9 @@ This is not my speech. It was a member's statement by fellow youth parliamentari
 
 ### Archive
 
-[List of bills and full audio of debates](https://vicyouth.ymca.org.au/learning-and-leadership/youth-parliament/youth-parliament-archives/2024-archives) - there are many profound and powerful speeches to listen to. The consistently best debaters were deservedly recognised as [Salman and McArdle](https://www.parliament.vic.gov.au/news/general-news/yp24closing/) from the green and red house respectively.
+- [List of bills and full audio of debates](https://vicyouth.ymca.org.au/learning-and-leadership/youth-parliament/youth-parliament-archives/2024-archives) - there are many profound and powerful speeches to listen to. The consistently best debaters were deservedly recognised as [Salman and McArdle](https://www.parliament.vic.gov.au/news/general-news/yp24closing/) from the green and red house respectively.
+- [Article on Whitehorse City Council team](https://burwoodbulletin.org/bulletin/issue-173-spring-2024/) - Saskia de Leeuw Kyle
+- [Article on Overnewton Anglican Community College team](https://brimbanknorthwest.starweekly.com.au/news/overnewton-students-amplify-their-voices/) - Ineka Leffler
+- [Article on Hume City Council team](https://northern.starweekly.com.au/news/youth-bill-pushes-for-auslan-studies/) - Lily Wang
+- [Article on Padua College team](https://issuu.com/mornpenmagptyltd/docs/webfiles_aug2024/s/54386803) - Saskia de Leeuw Kyle
+- [Mezzacappa speeches](https://www.youtube.com/watch?v=QqbFPjPN1f4) - self-curated compilation of speeches by the Youth Premier
