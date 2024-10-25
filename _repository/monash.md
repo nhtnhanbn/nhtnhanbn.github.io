@@ -17,6 +17,7 @@ Page last updated 1/9/2024.
 - [2023 elections of the Monash Student Association - comprehensive "live" updates](/msa23)
 - [Together no more: a recapitulation of the 2023 MSA elections](/changemsa)
 - [2024 elections of the Monash Student Association](/msa24)
+- [Radio Monash comments on the 2024 Monash Student Council](/msc24)
 
 ### Information integrity
 
