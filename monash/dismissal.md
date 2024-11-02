@@ -3,7 +3,7 @@ permalink: /dismissal
 title: The Dismissal
 ---
 
-Page last updated 1/11/2024.
+Page last updated 2/11/2024.
 
 ## C&S Sacked from the MSA Executive
 
@@ -45,7 +45,7 @@ There are a few political groups and factions represented in the MSC, with indiv
 
 Paul was the 2024 C&S President and the Divisional representative on the MSA Executive. Coming out of the Music and Theatre Society and the Society for Anime & Manga Appreciation, he was previously a 2023 C&S Executive General Representative. In the 2024 elections, Paul was [elected](https://msa.monash.edu/hubfs/2024%20MSA%20Election%20Notice%20of%20Results%20(1).pdf) one of the two 2025 MSA Education (Academic Affairs) Officers and a National Union of Students delegate on the Change ticket. He is linked to the Labor Left. The 2024 C&S term ended at the start of November, with Paul elected the 2025 C&S Treasurer.
 
-Dilhan is the General Representative on the MSA Executive. In 2022, Dilhan was elected president of [Wired](/wired), the Faculty of IT Society, at the top of a seemingly non-political stack. Later that year, he was elected a 2023 C&S Executive General Representative, a position open to C&S or club office bearers. In July 2023, he was a candidate with the attempted stack of [Radio Monash](/radmon). In February 2024, he was appointed by the Academic Board to fill one of two undergraduate representative positions on Academic Board, after the 2023 MSA President departed. In March 2024, the MSC General Representative elected second on the Change ticket vacated the position, which was filled by Dilhan. Subsequently, he was elected to be the General Representative sitting on the MSA Executive, a position which had been left vacant after insufficient support for a candidate at an earlier MSC meeting. The position of Authorised Officer for the Change ticket had changed hands and ended up with Dilhan. This gave him the power to appoint people to fill vacancies if a person elected on the Change ticket resigned from their MSA position, besides office bearers but including MSC General Representatives. Part of the Labor Left, Dilhan is basically seen by some as a person pulling the strings of conspiracies to advance his agenda (and even, it is suggested, his power).
+Dilhan is the General Representative on the MSA Executive. In 2022, Dilhan organised with friends to be elected president of [Wired](/wired), the Faculty of IT Society. Later that year, he was elected a 2023 C&S Executive General Representative, a position open to C&S or club office bearers. In July 2023, he was a candidate with the attempted stack of [Radio Monash](/radmon). In February 2024, he was appointed by the Academic Board to fill one of two undergraduate representative positions on Academic Board, after the 2023 MSA President departed. In March 2024, the MSC General Representative elected second on the Change ticket vacated the position, which was filled by Dilhan. Subsequently, he was elected to be the General Representative sitting on the MSA Executive, a position which had been left vacant after insufficient support for a candidate at an earlier MSC meeting. The position of Authorised Officer for the Change ticket had changed hands and ended up with Dilhan. This gave him the power to appoint people to fill vacancies if a person elected on the Change ticket resigned from their MSA position, besides office bearers but including MSC General Representatives. Part of the Labor Left, Dilhan is basically seen by some as a person pulling the strings of conspiracies to advance his agenda (and even, it is suggested, his power).
 
 Joshua is the 2024 MSA Treasurer. In that role, he also acts as Deputy Chair and has chaired many MSC meetings when the President is unable to preside. Joshua was also elected the 2024 C&S Vice President, but resigned from that role in semester 1. He was previously the 2023 C&S Treasurer and has previously appeared as Returning Officer at the 2023 [Wired](/wired) AGM.
 
@@ -53,7 +53,7 @@ Joshua, Paul and Dilhan served together on the 2023 C&S Executive.
 
 Stuart was the 2024 MSA MAPS President. There are claims that the 2023 MSA MAPS AGM which elected him was improperly stacked. He was re-elected as president at the 2024 AGM, also under disputed circumstances. However, he has since been removed from office since he is not a mature age student as required under the MSA MAPS constitution. Previously, Stuart was the 2023 MSA Welfare Officer. He is a Liberal.
 
-Jay is a 2024 MSC General Representative and 2024 C&S Treasurer. From November, he is the 2025 C&S President.
+Jay is a 2024 MSC General Representative and 2024 C&S Treasurer. From November, he is the 2025 C&S President. He has previously appeared as 2024 [Wired](/wired) Secretary.
 
 Campbell is a 2024 Welfare Officer, appointed partway through the year. He will be the 2025 MSA Treasurer. Part of the Labor Left, in July 2023 he was a candidate with the attempted stack of [Radio Monash](/radmon).
 
