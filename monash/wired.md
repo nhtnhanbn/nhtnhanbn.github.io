@@ -3,7 +3,7 @@ permalink: /wired
 title: WIRED AGM 9/2023
 ---
 
-Page last updated 11/10/2023.
+Page last updated 2/11/2023.
 
 ## WIRED (Faculty of Information Technology Society) Annual General Meeting September 2023
 
@@ -78,6 +78,16 @@ The declared victor for President at the AGM, seconded by the outgoing Monash As
 There also needed to be a new General Representative elected after the constitutional amendments, and this election was also unopposed.
 
 It was a 16 minute meeting from start to finish, concluding 38 minutes after notified start time. Those who attended hoping for drama may have been disappointed. But perhaps the amazing growth of WIRED over the past year (excluding the conflict) can offer hope for a club who held their AGM the same night, and managed to elect *only* a President and Vice President - a similar story repeated across too many vital clubs. It could be any club.
+
+### FITS Inc.
+
+A few weeks before the 2024 AGM, an EGM was scheduled to consider incorporation. Incorporation, especially for clubs with more members, assets or potential liability, is not very rare. But it is considered a serious thing to do. The new constitution also provided structural changes and added a requirement for the President, Secretary and Treasurer to have previously been a committee member. Wired had thought about incorporating in the past but its 2024 president decided to actually make it happen.
+
+The EGM was held entirely on Google Meet, which is unusual since club general meetings generally have an on-campus location even if there is an online option. About 5 people showed up (even out of the committee and ancillary committees), so the meeting was be adjourned.
+
+The adjourned EGM had 18 attendees. Running for five minutes, it quickly pushed through the motions to incorporate. So 1% of its members has incorporated Wired, an event which perhaps most members of the club would not be aware happened.
+
+As for the AGM, they also struggled for quorum despite actually promoting it. Notably, they have a lower proportional quorum requirement compared to most other clubs. Quorum was ultimately met at the last minute, despite briefly being questioned. There were no contests, with all positions either elected unopposed or left vacant. In their report, the president, who will continue in 2025, said that governance reforms would help ensure that "stacking is prevented when my term is over".
 
 ### See also
 - [The Monash Series](/monash)
