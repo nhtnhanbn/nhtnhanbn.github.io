@@ -1,7 +1,7 @@
-# nhtnhanbn.github.io
-Personal website of Nhan.
+# vnf.nhan.au
+Verbis non factis is Nhan's website on politics, education and voice.
 
-Visit it: [nhtnhanbn.github.io](https://nhtnhanbn.github.io)
+Visit it: [vnf.nhan.au](https://vnf.nhan.au)
 
 ## Made possible thanks to
 [GitHub Pages](https://github.io),
