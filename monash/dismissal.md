@@ -187,14 +187,16 @@ Jay proposed a motion, seconded by the new MSC General Representative, to confir
 
 For convenience, a summary of the counts for Jay's election as MSA Executive Divisional representative.
 
-    MSC 13
+MSC 13
 1. 2 in favour, 1 against, 1 abstention
 2. 2 in favour, 1 against, 1 abstention
 3. 3 in favour, 1 against, 0 abstention
-    MSC 14
-4. 2 in favour, 1 against, 1 abstention
-5. 3 in favour, 1 against, 0 abstention
-To be continued?
+
+MSC 14
+1. 2 in favour, 1 against, 1 abstention
+2. 3 in favour, 1 against, 0 abstention
+
+...To be continued?
 
 MSC 14 ended with general business, a chance for anybody to say anything. Campbell handed to Radio Monash "to end on a good note". Radio Monash proceeded to decry the lack of transparency for observers and even MSC members not allied with a political faction, particularly the prevalence of motions with hidden political implications that are not openly expressed undermining the ability of MSC members, as directors, to appropriately fulfil their governance responsibilities. Paul agreed with Radio Monash, also complaining about the lack of notice of MSC meetings for ordinary students and the failure to speedily upload MSC minutes. Disabilities & Carers agreed with Radio Monash, also suggesting that certain MSC members are following voting directions from particular individuals. A SAlt member agreed with Radio Monash, from the point of view that transparency around the substantive meaning and context of motions enables MSC members to easily make an informed decision.
 
