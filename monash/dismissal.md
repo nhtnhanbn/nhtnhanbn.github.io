@@ -3,7 +3,7 @@ permalink: /dismissal
 title: The Dismissal
 ---
 
-Page last updated 2/11/2024.
+Page last updated 14/11/2024.
 
 ## C&S Sacked from the MSA Executive
 
@@ -57,7 +57,7 @@ Jay is a 2024 MSC General Representative and 2024 C&S Treasurer. From November, 
 
 Campbell is a 2024 Welfare Officer, appointed partway through the year. He will be the 2025 MSA Treasurer. Part of the Labor Left, in July 2023 he was a candidate with the attempted stack of [Radio Monash](/radmon).
 
-### MSC 7
+### [MSC 7](https://msa.monash.edu/hubfs/MSC%207%20Minutes.pdf)
 
 At the start of 2024, the MSC held elections for MSA Executive Divisional Representative. Stuart nominated Paul who was elected unopposed. This is pretty routine - C&S basically always becomes the MSA Executive Divisional Representative.
 
@@ -167,6 +167,47 @@ After the vote to confirm Jay commencing, it was realised that the MSC had faile
 
 The result of the third count was 3 in favour, 1 against, 0 abstentions. With an absolute majority of Divisions now in support, Jay joins the MSA Executive, replacing Paul both as C&S President and as MSA Executive Divisional representative. In time, the MSA Executive will produce, presumably in consultation with the 2025 MSA Treasurer, a draft 2025 MSA budget for approval by the 2024 MSC.
 
+### MSC 14
+
+This meeting was chaired mostly by the 2025 MSA Treasurer Campbell. After legal advice was sought from the MSA lawyer, the election for MSA Executive Divisional representative held in MSC 13 had been invalidated since the ballot had not been entirely secret from the chair. It was decided to also rerun the MSA Executive General Representative elections to avoid any doubt in Dilhan's position on the MSA Executive. The elections in this meeting would be run using an online voting platform, with the eligible voters emailed a link to vote. It was plagued with difficulty.
+
+But first, because Jay had become C&S President (by virtue of the office a member of the MSC), he had resigned as MSC General Representative for the remainder of the 2024 season. Now there was a vacancy, so the Secretary had emailed the authorised officer of the Change ticket to nominate a replacement. However, the email was sent to the Gmail address of the Change ticket rather than a personal or student email belonging to its authorised officer, so it is uncertain whether the email was seen at all. After receiving no reply, the Secretary selected a fellow civil engineer, an ancillary member of the Association of Civil Engineering Students committee, for nomination to the vacancy. This was accepted by the MSC, although not unanimously.
+
+In the MSA Executive General Representative election, the new General Representative tried to nominate Dilhan but had to settle for seconding in the end with Dilhan self-nominating. Dilhan was approved by the 4 MSC General Representatives present with 3 in favour and 1 abstaining.
+
+As the election for MSA Executive Divisional representative approached, Jay questioned the eligiblity of the MSA MAPS representative who had supposedly been appointed as Social Secretary by the MSA MAPS Committee earlier that day. The MSA Secretary had received an email from the acting MSA MAPS president, a Labor Right member and former MSA Secretary, and was confident in the representative's eligbility. However, Paul disputed this and revealed that MSA Finance had confirmed only that the MSA MAPS representative was a student but had not seen proof of the appointment. While the MSA Secretary was unable to produce the email, Jay was sent a screenshot of it from an MSA MAPS source which satisfied the chair, enough for the election to proceed for the time being.
+
+Jay was again the only candidate to nominate for MSA Executive, seconded by International. Voting was open for 2 minutes. There was some confusion from MSA MAPS over their vote. After the 2 minutes elapsed, 3 Divisions had voted and 1 Division had opened the voting link but not submitted a vote, which Campbell took as an abstention in the face of protest from Jay. The result declared by Campbell was 2 in favour of Jay becoming the MSA Executive Divisional representative, 1 against and 1 abstention. Without an absolute majority of the Divisions in favour, it failed.
+
+Subsequently, Jay requested a recount with new ballots. However, Campbell claimed that legal advice was that another recount could not be run. Dilhan suggested that the MSC could nevertheless decide its interpretation of the constitution. Jay, moving dissent in the chair, argued that another recount could and should be done since not every eligible voter had taken part in the vote, implying that it had not actually been a valid count in the first place. Campbell insisted, based on the legal advice, that any subsequent count would be invalid regardless of the MSC's decision. Dissent in the chair was passed, and a final recount was conducted.
+
+Ballots were sent out again, and 4 ballots were sent back. But MSA MAPS insisted that they had not submitted their new ballot. In any case, this count, which Campbell continued to claim was invalid, recorded 3 Divisions in favour and 1 against. Confusion over the ultimate outcome.
+
+Jay proposed a motion, seconded by the new MSC General Representative, to confirm the elections of Dilhan and Jay to the MSA Executive as valid. Campbell tried to strike the motion on the basis that it would change nothing about the legality of the elections, but this ruling was overturned by dissent in the chair from Jay. There was a bit of debate, in which Campbell temporarily relinquished the chair to criticise the motion. As he was speaking, the new MSC General Representative interrupted to move a procedural to end debate and immediately vote. The procedural passed and the motion passed, the MSC deciding to accept the final elections.
+
+For convenience, a summary of the counts for Jay's election as MSA Executive Divisional representative.
+
+    MSC 13
+1. 2 in favour, 1 against, 1 abstention
+2. 2 in favour, 1 against, 1 abstention
+3. 3 in favour, 1 against, 0 abstention
+    MSC 14
+4. 2 in favour, 1 against, 1 abstention
+5. 3 in favour, 1 against, 0 abstention
+To be continued?
+
+MSC 14 ended with general business, a chance for anybody to say anything. Campbell handed to Radio Monash "to end on a good note". Radio Monash proceeded to decry the lack of transparency for observers and even MSC members not allied with a political faction, particularly the prevalence of motions with hidden political implications that are not openly expressed undermining the ability of MSC members, as directors, to appropriately fulfil their governance responsibilities. Paul agreed with Radio Monash, also complaining about the lack of notice of MSC meetings for ordinary students and the failure to speedily upload MSC minutes. Disabilities & Carers agreed with Radio Monash, also suggesting that certain MSC members are following voting directions from particular individuals. A SAlt member agreed with Radio Monash, from the point of view that transparency around the substantive meaning and context of motions enables MSC members to easily make an informed decision.
+
+Dilhan agreed with the principle, but suggested that people unsure should come directly to him, or other MSC members, to ask about it and argued that understanding the context and meanings would require wading into politics. He dismissed the need to proactively present all MSC members with all information when an absolute majority is already on board with a motion anyway - "politics is politics". Jay declared that the discussion pointed to the need for reform to separate advocacy from governance, or as an incremental step increasing the proportionality of the MSC. Dilhan agreed that politics should be separated from service provision. My view is that the MSC should be fully proportional but anybody should be very sceptical of separating advocacy (politics), services and governance such as by the establishment of a Board.
+
+To close the meeting, Campbell handed off the chair to speak freely. Now he attacked those who had sacked Paul from the MSA Executive. The MSA losing SSAF and disappearing, along with the livelihoods of MSA staff, was his projected outcome. "We are a reckless board", he claimed, directing an MSA "on the brink of collapse" - not due to a "structural debt" issue as asserted by his opponents but a governance one. Campbell clearly believed that collapse is almost inevitable, but he called on those present to bring people along to MSC.
+
+"If this goes, student culture is destroyed" said Radio Monash.
+
+"Have a great day" the parting words of the sick 2024 MSA President.
+
+More to come, keep an ear out.
+
 ### Journalism
 
 It is not rare for some people to complain about the lack of regular student journalism at Monash University, especially covering student unionism and the MSC specifically. Student journalism publications which have covered Monash student politics include Lot's Wife, which is under the MSA, and MoJo News, which is under the School of Media, Film and Journalism. Grotty, linked to the Wholefoods Collective and the grassroots left, was another paper during the past decade but has long since shut down. On the rare occasion, the University of Sydney's Honi Soit publishes major stories about Monash.
@@ -189,4 +230,4 @@ In terms of accuracy, I do care a bit about that, as much as I do not wilfully l
 
 What about Radio Monash? They do some journalism things, especially music and culture. One of their recent initiatives was interviews with clubs and societies. However, Radio Monash does not have a tradition of political journalism and there is no expectation for it to happen. I do note some facts. Its president at MSCs has often emphasised that as a media organisation, Radio Monash is apolitical. Campbell ran for president of Radio Monash on a platform of political journalism and activism. Some of its members are engaged observers of student politics and campus affairs - its president recently contributed a piece in their personal capacity to Lot's Wife. In my long life I have found many things to admire, and Radio Monash and its people count among them.
 
-Another thing to keep in mind is that most people do not care about what goes on at MSCs. Interest in MSCs is niche, usually boring and arguably relatively inconsequential as far as the average student is concerned. There are better things that I can do rather than recounting these events to a frankly small and narrow audience. There may be better things for Lot's Wife and MoJo News to cover. Maybe.
+Another thing to keep in mind is that most people do not care about what goes on at MSCs. Interest in MSCs is niche, usually boring and arguably relatively inconsequential as far as the average student is concerned. I was not very interested in the MSC, partly due to the initial Lot's Wife coverage. There are better things that I can do rather than recounting these events to a frankly small and narrow audience. There may be better things for Lot's Wife and MoJo News to cover. Maybe.
