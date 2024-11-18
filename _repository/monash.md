@@ -18,7 +18,7 @@ Page last updated 2/11/2024.
 - [Together no more: a recapitulation of the 2023 MSA elections](/changemsa)
 - [2024 elections of the Monash Student Association](/msa24)
 - [Radio Monash comments on the 2024 Monash Student Council](/msc24)
-- [C&S Sacked from the MSA Executive](/dismissal)
+- [The Dismissal: C&S Sacked from the MSA Executive](/dismissal)
 
 ### Information integrity
 
