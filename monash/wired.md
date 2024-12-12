@@ -3,7 +3,7 @@ permalink: /wired
 title: WIRED AGM 9/2023
 ---
 
-Page last updated 2/11/2024.
+Page last updated 12/12/2024.
 
 ## WIRED (Faculty of Information Technology Society) Annual General Meeting September 2023
 
@@ -11,7 +11,7 @@ Disclaimer: no guarantees of factual accuracy. Some claims are based on best evi
 
 *Update 2/11/2024*
 
-*Previous versions of this page referred to the event which installed the 2023 Wired committee as a "stack". It has been amended to remove this term. The intention was never to suggest anything inappropriate or dodgy about that event. The group which organised to take over and revive Wired were all Faculty of IT students, as far as I know, and had bona fide legitimate interest in running the club. In the world of clubs and societies, it is not a rare event and uncontroversial to revive a club. The term "stack" was chosen to imply a pattern in relation to other stacks such as the 2024 Wired AGM.*
+*Previous versions of this page referred to the event which installed the 2023 Wired committee as a "stack". It has been amended to remove this term. The intention was never to suggest anything inappropriate or dodgy about that event. The group which organised to take over and revive Wired were all Faculty of IT students, as far as I know, and had bona fide legitimate interest in running the club. In the world of clubs and societies, it is not a rare event and uncontroversial to revive a club. The term "stack" was chosen to imply a pattern in relation to other stacks such as the 2023 Wired AGM.*
 
 I recall that when I was a secondary student, well before I had made the decision to attend Monash University, for some reason I held the notion that WIRED, the official Faculty of IT Society, was dead. Where I heard or inferred it from I could not tell you, but it turned out to be accurate at the time. Perhaps it was simply my omniscient intuition. Having clubs that were active was an important part of my decision process, but since there were alternatives that were definitely very much alive, I went with Monash anyway.
 
