@@ -3,7 +3,7 @@ permalink: /dismissal
 title: The Dismissal
 ---
 
-Page last updated 18/11/2024.
+Page last updated 21/1/2025.
 
 ## C&S Sacked from the MSA Executive
 
@@ -202,11 +202,71 @@ MSC 14 ended with general business, a chance for anybody to say anything. Campbe
 
 Dilhan agreed with the principle, but suggested that people unsure should come directly to him, or other MSC members, to ask about it and argued that understanding the context and meanings would require wading into politics. He dismissed the need to proactively present all MSC members with all information when an absolute majority is already on board with a motion anyway - "politics is politics". Jay declared that the discussion pointed to the need for reform to separate advocacy from governance, or as an incremental step increasing the proportionality of the MSC. Dilhan agreed that politics should be separated from service provision. My view is that the MSC should be fully proportional but anybody should be very sceptical of separating advocacy (politics), services and governance such as by the establishment of a Board.
 
-To close the meeting, Campbell handed off the chair to speak freely. Now he attacked those who had sacked Paul from the MSA Executive. The MSA losing SSAF and disappearing, along with the livelihoods of MSA staff, was his projected outcome. "We are a reckless board", he claimed, directing an MSA "on the brink of collapse" - not due to a "structural debt" issue as asserted by his opponents but a governance one. Campbell clearly believed that collapse is almost inevitable, but he called on those present to bring people along to MSC.
+To close the meeting, Campbell handed off the chair to speak freely. Now he attacked those who had sacked Paul from the MSA Executive. The MSA losing SSAF and disappearing, along with the livelihoods of MSA staff, was his projected outcome. "We are a reckless board", he claimed, directing an MSA "on the brink of collapse" - not due to a "structural debt" issue as asserted by his enemies but a governance one. Campbell apparently believed that collapse is almost inevitable, but he called on those present to bring people along to MSC.
 
 "If this goes, student culture is destroyed" said Radio Monash.
 
 "Have a great day" the parting words of the sick 2024 MSA President.
+
+### Special MSC 4
+
+This meeting was called with 2 days notice to address an urgent item, undisclosed to the public, which was withdrawn at the last moment as there were insufficient numbers to keep it in camera. It presumably would related to a "confidential personal, staffing or legal matter". Members of the MSC had gathered for the meeting before learning that the motion had been pulled.
+
+### [MSC 15](https://drive.google.com/file/d/1sMzp-iAuFr-UhhdH453wiDJgIVx74YCa/view?usp=sharing)
+
+Originally, this 6th December meeting was the last scheduled MSC meeting for the year. Usually the last MSC meeting each year approves the MSA budget for the following year. There was no budget on the agenda for this meeting. The 2024 MSA Executive had not yet finalised it and was expected to introduce it in the third week of the month, following the National Union of Students National Conference.
+
+The day before the meeting, MSC 16 was scheduled. MSC 15 failed to meet quorum and so did not run.
+
+### [MSC 16](https://drive.google.com/file/d/1cznANxUCt9oAIffl8QQHAd_sZQOS9iuT/view?usp=sharing)
+
+The date of the meeting initially published was 20 December, but was soon revised to 19 December.
+
+On the agenda - the [2025 MSA budget](https://drive.google.com/drive/folders/1Ym_1dXmWUteB_tmy1caBbzS1nfKtpEWS?usp=sharing).
+
+The usual process is that the departments and Divisions make submissions for their desired budget allocations, the MSA Executive drafts an initial proposal which is distributed across the MSA, the MSA Executive then approves a final proposal for the MSC's consideration, and the MSC passes the final budget. Radio Monash and C&S both submitted appeals to revise the Executive-proposed budget, a privilege of the Divisions. This is not in itself unusual, but there are other factors at play.
+
+In addition to submitting a budget appeal, the C&S Executive officially condemned the MSA Executive-proposed budget and the MSA Executive itself in an extraordinary move. With a 32% cut to non-salary expenses amounting to $66k, C&S staff judge that it is not feasibly sustainable to run off reserves to compensate. Why did the drafters of the budget decide to make such a dramatic cut?
+
+C&S has the largest budget allocation of any MSA department or Division and also boasts substantial reserves. So it could be easy and convenient, from the perspective of some in the broader MSA, to cut some of it in an austerity budget which is how it might look at first glance. However, something else besides financial considerations may have played into the decision to cut the C&S budget.
+
+On 16 December, C&S-affiliated clubs were notified about a ban on boat cruises imposed by the C&S Executive. It was a decision endorsed and reaffirmed by a solid majority of the C&S Executive, including members who are known to be ardent defenders of off campus events in general. The boat ban was introduced due to the high frequency and severity of incidents seen on such events, in addition to the fact that they occur on an isolated boat. It was an act of self regulation with the fear of potential university intervention against a broader set of off campus events in mind.
+
+Within the C&S Executive, some think that their budget cuts were intended as retaliation against the boat ban decision. They have become convinced that some MSA people are afraid that the boat ban would affect re-election prospects and so are trying to pressure C&S to reverse the decision using the budget.
+
+Compared to C&S and most other MSA departments, Radio Monash has a small budget allocation. They initially proposed an ambitious budget submission that would have doubled their expenditure allocation, but the MSA Executive instead proposed a 20% cut to their budget.
+
+There are some hints that it was even worse in the initial proposal contained in a statement and presentation submitted to MSC 16, and the table provided for Radio Monash's budget appeal. They indicate that the $6000 honorarium for the Radio Monash President, smaller than any department, would have been slashed completely resulting in a 47% cut overall budget allocation. This was restored in the final Executive-proposed budget, with all honorarium allocations unchanged. Note that unlike every other Division, Radio Monash has neither dedicated staff nor entitlement to central staffing support. Instead, it is entirely run by its volunteer 21 committee members and 25 subcommittee members, the largest committee of any department or Division.
+
+Besides the Divisional appeals, an unprecedented full alternative budget proposal was submitted. The Executive-proposed budget had a $265,369 deficit while the alternative budget had a $593,714 deficit. The 2024 budget deficit was over $700,000.
+
+The meeting was also supposed to run yet another election for the Divisional representative on the MSA Executive. While at the National Union of Students National Conference, Jay had been removed from the MSA Executive after the election of MSC 14 was invalidated.
+
+A range of other matters were to be considered, including the opening hours of Sir John's Bar and Uniride, a 1-hour notice period for the MSA Executive, and asserting that only an MSA Executive meeting can approve central funds requests without possibility of delegation.
+
+4 MSC members came to the meeting so there was no quorum. Also present were a few proxies, who do not count towards quorum, and a sizeable number of observers from C&S and elsewhere.
+
+### [Special MSC 5](https://drive.google.com/file/d/1HymsIX0P4rcZR28XNqi2XGiePSF_wed7/view?usp=sharing)
+
+Late on 19 December, a Special MSC meeting was scheduled for Sunday 22 December fully online to consider everything missed from MSC 16. On 20 December, the meeting was disallowed for being exclusively online.
+
+### [MSC 17](https://drive.google.com/file/d/1GbImGvyOQL7a04YieeFjQSvNybZBOKwr/view?usp=sharing)
+
+A regular MSC meeting was quickly added for 30 December. It was subsequently disallowed for the inconvenience.
+
+The failure of the MSC to meet in December to pass a budget meant that the MSA entered 2025, and a new MSC and MSA Executive, without a budget for the year for the first time.
+
+Divisions can continue to spend from their reserves without central approval. All salaries and contracts were not affected. Spending up to $11,000 from central funds would need to be approved by an MSA Executive meeting.
+
+### [Special MSC 1](https://drive.google.com/file/d/10TOKipvmSfzQEgEiuv8XrMkAa5omYumY/view?usp=sharing)
+
+The Special MSC meeting was called with 2 days notice to elect the MSA Executive's Divisional representative and General Representative. It is normal to run these elections in the first meeting of the year, but uniquely those who joined the MSA Executive this time would get to influence the 2025 MSA budget. At the time of the notice, the MSA MAPS representative (its own mess) and an MSC General Representative had not yet been confirmed. A Change MSC General Representative elected in the [2024 MSA elections](/msa24) had resigned. By the meeting, both positions were represented by people linked to the Labor Left.
+
+For MSA Executive Divisional representative, Jay from C&S was the only nominee, seconded by MSA MAPS. The vote was 2 in favour and 2 abstentions. Jay asked for a recount, resulting with 3 votes in favour and one abstention. Therefore, Jay was restored to the MSA Executive.
+
+For MSA Executive General Representative, the new replacement MSC General Representative was the only nominee. 2 MSC General Representatives did not submit votes, with the remainder going 2 votes in favour and 1 abstention. As an absolute majority is required, the election failed.
+
+The MSA Executive now comprised the President, Treasurer, Secretary and C&S President. It gets to propose a budget for the MSA's 2025 which is expected to be presented at the first regular MSC meeting.
 
 More to come, keep an ear out.
 
