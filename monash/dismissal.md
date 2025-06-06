@@ -3,7 +3,7 @@ permalink: /dismissal
 title: The Dismissal
 ---
 
-Page last updated 21/1/2025.
+Page last updated 6/6/2025.
 
 ## C&S Sacked from the MSA Executive
 
@@ -81,9 +81,9 @@ Their motion failed. Radio Monash gave a speech in favour of Paul.
 
 At this point, 2 out of 4 Divisions do not support Paul. No specific examples of grievances are known.
 
-### Special MSC 3
+### [Special MSC "3"](https://drive.google.com/file/d/1PusLROMb0xZFMV8BD4PkfM9DAWst4gQz/view?usp=sharing)
 
-An MSC had been scheduled for 5pm Friday of week 10, 4 October, since the start of the year. On Wednesday 2 October, with 48 hours notice, the MSA Secretary called a Special MSC for 2pm the same Friday. This was the minimum required notice for a Special MSC, with regular MSCs requiring 7 days notice.
+An MSC had been scheduled for 5pm Friday of week 10, 4 October, since the start of the year. On Wednesday 2 October, with 48 hours notice, the MSA Secretary called a Special MSC (incorrectly numbered 3) for 2pm the same Friday. This was the minimum required notice for a Special MSC, with regular MSCs requiring 7 days notice.
 
 > A letter was received by members of the MSA Executive, signed by divisions stating they had lost their confidence in the Executive Divisional Representative, Paul Halliday, and requesting a Special Monash Student Council meeting be convened to resolve the matter.
 
@@ -103,7 +103,7 @@ On "student observers", there is almost no way that I would have known about and
 
 Following an exchange of emails with Paul, in which he suggested that "the MSC should investigate disciplinary action" against the Secretary for incompetence, the Secretary cancelled the Special MSC just 2 hours before it was to commence. Instead, the regular MSC would exclusively address the motion to remove Paul from the MSA Executive and an additional MSC was scheduled for the following Friday.
 
-### MSC 10
+### [MSC 10](https://msa.monash.edu/hubfs/Meeting%20Minutes%20MSC%2010_2024.pdf)
 
 The meeting was chaired by Joshua, seen to be a friend of Paul. The MSA Secretary, responsible for administration around meetings and minutes, is regarded by Paul and his supporters as allied with Dilhan.
 
@@ -113,31 +113,33 @@ Part of the debate revolved around how to address the budget deficit. Change was
 
 SAlt argued strongly for cutting unelected staff, especially management, and transferring more power and money to student-run departments and office bearers. To Paul's suggestion that this would be against the interests of members of the NTEU (those who are MSA staff), SAlt argued that a student union, especially in deficit, is fundamentally different to a business and that workers' rights was irrelevant to the discussion.
 
-MSA MAPS and International did not speak, but Radio Monash brought up some issues which may reflect their concerns as Divisions. Despite supporting Paul staying on the MSA Executive and condemning the irregular context of the motion, Radio Monash did agree that Paul could have pursued stronger action in the interest of Divisions. Issues included interference from MSA staff and erosion of the Divisional autonomy which distinguishes them from departments.
+MSA MAPS and International declined to speak, even when asked directly about why they moved this motion, but Radio Monash brought up some issues which may reflect their concerns as Divisions. Despite supporting Paul staying on the MSA Executive and condemning the irregular context of the motion, Radio Monash did agree that Paul could have pursued stronger action in the interest of Divisions. Issues included interference from MSA staff and erosion of the Divisional autonomy which distinguishes them from departments.
 
 After some time, SAlt moved a procedural to end debate and immediately go to a vote to remove Paul. This was ruled out by Joshua as chair, to which Dilhan moved dissent in the chair. This is a mechanism which allows the MSC to vote on its interpretation of the rules and overturn a chair's decision, with debate and the vote itself overseen by a temporary chair in this case chosen by Joshua. Joshua picked Paul to chair.
 
-Dissent in the chair is one of the few times that a chair gets to debate, besides when they give up the power of chair. Joshua took full advantage of this opportunity to accuse SAlt members of doing deals with "right wing parties". SAlt members had run in the 2024 MSA elections on the Change ticket which he contended is a "Labor ticket, which is a right wing party". Joshua, of course, was elected MSA Treasurer on the Change ticket, an experience which he says proved this. For this stunt, he was named by the temporary chair Paul.
+Dissent in the chair is one of the few times that a chair gets to debate, besides when they give up the power of chair. Joshua took full advantage of this opportunity to accuse SAlt members of doing deals with "right wing parties" as SAlt members had run in the 2024 MSA elections on the Change ticket, which he contended is a "Labor ticket, which is a right wing party". Joshua was himself elected MSA Treasurer on the Change ticket, an experience which he says showed him that the ticket was right wing. For this stunt, he was named by the temporary chair Paul - revenge for Joshua's earlier naming of Paul for interjections.
 
-Dissent in the chair passed and the procedural passed. The ultimate outcome of the motion was 14 votes to remove Paul, 9 against the motion. With an absolute majority of the MSC in agreement, Paul was removed from the MSA Executive. Opponents of Paul included Dilhan, Stuart (MSA MAPS), International, SAlt and part of coalition Change. His supporters included Radio Monash, C&S, part of the Labor Left (including the 2025 MSA Treasurer Campbell) and some independents. Most of Paul's supporters were in the room while most of their opponents were on Zoom.
+Dissent in the chair passed and the procedural passed. The ultimate outcome was 14 votes to remove Paul, 9 against the motion. With an absolute majority of the MSC in agreement, Paul was removed from the MSA Executive. Opponents of Paul included Dilhan, Stuart (MSA MAPS), International, SAlt and part of coalition Change. His supporters included Radio Monash, C&S, part of the Labor Left (including the 2025 MSA Treasurer Campbell) and some independents. Most of Paul's supporters were in the room while most of their opponents were on Zoom.
 
 Following his removal, Paul tried to move an [urgency motion](https://drive.google.com/file/d/1PusLROMb0xZFMV8BD4PkfM9DAWst4gQz/view?usp=sharing) to "condemn irregularities in the convening of meetings", in reference to the cancelled Special MSC 3. The MSC refused to consider the motion.
 
-### MSC 11
+### [MSC 11](https://msa.monash.edu/hubfs/Confirmed%20Minutes%20MSC%2011_2024.pdf)
 
-This was the meeting added to deal with the agenda originally intended for MSC 10. It was for the most part an ordinary meeting, running for over 3 hours. 2 hours in, Radio Monash left due to other commitments. Joshua was chairing, with the President online and leaving after 2 hours due to other commitments.
+This was the meeting added to deal with the agenda originally intended for MSC 10. It was for the most part an ordinary meeting, running for over 3 hours. The meeting included a motion to approve expenditure for National Union of Students affiliation fees, at a discounted rate due to the MSA's long term financial state.
 
-In general business at the end of the meeting, Dilhan moved an urgency motion, seconded by the Secretary, to open nominations and run an election to fill the now vacant position of MSA Executive Divisional representative until the end of the year. International intended to nominate for election.
+2 hours in, Radio Monash left due to other commitments. Joshua was chairing, with the President online and leaving after 2 hours due to other commitments.
 
-Given that Radio Monash was absent and not aware of the surprise motion, questions were raised over the fairness of it. So Joshua tried to strike the motion due to the lack of reasonable notice. Jay disputed his interpretation, and Dilhan moved dissent in the chair which passed, so the motion was considered.
+In general business at the end of the meeting, Dilhan moved an urgency motion, seconded by the Secretary, to open nominations and run an election to fill the now vacant position of MSA Executive Divisional representative until the end of the year. International intended to nominate.
+
+Given that Radio Monash was absent and not aware of the surprise motion, questions were raised over the fairness of it. So Joshua tried to strike the motion due to the lack of reasonable notice. Jay disputed his interpretation, and Dilhan moved dissent in the chair which passed, so the motion was considered. 11 MSC members were in favour of holding the election, with 5 against.
 
 Dilhan declined to speak to the motion. Paul argued that "it seems quite clear that the point of this motion is to blindside people [...] maybe moved opportunistically" after Radio Monash left the meeting.
 
-Radio Monash eventually realised what was going on and attempted to rejoin the Zoom meeting, but the Secretary failed to admit them from the waiting room. Joshua asked to be made host of the Zoom meeting, to which the Secretary's response was to walk out of the room.
+Radio Monash eventually realised what was going on and attempted to rejoin the Zoom meeting, but the Secretary did not admit them from the waiting room. Joshua asked to be made host of the Zoom meeting, to which the Secretary's response was to walk out of the room.
 
 After Radio Monash was admitted to the Zoom meeting, Jay pointed out another regulation which he claimed would not allow the election to be held. Joshua did not agree with this interpretation but Dilhan took this to withdraw the motion.
 
-### MSC 12
+### [MSC 12](https://msa.monash.edu/hubfs/Confirmed%20Minutes%20MSC%2012_2024.pdf)
 
 This meeting was on Friday of swotvac, 2 weeks after MSC 11, and started about a half hour late. As it happened, it was largely those who had been on Paul's side present with most of their opponents absent. Most of the meeting was inquorate, but quorum was met briefly before Jay departed citing prior commitments. According to people present, Stuart, who had recently lost his MSC position officially over constitutional eligibility issues, had been messaging other MSC members claiming that the meeting was cancelled. The Secretary set up the Zoom meeting and recording but was otherwise absent.
 
@@ -145,13 +147,13 @@ Without an absolute majority of the MSC present to vote in favour, a motion to e
 
 A portion of the meeting was used by several people including Radio Monash and Campbell to [vent](/msc24) about those not present and the axis which had conspired to remove Paul from the MSA Executive.
 
-### MSC 13
+### [MSC 13](https://msa.monash.edu/hubfs/Confirmed%20MSC%20Minutes%2013_2024.pdf)
 
 This meeting was spent dealing with unfinished business. Lot's Wife got part of their contract extension motion passed, with their original motion defeated without an absolute majority in favour due to the abstention of a faction. Due to the late notice, it was not possible to consider the motion to sack one of the 2024 D&C Officers.
 
-This was the first day of the 2025 C&S term, which meant that the election for MSA Executive divisional representative had been delayed for long enough (almost a month by this point) that Jay as 2025 C&S President was now eligible to run. So he was the sole unopposed nominee, seconded by International who had intended to nominate at MSC 11. The initial nomination process ran early in the meeting.
+This was the first day of the 2025 C&S term, which meant that the election for MSA Executive divisional representative had been delayed for long enough (almost a month by this point) that Jay as 2025 C&S President was now eligible to run. So he was the sole unopposed nominee, seconded by International who had intended to nominate at MSC 11. The initial nomination process ran early in the meeting, with the confirmatory vote showing 3 Divisions in favour and 1 abstaining.
 
-Later in the meeting, Campbell claimed that the election was not conducted in line with procedure, and asked Joshua as chair and Returning Officer to invalidate it since there was no secret ballot. Jay disputed this, and Dilhan prematurely moved dissent in the chair which Joshua shut down. Now Joshua's actual ruling was to not reopen nominations but still run another vote to confirm the election, requiring an absolute majority of the Divisions in favour.
+Later in the meeting, Campbell claimed that the election was not conducted in line with procedure, and asked Joshua as chair and Returning Officer to invalidate it since there was no secret ballot. Jay disputed this, and Dilhan prematurely moved dissent in the chair which Joshua shut down. Now Joshua's actual ruling was to not reopen nominations but still run a vote to confirm the election, requiring an absolute majority of the Divisions in favour.
 
 C&S and Radio Monash were in the room and used secret paper ballots, while International and MSA MAPS (no longer Stuart) were on Zoom and sent private messages. The result was 2 in favour of Jay becoming the MSA Executive Divisional representative, 1 against and 1 abstention. Without an absolute majority of the Divisions in favour, it failed.
 
@@ -159,7 +161,7 @@ Dilhan requested a recount, supported by Jay and International. After voting com
 
 Joshua quickly moved onto general business, but Jay asked for another recount. Joshua tried to reject the recount and looked for an excuse. Jay called dissent in the chair, then it was pointed out that since the meeting had moved to the next agenda item, a recount would not be possible. When Joshua took this to block the recount, Dilhan moved dissent in the chair then decided to reintroduce the motions, seconded by Jay, to open nominations and run the election as urgent motions in general business.
 
-One of the 2024/2025 Education (Academic Affairs) Officers (also a 2025-2026 Academic Board undergraduate representative and briefly a 2024 C&S General Representative), questioned why the election was being repeated again after two counts already. "For democracy", said an ally of Dilhan. In response, Joshua ruled out the motion since it had already been discussed in the same meeting. No doubt that many in the meeting were wondering whether the outcome would ever be different and if a faction of the MSC would hold it hostage until they got the outcome they wanted. However, Dilhan claimed that a Division had told him that they had not been able to put their vote in, that their previous vote had been counted instead, and that their new ballot was not issued. It is not entirely clear what specifically this could refer to. The ballots of the first count were supposed to have been ripped up. After the adjournment, Joshua had received fresh ballots from both in-person Divisions but had not offered the Zoom Divisions a specific opportunity to change their vote.
+One of the 2024/2025 Education (Academic Affairs) Officers (also a 2025-2026 Academic Board undergraduate representative and briefly a 2024 C&S General Representative), questioned why the election was being repeated again after two counts already. "For democracy", said an ally of Dilhan. In response, Joshua ruled out the motion since it had already been discussed in the same meeting. No doubt that many in the meeting were wondering whether the outcome would ever be different and if a faction of the MSC would hold it hostage until they got the outcome they wanted. However, Dilhan claimed that a Division had told him that they had not been able to put their vote in, that their previous vote had been counted instead, and that their new ballot was not issued. It is not entirely clear what specifically this refers to. The ballots of the first count were supposed to have been ripped up. After the adjournment, Joshua had received fresh ballots from both in-person Divisions but had not offered the Zoom Divisions a specific opportunity to change their vote.
 
 Dilhan attempted to move dissent in the chair to re-run the election but Joshua granted the dissent to Jay instead, who pointed out that it was not mandatory for Joshua to strike the motion and the MSC had already voted to accept the motion for consideration. Dissent in the chair passed and nominations were re-opened. Jay again was the only nominee.
 
@@ -167,11 +169,11 @@ After the vote to confirm Jay commencing, it was realised that the MSC had faile
 
 The result of the third count was 3 in favour, 1 against, 0 abstentions. With an absolute majority of Divisions now in support, Jay joins the MSA Executive, replacing Paul both as C&S President and as MSA Executive Divisional representative. In time, the MSA Executive will produce, presumably in consultation with the 2025 MSA Treasurer, a draft 2025 MSA budget for approval by the 2024 MSC.
 
-### MSC 14
+### [MSC 14](https://22189712.fs1.hubspotusercontent-eu1.net/hubfs/22189712/MSC%20Minutes%2014_2024.pdf)
 
-This meeting was chaired mostly by the 2025 MSA Treasurer Campbell. After legal advice was sought from the MSA lawyer, the election for MSA Executive Divisional representative held in MSC 13 had been invalidated since the ballot had not been entirely secret from the chair. It was decided to also rerun the MSA Executive General Representative elections to avoid any doubt in Dilhan's position on the MSA Executive. The elections in this meeting would be run using an online voting platform, with the eligible voters emailed a link to vote. It was plagued with difficulty.
+This meeting was chaired mostly by the 2025 MSA Treasurer Campbell. After legal advice was sought from the MSA lawyer, the election for MSA Executive Divisional representative held in MSC 13 had been invalidated since the ballot had not been entirely secret from the chair. It was decided to also rerun the MSA Executive General Representative election to avoid any doubt in Dilhan's position on the MSA Executive, given the procedural problems around the Divisional representative elections. The elections in this meeting would be run using an online voting platform, with the eligible voters emailed a link to vote. It was plagued with difficulty.
 
-But first, because Jay had become C&S President (by virtue of the office a member of the MSC), he had resigned as MSC General Representative for the remainder of the 2024 season. Now there was a vacancy, so the Secretary had emailed the authorised officer of the Change ticket to nominate a replacement. However, the email was sent to the Gmail address of the Change ticket rather than a personal or student email belonging to its authorised officer, so it is uncertain whether the email was seen at all. After receiving no reply, the Secretary selected a fellow civil engineer, an ancillary member of the Association of Civil Engineering Students committee, for nomination to the vacancy. This was accepted by the MSC, although not unanimously.
+But first, because Jay had become C&S President (by virtue of the office a member of the MSC), he had resigned as MSC General Representative for the remainder of the 2024 season. Now there was a vacancy, so the Secretary had emailed the authorised officer of the Change ticket to nominate a replacement. However, the email was supposedly sent to the Gmail address of the Change ticket rather than a personal or student email belonging to its authorised officer, so there was controversy and doubt over whether the email was sent at all. After receiving no reply, the Secretary selected a fellow civil engineer, an ancillary member of the Association of Civil Engineering Students committee, for nomination to the vacancy. This was accepted by the MSC, although not unanimously.
 
 In the MSA Executive General Representative election, the new General Representative tried to nominate Dilhan but had to settle for seconding in the end with Dilhan self-nominating. Dilhan was approved by the 4 MSC General Representatives present with 3 in favour and 1 abstaining.
 
@@ -185,19 +187,6 @@ Ballots were sent out again, and 4 ballots were sent back. But MSA MAPS insisted
 
 Jay proposed a motion, seconded by the new MSC General Representative, to confirm the elections of Dilhan and Jay to the MSA Executive as valid. Campbell tried to strike the motion by claiming that it would change nothing about the legality of the elections, but this ruling was overturned by dissent in the chair from Jay on the basis that the MSC can interpret MSA rules. There was a bit of debate, in which Campbell temporarily relinquished the chair to criticise the motion. As he was speaking, the new MSC General Representative interrupted to move a procedural to end debate and immediately vote. The procedural passed and the motion passed, the MSC deciding to accept the final elections.
 
-For convenience, a summary of the counts for Jay's election as MSA Executive Divisional representative.
-
-MSC 13
-1. 2 in favour, 1 against, 1 abstention
-2. 2 in favour, 1 against, 1 abstention
-3. 3 in favour, 1 against, 0 abstention
-
-MSC 14
-1. 2 in favour, 1 against, 1 abstention
-2. 3 in favour, 1 against, 0 abstention
-
-...To be continued?
-
 MSC 14 ended with general business, a chance for anybody to say anything. Campbell handed to Radio Monash "to end on a good note". Radio Monash proceeded to decry the lack of transparency for observers and even MSC members not allied with a political faction, particularly the prevalence of motions with hidden political implications that are not openly expressed undermining the ability of MSC members, as directors, to appropriately fulfil their governance responsibilities. Paul agreed with Radio Monash, also complaining about the lack of notice of MSC meetings for ordinary students and the failure to speedily upload MSC minutes. Disabilities & Carers agreed with Radio Monash, also suggesting that certain MSC members are following voting directions from particular individuals. A SAlt member agreed with Radio Monash, from the point of view that transparency around the substantive meaning and context of motions enables MSC members to easily make an informed decision.
 
 Dilhan agreed with the principle, but suggested that people unsure should come directly to him, or other MSC members, to ask about it and argued that understanding the context and meanings would require wading into politics. He dismissed the need to proactively present all MSC members with all information when an absolute majority is already on board with a motion anyway - "politics is politics". Jay declared that the discussion pointed to the need for reform to separate advocacy from governance, or as an incremental step increasing the proportionality of the MSC. Dilhan agreed that politics should be separated from service provision. My view is that the MSC should be fully proportional but anybody should be very sceptical of separating advocacy (politics), services and governance such as by the establishment of a Board.
@@ -208,17 +197,17 @@ To close the meeting, Campbell handed off the chair to speak freely. Now he atta
 
 "Have a great day" the parting words of the sick 2024 MSA President.
 
-### Special MSC 4
+### [Special MSC 4](https://msa.monash.edu/hubfs/Meeting%20Minutes%20Special%20MSC%204_2024.pdf)
 
 This meeting was called with 2 days notice to address an urgent item, undisclosed to the public, which was withdrawn at the last moment as there were insufficient numbers to keep it in camera. It presumably would have related to a "confidential personal, staffing or legal matter". Members of the MSC had gathered for the meeting before learning that the motion had been pulled.
 
-### [MSC 15](https://drive.google.com/file/d/1sMzp-iAuFr-UhhdH453wiDJgIVx74YCa/view?usp=sharing)
+### [MSC 15](https://msa.monash.edu/hubfs/Confirmed%20Minutes%20MSC%2015_2024.pdf)
 
 Originally, this 6th December meeting was the last scheduled MSC meeting for the year. Usually the last MSC meeting each year approves the MSA budget for the following year. There was no budget on the agenda for this meeting. The 2024 MSA Executive had not yet finalised it and was expected to introduce it in the third week of the month, following the National Union of Students National Conference.
 
 The day before the meeting, MSC 16 was scheduled. MSC 15 failed to meet quorum and so did not run.
 
-### [MSC 16](https://drive.google.com/file/d/1cznANxUCt9oAIffl8QQHAd_sZQOS9iuT/view?usp=sharing)
+### [MSC 16](https://msa.monash.edu/hubfs/Confirmed%20Minutes%20MSC%2016_2024.pdf)
 
 The date of the meeting initially published was 20 December, but was soon revised to 19 December.
 
@@ -258,9 +247,9 @@ The failure of the MSC to meet in December to pass a budget meant that the MSA e
 
 Divisions can continue to spend from their reserves without central approval. All salaries and contracts were not affected. Spending up to $11,000 from central funds would need to be approved by an MSA Executive meeting.
 
-### [Special MSC 1](https://drive.google.com/file/d/10TOKipvmSfzQEgEiuv8XrMkAa5omYumY/view?usp=sharing)
+### [Special MSC 1](https://msa.monash.edu/hubfs/Confirmed%20Minutes%20Special%20MSC%201_25.pdf)
 
-The Special MSC meeting was called with 2 days notice to elect the MSA Executive's Divisional representative and General Representative. It is normal to run these elections in the first meeting of the year, but uniquely those who joined the MSA Executive this time would get to shape the 2025 MSA budget. At the time of the notice, the MSA MAPS representative (its own mess) and an MSC General Representative had not yet been confirmed. A Change MSC General Representative elected in the [2024 MSA elections](/msa24) had resigned. By the meeting, both positions were represented by people linked to the Labor Left.
+The Special MSC meeting was called with 2 days notice to elect the MSA Executive's Divisional representative and General Representative. It is normal to run these elections in the first meeting of the year, but uniquely those who joined the MSA Executive this time would get to shape the 2025 MSA budget. At the time of the notice, the MSA MAPS representative (its own mess) and an MSC General Representative had not yet been confirmed. A Labor Left MSC General Representative elected at the top of the Change ticket in the [2024 MSA elections](/msa24) had resigned. By the meeting, both positions were represented by people linked to the Labor Left, with MSA MAPS on an agenda to obstruct money and pass reforms to MSA regulations before any shenanigans would remove them.
 
 For MSA Executive Divisional representative, Jay from C&S was the only nominee, seconded by MSA MAPS. The vote was 2 in favour and 2 abstentions. Jay asked for a recount, resulting with 3 votes in favour and one abstention. Therefore, Jay was restored to the MSA Executive.
 
@@ -268,7 +257,89 @@ For MSA Executive General Representative, the new replacement MSC General Repres
 
 The MSA Executive now comprised the President, Treasurer, Secretary and C&S President. It gets to propose a budget for the MSA's 2025 which is expected to be presented at the first regular MSC meeting.
 
-More to come, keep an ear out.
+### [MSC 1](https://22189712.fs1.hubspotusercontent-eu1.net/hubfs/22189712/MSC%201_25%20Confirmed%20Minutes.pdf)
+
+The agenda for the 5th February meeting included the [2025 MSA budget](https://drive.google.com/file/d/1cqUxIXxvWqbq2SO6ASMEomfjXr1JMTr_/view?usp=sharing), an election for MSA Executive General Representative, and a raft of outstanding MSC minutes confirmations from 2024.
+
+Originally scheduled for before the budget, the election was moved to after then later withdrawn completely.
+
+The budgeted deficit is $1.2 million, the majority of which is a projected $700,000 loss on MSA Training and Professional Development due to government regulation changes affecting registered training organisations. The 2025 Executive prioritised free food in the budget. D&C was critical of a lack of a detailed breakdown or submission for $110,000 moved from central funds to the Creative and Live Arts department for Wednesday Sessions, spending which was also questioned by Radio Monash.
+
+Radio Monash and MSA MAPS voted against the budget, with the rest of the MSC in favour. Ultimately, it took until over a month into 2025 before the year's budget was adopted - 2 months after normal and after 3 failed attempts.
+
+Following the base budget approval, the MSC considered appeals from Divisions and departments. C&S did not appeal this budget after an $80,000 increase from the budget initially put forward in [December 2024](https://drive.google.com/drive/folders/1Ym_1dXmWUteB_tmy1caBbzS1nfKtpEWS?usp=sharing), but Radio Monash continued its appeal. Its position was that it had proposed a subsistence budget, and the even lower allocated budget would make maintaining its 2024 offering impossible without continuing to rely on financial support from volunteers and performing artists.
+
+The Radio Monash appeal was rejected with 7 in favour, 8 against and 2 abstentions.
+
+The MSC then passed a routine motion allowing the MSA Executive to authorise expenditures of up to $10,000, with only MSA MAPS voting against and objecting to the high amount allowed.
+
+Next, changes to standing orders moved by Jay and seconded by MSA MAPS were passed. This included decreasing quorum for MSA Executive meetings with leaves of absence - a measure which D&C opposed as open to abuse, drawing on the recent history of MSC politics and the 2024 MSA Executive.
+
+Changes to notice requirements were also proposed by Jay and MSA MAPS to no longer require posting to the physical noticeboard, ensure that accidental omissions of notice do not invalidate MSC notices, and allow amendment of notice. The saving protection for accidental omissions of notice was controversial with Paul (who supported the motion overall), D&C and Radio Monash, citing the politicisation of the MSC, but as a standing orders motion it could not be amended during the meeting. With 10 votes in favour, 3 against and 2 abstentions, these changes failed without the absolute majority of the MSC required.
+
+### [MSC 2](https://drive.google.com/file/d/1cfbz4BOM6rVZ2LXx2WIVguNKeIewAhoz/view?usp=sharing)
+
+The MSC again considered a number of changes to the standing orders and [Regulations for Office-Bearers and Members of MSA Bodies](https://22189712.fs1.hubspotusercontent-eu1.net/hubfs/22189712/Regulations%20for%20Office-Bearers%20and%20Members%20of%20MSA%20Bodies.pdf). These included ending the requirement for MSC members to be directly quoted in the minutes if they request, moved by Jay and seconded by the Secretary, on the grounds of mitigating the risk of defamation - withdrawn after controversy over the power given to the Secretary and the inability to view the legal advice that it was based on.
+
+Among the changes passed was a motion by MSA MAPS seconded by Jay, to remove the absolute majority vote required to elect the Divisional and General Representative to the MSA Executive. Instead, if only one candidate nominated for either position then they would be automatically declared elected unopposed. Paul preferred keeping the absolute majority confirmatory vote to ensure that the MSA Executive representatives would represent the diversity and moderating effect of the Divisions and General Representatives. The changes passed with 13 in favour, 4 against and 3 abstentions.
+
+There was some debate over the way in which these changes to MSA governing documents were drafted and presented. D&C and others complained that MSC directors were never able to view legal advice that the MSA Executive had received and based on which motions were justified. Paul criticised what he saw as a growing culture of ad hoc, frequent and minimally scrutinised changes to governing documents which had not been amended for many years prior. He raised concerns that the proposed amendments were not themselves checked by the MSA's lawyer and appeared to be in response to inconveniences without proper consideration for their original intention.
+
+Jay pointed out that despite the longstanding use of the governing documents, they were not fit for purpose and other MSCs had responded to inconveniences by ignoring the rules. MSA MAPS revealed that their changes to MSA Executive elections had been submitted to the MSA Executive over a month earlier for legal advice, but the MSA Executive had been yet to get their shit together.
+
+### [MSC 3](https://drive.google.com/file/d/1-Bh_tUNcfT7RzqwSj01CKQTn5PYaqLDd/view?usp=drive_link)
+
+Before this meeting, one of the MSC General Representatives elected on the Change ticket (and part the Labor Left) resigned. So the Secretary had contacted the Authorised Officer of Change to appoint a replacement. Change's new MSC General Representative, a prominent student linked to the Labor Right, had been a candidate for Change's rivals [Together](/msa23) and [Elevate](/msa24) in previous MSA elections and runner-up in the [2023 Academic Board race](/changemsa).
+
+This meeting saw another attempt to elect a General Representative to the MSA Executive. The MSC General Representative from Change appointed before Special MSC 1 was the sole nominee, seconded by their new colleague. With the changes passed at the previous MSC meeting having removed the confirmatory voting requirement, they were automatically declared elected unopposed to the MSA Executive.
+
+The next item of business was accepting the financial statement summaries for March, May, August, September, October and November. As the reason for the delay, the mover Jay pointed to incompetence of the 2024 Treasurer Joshua, prompting outrage.
+
+### [MSC 4](https://drive.google.com/file/d/10AGpb44NP01syezbYfC_9-ITmTvmkiA0/view?usp=sharing)
+
+The annual [financial report](https://drive.google.com/file/d/16H9fFGcVkUqxCI4HKcX4Igf4PG2FCBd-/view?usp=sharing) tabled at this meeting revealed that the MSA had a $147,000 surplus in 2024.
+
+Another MSA Executive General Representative election. Before this meeting, the MSA Executive General Representative had resigned as MSC General Representative. They had been appointed by the Change ticket as a replacement before Special MSC 1. Their own replacement appointed by Change was a candidate in the [2024 University Council](/msa24) election who had recommended a second preference for the Elevate-linked Labor Right candidate.
+
+The MSC General Representative appointed before MSC 3 was the sole nominee for the MSA Executive, seconded by their new colleague, and was declared elected unopposed.
+
+One motion unanimously passed at this meeting was fighting to secure at least 50% allocation (currently 40%) of the University's Student Services and Amenities Fee for the Monash student organisations, of which the MSA is the major part, through delayed SSAF negotiations this year. During debate on the motion, your correspondent was named twice by the temporary chair Jay.
+
+### Elections summaries
+
+For convenience, a summary of the counts for Jay's elections for MSA Executive Divisional representative.
+
+MSC 13
+1. 3 in favour, 0 against, 1 abstention
+2. 2 in favour, 1 against, 1 abstention
+3. 2 in favour, 1 against, 1 abstention
+4. 3 in favour, 1 against, 0 abstention
+
+MSC 14
+1. 2 in favour, 1 against, 1 abstention
+2. 3 in favour, 1 against, 0 abstention
+
+Special MSC 1
+1. 2 in favour, 0 against, 2 abstention
+2. 3 in favour, 0 against, 1 abstention
+
+And a summary of the flux of MSC General Representatives and the 2025 MSA Executive General Representative elections.
+
+2024 MSA elections: Kristy, Diyara, Beck, Jennifer, Grayson.
+
+Kristy resigns. Felix (Change) appoints Tayla.
+
+Special MSC 1: Tayla, Diyara, Beck, Jennifer, Grayson. Tayla nominates, Grayson proxy seconds, fails. 2 in favour, 1 abstention, 2 no vote.
+
+MSC 1: Tayla, Diyara, Beck, Jennifer, Grayson.
+
+Grayson resigns. Felix (Change) appoints Nick.
+
+MSC 3: Tayla, Diyara, Beck, Jennifer, Nick. Tayla nominates, Nick seconds, declared elected unopposed.
+
+Tayla resigns. Felix (Change) appoints John.
+
+MSC 4: John, Diyara, Beck, Jennifer, Nick. Nick nominates, John seconds, declared elected unopposed.
 
 ### Journalism
 
@@ -293,3 +364,9 @@ In terms of accuracy, I do care a bit about that, as much as I do not wilfully l
 What about Radio Monash? They do some journalism things, especially music and culture. One of their recent initiatives was interviews with clubs and societies. However, Radio Monash does not have a tradition of political journalism and there is no expectation for it to happen. I do note some facts. Its president at MSCs has often emphasised that as a media organisation, Radio Monash is apolitical. Campbell ran for president of Radio Monash on a platform of political journalism and activism. Some of its members are engaged observers of student politics and campus affairs - its president recently contributed a piece in their personal capacity to Lot's Wife. In my long life I have found many things to admire, and Radio Monash and its people count among them.
 
 Another thing to keep in mind is that most people do not care about what goes on at MSCs. Interest in MSCs is niche, usually boring and arguably relatively inconsequential as far as the average student is concerned. I was not very interested in the MSC, partly due to the initial Lot's Wife coverage. There are better things that I can do rather than recounting these events to a frankly small and narrow audience. There may be better things for Lot's Wife and MoJo News to cover. Maybe.
+
+### Lot's Wife's takes
+
+- [MSC 1](https://lotswife.com.au/msc-1-recap/) - Angus Duske
+- [MSC 3](https://www.yumpu.com/en/document/view/70315670/lots-wife-edition-2-2025) - Angus Duske, Alessandro Papaleo, Josh Chuah
+- MSC 4 - Lot's Wife 3/2025 Angus Duske, Alessandro Papaleo, Josh Chuah
