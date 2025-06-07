@@ -3,7 +3,7 @@ permalink: /dismissal
 title: The Dismissal
 ---
 
-Page last updated 6/6/2025.
+Page last updated 7/6/2025.
 
 ## C&S Sacked from the MSA Executive
 
@@ -289,7 +289,7 @@ Jay pointed out that despite the longstanding use of the governing documents, th
 
 ### [MSC 3](https://drive.google.com/file/d/1-Bh_tUNcfT7RzqwSj01CKQTn5PYaqLDd/view?usp=drive_link)
 
-Before this meeting, one of the MSC General Representatives elected on the Change ticket (and part the Labor Left) resigned. So the Secretary had contacted the Authorised Officer of Change to appoint a replacement. Change's new MSC General Representative, a prominent student linked to the Labor Right, had been a candidate for Change's rivals [Together](/msa23) and [Elevate](/msa24) in previous MSA elections and runner-up in the [2023 Academic Board race](/changemsa).
+Before this meeting, one of the MSC General Representatives elected on the Change ticket (and part the Labor Left) resigned. So the Secretary had contacted the Authorised Officer of Change to appoint a replacement. Change's new MSC General Representative, a prominent student, had been linked to the Labor Right, a candidate for Change's rivals [Together](/msa23) and [Elevate](/msa24) in previous MSA elections, and runner-up in the [2023 Academic Board race](/changemsa).
 
 This meeting saw another attempt to elect a General Representative to the MSA Executive. The MSC General Representative from Change appointed before Special MSC 1 was the sole nominee, seconded by their new colleague. With the changes passed at the previous MSC meeting having removed the confirmatory voting requirement, they were automatically declared elected unopposed to the MSA Executive.
 
