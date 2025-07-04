@@ -3,7 +3,7 @@ permalink: /monash
 title: The Monash Series
 ---
 
-Page last updated 2/11/2024.
+Page last updated 4/7/2025.
 
 ## The Monash Series
 
@@ -19,6 +19,7 @@ Page last updated 2/11/2024.
 - [2024 elections of the Monash Student Association](/msa24)
 - [Radio Monash comments on the 2024 Monash Student Council](/msc24)
 - [The Dismissal: C&S Sacked from the MSA Executive](/dismissal)
+- [2025 elections of the Monash Student Association](/msa25)
 
 ### Information integrity
 
