@@ -3,7 +3,7 @@ permalink: /dismissal
 title: The Dismissal
 ---
 
-Page last updated 7/6/2025.
+Page last updated 4/7/2025.
 
 ## C&S Sacked from the MSA Executive
 
@@ -305,6 +305,12 @@ The MSC General Representative appointed before MSC 3 was the sole nominee for t
 
 One motion unanimously passed at this meeting was fighting to secure at least 50% allocation (currently 40%) of the University's Student Services and Amenities Fee for the Monash student organisations, of which the MSA is the major part, through delayed SSAF negotiations this year. During debate on the motion, your correspondent was named twice by the temporary chair Jay.
 
+### [MSC 6](https://drive.google.com/file/d/1KQhedowwkAawCfWdDEMeVT62fDiqOc1o/view?usp=sharing)
+
+Before this meeting, held during the winter break, Campbell resigned as MSA Treasurer. The MSC unanimously appointed the Treasurer of the Monash ALP Labor Club, a 2024 Change Women's Officer candidate, to be the new MSA Treasurer. The motion was moved by the Secretary and seconded by Jay, who used his seconding speech to celebrate that the new MSA Treasurer would be present and active.
+
+In general business, D&C asked about when MSA MAPS membership would become generally available to students, beyond the single digit number of insiders. The MSA MAPS proxy called this question a "grenade", replying that membership would be available by the start of semester 2 on the same platform used by the rest of the Divisions.
+
 ### Elections summaries
 
 For convenience, a summary of the counts for Jay's elections for MSA Executive Divisional representative.
@@ -370,3 +376,4 @@ Another thing to keep in mind is that most people do not care about what goes on
 - [MSC 1](https://lotswife.com.au/msc-1-recap/) - Angus Duske
 - [MSC 3](https://www.yumpu.com/en/document/view/70315670/lots-wife-edition-2-2025) - Angus Duske, Alessandro Papaleo, Josh Chuah
 - MSC 4 - Lot's Wife 3/2025 Angus Duske, Alessandro Papaleo, Josh Chuah
+- [MSC 6](https://twitter.com/LotsWifeMag/status/1940212305062690845) - Angus Duske
