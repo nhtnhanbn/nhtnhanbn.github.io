@@ -3,7 +3,7 @@ permalink: /msa25
 title: 2025 Monash Student Association elections
 ---
 
-Page last updated 16/7/2025.
+Page last updated 24/7/2025.
 
 ## 2025 elections of the Monash Student Association
 
@@ -15,9 +15,17 @@ Polls are open Monday 1st September to Thursday 4th September. Students will vot
 
 ### [Election timeline](http://msa.monash.edu/hubfs/MSA%20Election%20Timeline%202025.pdf)
 
+### Ticket registrations closed
+
+Update 24/7/2025 - 5 weeks until polls open.
+
+With ticket registrations closed, the contest is expected to be a traditional one mainly between the Labor Left incumbents and a ticket of the Labor Right. Small and autonomous groups struggled to reach the 80 signatures but will be on the ballot in the elections.
+
+Party in the MSA has already been forced to take down one of their early policy posts proposing to establish a nuclear deterrent for the MSA following a complaint.
+
 ### Election notice out
 
-Update 16/7/2025 - 6 weeks until polls open
+Update 16/7/2025 - 6 weeks until polls open.
 
 Ticket registrations opened at 10:00am on Monday 14th July, with the notice of election sent to all students soon after. The next day, the ticket registration form and the election timeline were published on the [MSA website](https://msa.monash.edu/elections). Office Bearer Role Outlines including honoraria were also published.
 
