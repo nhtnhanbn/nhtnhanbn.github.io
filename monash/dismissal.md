@@ -3,7 +3,7 @@ permalink: /dismissal
 title: The Dismissal
 ---
 
-Page last updated 4/7/2025.
+Page last updated 25/7/2025.
 
 ## C&S Sacked from the MSA Executive
 
@@ -307,7 +307,15 @@ One motion unanimously passed at this meeting was fighting to secure at least 50
 
 ### [MSC 6](https://drive.google.com/file/d/1KQhedowwkAawCfWdDEMeVT62fDiqOc1o/view?usp=sharing)
 
-Before this meeting, held during the winter break, Campbell resigned as MSA Treasurer. The MSC unanimously appointed the Treasurer of the Monash ALP Labor Club, a 2024 Change Women's Officer candidate, to be the new MSA Treasurer. The motion was moved by the Secretary and seconded by Jay, who used his seconding speech to celebrate that the new MSA Treasurer would be present and active.
+Before this meeting, held during the winter break, Campbell resigned as MSA Treasurer. The MSC unanimously appointed the Treasurer of the Monash ALP Labor Club, a 2024 Change Women's Officer candidate, to be the new MSA Treasurer. The motion was moved by the Secretary and seconded by Jay, who used his seconding speech to celebrate that the new MSA Treasurer would be present and active, and claimed that Campbell had attended 8 out of 31 MSA Executive meetings.
+
+This meeting saw a slate of regulations and policies get [passed](/msa25). Among them were staff-initiated updates to the Finance Regulations, Policy and Procedure. These included formally establishing the [Finance Audit Risk Committee](https://drive.google.com/file/d/1cqe5xU3sYQRYZUOlbpf-1GFnODZak7sV/view?usp=sharing), comprising the 5 MSA Executive members and MSA staff members the Executive Officer and the Finance Director, all as full voting members. Also in the proposed Finance Regulations
+
+The Elevate candidate for Treasurer in the [2024 MSA elections](/msa24) proposed adding another member, elected by the MSC, to the Finance Audit Risk Committee to ensure accountability to the MSC. The MSA Secretary rejected this idea due to the confidential matters discussed and suggested that adding a non-Executive member would only mean that discussions that would have been occurred in the Committee would become informal conversations excluding the additional member.
+
+MSA MAPS questioned why the regulations internally defined the MSA Executive as only the President, Secretary and Treasurer, excluding the Executive Divisional and General Representatives. According to the MSA Secretary, this was conventional as expenditure approval should be the responsibility of directly elected Executive members who could be held directly accountable by students. Additionally, Jay and Paul argued that it allows for central funds expenditure approvals even while there are delays in electing the Executive Divisional or General Representative.
+
+The Finance Regulations, Policy and Procedure passed with 16 votes in favour, MSA MAPS against and Queer abstaining.
 
 In general business, D&C asked about when MSA MAPS membership would become generally available to students, beyond the single digit number of insiders. The MSA MAPS proxy called this question a "grenade", replying that membership would be available by the start of semester 2 on the same platform used by the rest of the Divisions.
 
