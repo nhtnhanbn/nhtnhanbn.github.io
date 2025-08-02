@@ -3,7 +3,7 @@ permalink: /msa25
 title: 2025 Monash Student Association elections
 ---
 
-Page last updated 24/7/2025.
+Page last updated 2/8/2025.
 
 ## 2025 elections of the Monash Student Association
 
@@ -14,6 +14,23 @@ Updates on this page in reverse chronological order.
 Polls are open Monday 1st September to Thursday 4th September. Students will vote in elections of MSA office bearers, committees and National Union of Students delegates.
 
 ### [Election timeline](http://msa.monash.edu/hubfs/MSA%20Election%20Timeline%202025.pdf)
+
+### Tickets registered
+
+Update 2/8/2025 - 4 weeks until polls open.
+
+The [registered tickets](https://msa.monash.edu/hubfs/2025%20MSA%20Notice%20of%20Registered%20tickets_provisional%20(1).pdf) are
+- Change (incumbents, led by the Labor Left)
+- Elevate (Labor Right subfactions and allies)
+- Party in the MSA (joke ticket, Mannix College base)
+- Free Palestine (Socialist Alternative)
+- Access & Pride
+
+The changes from last year are no Forward (Liberals) or Regen (led by Greens), while the independent Access ticket in the Disabilities & Carers Department has expanded to cover allies running for the Queer Department.
+
+Party in the MSA registered as Party in the REDACTED, but following a complaint that there were more characters in the name than allowed under the new electoral regulations, has renamed to Party in le REDACTED. Meanwhile, the ban on their nuclear deterrent policy has been overturned on appeal.
+
+Change has started posting daily on social media.
 
 ### Ticket registrations closed
 
