@@ -3,7 +3,7 @@ permalink: /msa25
 title: 2025 Monash Student Association elections
 ---
 
-Page last updated 2/8/2025.
+Page last updated 14/8/2025.
 
 ## 2025 elections of the Monash Student Association
 
@@ -14,6 +14,16 @@ Updates on this page in reverse chronological order.
 Polls are open Monday 1st September to Thursday 4th September. Students will vote in elections of MSA office bearers, committees and National Union of Students delegates.
 
 ### [Election timeline](http://msa.monash.edu/hubfs/MSA%20Election%20Timeline%202025.pdf)
+
+### Nominations in
+
+Update 13/8/2025 - 2 weeks until polls open
+
+All five registered tickets will be on the front page of the ballot.
+
+Most positions will be contested by Change and Elevate, with Party in the MSA joining about half of the elections. Free Palestine will contest for the Environment & Social Justice Officer and Committee, Student Affairs Committee and National Union of Students delegates. The Disabilities and Carers Officer and Committee will be a rematch between Change and the incumbent ticket Access, and the Queer Officers and Collective will contested by Change and Pride. Access & Pride will also run candidates for Monash Student Council General Representatives. Change candidates for Education (Academic Affairs) Officers, Activities Officers and Committee, Residential Community Officers and Lot's Wife Editors are provisionally elected unopposed, with Party in the MSA also receiving a seat on the Activities Advisory Committee. There will be no candidates running independently without a ticket.
+
+Over the past few weeks, Change has been posting constantly, mainly celebrating their wins so far. Party in the MSA has also posted occasionally, including new policies as well as highlighting the Change candidate for Secretary's past Together and Elevate links.
 
 ### Tickets registered
 
