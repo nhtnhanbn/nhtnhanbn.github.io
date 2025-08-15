@@ -3,11 +3,13 @@ permalink: /dismissal
 title: The Dismissal
 ---
 
-Page last updated 25/7/2025.
+Page last updated 16/8/2025.
 
 ## C&S Sacked from the MSA Executive
 
 Disclaimer: no guarantees of factual accuracy. Some claims are based on best evidence.
+
+This is the live updating page. For a (comparatively) condensed account, see [Demise of the Crown](/demise).
 
 *"literally wtf"*
 
