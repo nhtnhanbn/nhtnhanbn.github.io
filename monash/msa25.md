@@ -31,6 +31,8 @@ The Party in the MSA Secretary and the Change Education (Public Affairs) Officer
 
 The Party in the MSA President statement also supports boat cruises, which were [banned](/demise) late last year by the autonomous Clubs & Societies division of the MSA.
 
+On social media, Change recently announced a policy to trial offering students a free drink after their exams from Sir John's Bar. This prompted suggestions that the policy was inspired by Party in the MSA's core more beers policy platform. Change's announcement came two weeks after Party in the MSA released a wide-ranging drinks policy.
+
 Change policies include
 - Expanding 24/7 Matheson Library areas
 - Free food programmes including free breakfast every weekday
