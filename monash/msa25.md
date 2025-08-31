@@ -3,7 +3,7 @@ permalink: /msa25
 title: 2025 Monash Student Association elections
 ---
 
-Page last updated 14/8/2025.
+Page last updated 31/8/2025.
 
 ## 2025 elections of the Monash Student Association
 
@@ -14,6 +14,47 @@ Updates on this page in reverse chronological order.
 Polls are open Monday 1st September to Thursday 4th September. Students will vote in elections of MSA office bearers, committees and National Union of Students delegates.
 
 ### [Election timeline](http://msa.monash.edu/hubfs/MSA%20Election%20Timeline%202025.pdf)
+
+### Polls open in the morning
+
+Update 31/8/2025 - 12 hours until polls open
+
+After eligibility checks, 1 Pride candidate for Queer Affairs Committee, 4 Change candidates for committees and one of the unaffiliated candidates for Indigenous Officer had their nominations rejected for not being an eligible student.
+
+Like in 2024, Socialist Alternative members are running on the Change ticket (and endorsed by Free Palestine) for Education (Public Affairs) Officers, one of the two Environment & Social Justice Officers, and the National Union of Students.
+
+Of the 9 candidates elected on the Change ticket to the Queer Department in 2024, none of them are running again with Change this year. 6 have defected to Access & Pride, running against Change mainly in the Queer Department.
+
+The [Election Guide](https://www.yumpu.com/en/document/view/70719581/msa-2025-election-guide) has been released, containing ticket and candidate photos and statements. Elevate did not send a ticket statement, or any statements for committees or the National Union of Students. Party in the MSA did not send a ticket statement or a statement for the People of Colour Collective. Change did not send a statement for the Create & Live Arts Committee.
+
+The Party in the MSA Secretary and the Change Education (Public Affairs) Officers narrowly exceeded the word count limit for their candidate statements.
+
+The Party in the MSA President statement also supports boat cruises, which were [banned](/demise) late last year by the autonomous Clubs & Societies division of the MSA.
+
+Change policies include
+- Expanding 24/7 Matheson Library areas
+- Free food programmes including free breakfast every weekday
+- Earlier semester 2 mid-semester break
+
+Elevate policies include
+- Monash Connect and University Health Services accessibility
+- 3-day automatic short extensions
+- $200 emergency grants
+
+Party in the MSA policies include
+- MSA nuclear deterrent
+- Doubling the height of the Menzies building
+- 24/7 Sir John's Bar
+
+Access & Pride policies include
+- Improving subtitles in lecture materials
+- An MSA Accessibility Action Plan
+- Ending deadnaming in the classroom
+
+Free Palestine policies include
+- University divestment from weapons companies
+- $5 lunches on campus
+- Free university education
 
 ### Nominations in
 
