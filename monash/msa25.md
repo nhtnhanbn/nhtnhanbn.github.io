@@ -3,7 +3,7 @@ permalink: /msa25
 title: 2025 Monash Student Association elections
 ---
 
-Page last updated 1/9/2025.
+Page last updated 2/9/2025.
 
 ## 2025 elections of the Monash Student Association
 
@@ -15,9 +15,15 @@ Polls are open Monday 1st September to Thursday 4th September. Students will vot
 
 ### [Election timeline](http://msa.monash.edu/hubfs/MSA%20Election%20Timeline%202025.pdf)
 
+### Monash for Palestine endorses Change
+
+Update 2/9/2025 - 2 days until polls close
+
+Like last year, Monash for Palestine has endorsed Change, with which it has deep connections. Monash for Palestine also specifically claimed that Elevate is a rebranded version of the "Zionist" Together ticket.
+
 ### Polls open
 
-Update 1/9/2025 - 4 days until polls close
+Update 1/9/2025 - 3 days until polls close
 
 Voting in student union elections has opened across the state. Throughout Monash's Clayton campus, campaigners are already on the ground with Change, Elevate, Free Palestine and Party in the MSA all having a presence.
 
