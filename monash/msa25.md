@@ -3,7 +3,7 @@ permalink: /msa25
 title: 2025 Monash Student Association elections
 ---
 
-Page last updated 2/9/2025.
+Page last updated 3/9/2025.
 
 ## 2025 elections of the Monash Student Association
 
@@ -14,6 +14,16 @@ Updates on this page in reverse chronological order.
 Polls are open Monday 1st September to Thursday 4th September. Students will vote in elections of MSA office bearers, committees and National Union of Students delegates.
 
 ### [Election timeline](http://msa.monash.edu/hubfs/MSA%20Election%20Timeline%202025.pdf)
+
+### Offensive publicity
+
+Update 3/9/2025 - 23 hours until polls close
+
+Some of the tickets have had to modify their material after printing to comply with electoral regulations.
+
+Elevate's flyers and posters have required manual stamping of the authorised officer authorisation and the newly mandated "Please Recycle" notice. Party in the MSA's campaign shirts have required adding a sticky note with the authorised officer authorisation, although this was not strictly followed at all times.
+
+Postering has been predominantly by Change, spruiking their achievements, along with some posters by Elevate attacking the supposed dysfunction of the MSA and underfunding of clubs and societies under Change.
 
 ### Monash for Palestine endorses Change
 
