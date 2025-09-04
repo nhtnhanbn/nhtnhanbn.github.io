@@ -15,6 +15,20 @@ Polls are open Monday 1st September to Thursday 4th September. Students will vot
 
 ### [Election timeline](http://msa.monash.edu/hubfs/MSA%20Election%20Timeline%202025.pdf)
 
+### Change retains power
+
+Update 4/9/2025
+
+Change has won the 2025 MSA elections in a [landslide](https://drive.google.com/file/d/1hSE-HonxSXjW4MmXjNF3msuZS7Bg-k4h/view?usp=drive_link).
+
+The incumbent ticket has swept up all office bearer positions, a feat that it has achieved for the first time. All Monash Student Council seats up for election except for one Monash Student Council General Representative will go to Change.
+
+Support for their main rivals Elevate has collapsed after a muted campaign by the underdog ticket, seeing it fall to third place on primary votes behind Change allies Free Palestine.
+
+High turnout in elections in autonomous departments has largely benefited Change, helping them evict Elevate and Access from their last remaining footholds in the Monash Student Council.
+
+Turnout was 11%.
+
 ### Polls closed
 
 Update 4/9/2025
