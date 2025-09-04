@@ -81,6 +81,13 @@ form {
     margin: 20px auto;
 }
 
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 0.5em;
+    text-align: center;
+}
+
 /* Partially stolen from https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas */
 .dropbox {
     width: 100%;

@@ -3,7 +3,7 @@ permalink: /msa25
 title: 2025 Monash Student Association elections
 ---
 
-Page last updated 4/9/2025.
+Page last updated 5/9/2025.
 
 ## 2025 elections of the Monash Student Association
 
@@ -14,6 +14,39 @@ Updates on this page in reverse chronological order.
 Polls are open Monday 1st September to Thursday 4th September. Students will vote in elections of MSA office bearers, committees and National Union of Students delegates.
 
 ### [Election timeline](http://msa.monash.edu/hubfs/MSA%20Election%20Timeline%202025.pdf)
+
+### A milestone victory for Change
+
+Update 5/9/2025
+
+This is the first time that a ticket led by the Labor Left has won all office bearers since 2016 - an election that was practically uncontested. With this win, Change has its strongest mandate since coming to office, almost winning a majority of the primary vote in its own right. Since narrowly winning the tight three-way contest in the 2023 MSA elections, Change has strengthened its support each year. Meanwhile, principal opposition ticket Elevate's vote share has halved, after remaining steady last year.
+
+Overall turnout, at 11% of the student population, was down compared to last year's 13%.
+
+Monash Student Council General Representatives have gone 4 to Change and 1 to Elevate. The ticket split for the National Union of Students is 4 Change, 2 Free Palestine and 1 Elevate, translating to 3 Labor Left (NLS), 3 Socialist Alternative and 1 Labor Right (Unity).
+
+Head to head, Change wins 79% to Elevate's 21%, a swing of 22% towards Change compared to last year's elections. In the three-way contest, Change wins 72%, Elevate 17% and Party in the MSA 11%.
+
+Including Free Palestine (which had a deal with Change), primary vote shares are Change 48%, Free Palestine 27%, Elevate 15% and Party in the MSA 10%. Compared to 2023's 35%, Change has almost reached the critical threshold of majority support. Free Palestine's vote share is about the same as the 28% result achieved by Social Justice in 2023. The Change and Free Palestine votes combined (75%) exceed Change's 53% from last year when Free Palestine did not seriously run. Elevate's vote share has collapsed 21 percentage points compared to its 2024 and Together's 2023 results. Party in the MSA has been boosted by the absence of last year's Forward and Regen tickets, significantly increasing its vote share from 4% last year.
+
+For the past two years, Change has been unable to break the Disablities & Carers or Women's Departments. This year, it also faced a challenge from defectors in the Queer Department. However, newly implemented front page voting for autonomous departments have resulted in huge increases in turnout in those elections that have manifested almost entirely in a windfall of votes for Change, delivering a full sweep of wins in autonomous departments.
+
+| Department | Change vote | Change % | Change Δ | Opposition ticket | Opposition votes | Opposition % | Opposition Δ | % turnout Δ |
+|-
+| Disabilities & Carers | 475 | 74% | + 336 | Access | 170 | 26% | + 31 | + 179% |
+| Women's | 1713 | 79% | + 1388 | Elevate | 456 | 21% | + 97 | + 217% |
+| Queer | 819 | 77% | + 599 | Pride (vs Regen 2024) | 246 | 23% | + 87 | + 181% |
+| People of Colour | 1210 | 71% | + 918 | Elevate and Party in the MSA | 502 | 29% | + 208 | + 178% |
+
+Party in the MSA's spirited online and on campus campaign has succeeded in more than doubling their vote share, as well as securing them a seat on 3 committees. Party in the MSA is now on comparable standing with Elevate, assisted by that ticket's collapse.
+
+A muted campaign from Access & Pride has left them with no representative on the Monash Student Council. The loss of the Disabilities & Carers Department will see the two-term D&C Officer depart the MSA. Pride's split from Change, after the controversial decision to run on the Change ticket last year, failed to achieve a return to the autonomous administration in the Queer Department of the Rainbow Collective years.
+
+Meanwhile, the Labor Right's Elevate have suffered a humiliating and catastrophic defeat, losing not only the majority of their support but also their last remaining office bearers. In the end, they did not present a credible alternative and were unable to argue why voters should decide to change the MSA this year. In just 3 years, the Labor Right ticket vote has dived 70 percentage points.
+
+The results of these elections means that at least 18 out of the 24 members of the 2026 Monash Student Council will belong to Change, and only the Indigenous Officer, one General Representative and the four Divisions will not have been elected on the ticket. Labor Left allies in the Divisions may add to those numbers.
+
+Having just achieved, with Free Palestine, a landslide win by MSA standards, Change has now unquestionably cemented itself as the dominant force in Monash student politics. They have definitively defeated the Labor Right, Liberals, Greens and autonomous tickets. They have won substantially more support in the student population. With this outcome, voters have delivered a strong endorsement of Change's achievements and a clear mandate to continue running the Monash Student Association in 2026.
 
 ### Change retains power
 
