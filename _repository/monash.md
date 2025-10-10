@@ -3,14 +3,14 @@ permalink: /monash
 title: The Monash Series
 ---
 
-Page last updated 16/8/2025.
+Page last updated 10/10/2025.
 
 ## The Monash Series
 
 - [Prehistory - Monash Labor Club Genesis](/maonash)
 - [Stories from ancient history](/stupol)
 - [Monash Socialist Alternative club deregistration 2014](/msalt)
-- [Exploring RadMon history: the Walkout](https://www.radiomonash.online/journalism-all/od112xng9vbc2lpgfe0lwfaxgclf07) (external, Sarah Stancombe)
+- [Exploring RadMon history: the Walkout](https://www.radiomonash.online/journalism-all/od112xng9vbc2lpgfe0lwfaxgclf07) (Sarah Stancombe)
 - [State of the Monash Student Association pre-Change](/msa)
 - [Radio Monash Special General Meeting July 2023 - Labor Left stack](/radmon)
 - [Wired (Faculty of Information Technology Society) Annual General Meeting September 2023 - Change shenanigans and voter fraud](/wired)
@@ -21,6 +21,7 @@ Page last updated 16/8/2025.
 - [The Dismissal: C&S Sacked from the MSA Executive](/dismissal)
 - [Demise of the Crown; or, The Dismissal](/demise)
 - [2025 elections of the Monash Student Association](/msa25)
+- [The State of Misogyny in the MSA](https://instagram.com/p/DPhuGQxE2J6) (Grace Binns)
 
 ### Information integrity
 
