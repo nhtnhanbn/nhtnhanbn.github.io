@@ -3,7 +3,7 @@ permalink: /monash
 title: The Monash Series
 ---
 
-Page last updated 10/10/2025.
+Page last updated 27/12/2025.
 
 ## The Monash Series
 
@@ -21,7 +21,7 @@ Page last updated 10/10/2025.
 - [The Dismissal: C&S Sacked from the MSA Executive](/dismissal)
 - [Demise of the Crown; or, The Dismissal](/demise)
 - [2025 elections of the Monash Student Association](/msa25)
-- [The State of Misogyny in the MSA](https://instagram.com/p/DPhuGQxE2J6) (Grace Binns)
+- [The MSA Misogyny article](/msagyny)
 
 ### Information integrity
 
