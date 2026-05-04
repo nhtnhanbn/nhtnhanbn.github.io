@@ -1,5 +1,5 @@
 ---
-permalink: /april26
+permalink: /msapril
 title: April 2026 in the MSA
 ---
 
