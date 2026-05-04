@@ -22,7 +22,7 @@ Page last updated 4/5/2026.
 - [Demise of the Crown; or, The Dismissal](/demise)
 - [2025 elections of the Monash Student Association](/msa25)
 - [The MSA Misogyny article](/msagyny)
-- [Quiet April in the MSA](/april26)
+- [Quiet April in the MSA](/msapril)
 
 ### Information integrity
 
