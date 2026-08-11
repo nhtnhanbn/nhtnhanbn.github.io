@@ -3,7 +3,7 @@ permalink: /monash
 title: The Monash Series
 ---
 
-Page last updated 4/5/2026.
+Page last updated 11/8/2026.
 
 ## The Monash Series
 
@@ -22,7 +22,8 @@ Page last updated 4/5/2026.
 - [Demise of the Crown; or, The Dismissal](/demise)
 - [2025 elections of the Monash Student Association](/msa25)
 - [The MSA Misogyny article](/msagyny)
-- [Quiet April in the MSA](/april26)
+- [Quiet April in the MSA](/msapril)
+- [2026 elections of the Monash Student Association](/msa26)
 
 ### Information integrity
 
