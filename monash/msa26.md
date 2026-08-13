@@ -3,7 +3,7 @@ permalink: /msa26
 title: 2026 Monash Student Association elections
 ---
 
-Page last updated 11/8/2026.
+Page last updated 13/8/2026.
 
 ## 2026 elections of the Monash Student Association
 
@@ -14,6 +14,12 @@ Updates on this page in reverse chronological order.
 Polls are open Monday 7th September to Thursday 10th September. Students will vote in elections of MSA office bearers, committees, Lot's Wife Editors and National Union of Students delegates.
 
 ### [Election timeline](https://msa.monash.edu/hubfs/MSA%20Election%20Timeline%202026.pdf)
+
+### Lot's Wife unbanned
+
+Update 13/8/2026 - 3 clear weeks until polls open
+
+The Election Tribunal has [overturned](https://instagram.com/lotswifemag/p/Db-pHgjEt6b) the Returning Officer's ban on Lot's Wife edition 4 on appeal, ruling that there was no breach of the Election Regulations.
 
 ### Exclusive - the banned Lot's Wife paper
 
