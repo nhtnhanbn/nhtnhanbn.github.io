@@ -3,7 +3,7 @@ permalink: /msa26
 title: 2026 Monash Student Association elections
 ---
 
-Page last updated 13/8/2026.
+Page last updated 20/8/2026.
 
 ## 2026 elections of the Monash Student Association
 
@@ -11,9 +11,31 @@ Disclaimer: no guarantees of factual accuracy. Some claims are based on best evi
 
 Updates on this page in reverse chronological order.
 
-Polls are open Monday 7th September to Thursday 10th September. Students will vote in elections of MSA office bearers, committees, Lot's Wife Editors and National Union of Students delegates.
+Polls are open Monday 7th September to Thursday 10th September. Students will vote in elections of MSA office bearers, Monash Student Council General Representatives, committees, Lot's Wife Editors and National Union of Students delegates. MSA office bearers and MSC General Representatives alongside MSA divisions are voting positions in the Monash Student Council, the MSA's governing body.
 
 ### [Election timeline](https://msa.monash.edu/hubfs/MSA%20Election%20Timeline%202026.pdf)
+
+### The candidates
+
+Update 20/8/2026 - 2 clear weeks until polls open
+
+The provisional-but-final list of nominations received has been [released](https://msa.monash.edu/hubfs/2026%20Provisional%20MSA%20Notice%20of%20Nominations%20Received%20and%20Positions%20Elected%20Unopposed.pdf).
+
+The tickets running are the incumbents Change (organised by the Labor Left), allies Free Palestine (Socialist Alternative), and Party in the MSA (registered as Party in le Redacted). Notably, Labor Right ticket Elevate has sat out the elections this year, leaving the joke ticket Party in the MSA as the only serious opposition. And following annihilation last year, autonomous tickets are no more.
+
+Almost every position will be contested. Change has secured the Queer Department unopposed. Only Change has nominated candidates for Creative & Live Arts Officer, but they have not been declared elected unopposed.
+
+All tickets have nominated candidates for office bearers and committees. Only office bearers have power and a vote at the Monash Student Council, while committee election outcomes are not terribly meaningful. However, committee elections are important for tickets to engage supporters and the overall number of candidates is an indication of their campaigning strength come election week.
+
+Free Palestine has nominated 11 unique candidates for the Environment & Social Justice Department, NUS delegates (including a Labor Left/NLS member at the top of the ticket) and the Student Affairs Committee.
+
+Change is running 77 unique candidates, including for all office bearers, MSC General Representatives, NUS delegates and Lot's Wife Editors. Its ticket includes Social Alternative members for several MSC and NUS positions.
+
+Party in the MSA is running 16 unique candidates, including for all office bearers except Creative & Live Arts Officer and Indigenous Officer, MSC General Representatives, NUS delegates and Lot's Wife Editor. An incumbent Residential Community Officer has defected from Change and is contesting for re-election as a Party in the MSA candidate. This is the ticket's largest ever slate of candidates and would give it control of the MSC if it wins the elections.
+
+Effectively, the contest for MSC control is a choice between incumbents Change and opposition Party in the MSA. As the only opposition in the absence of the Labor Right and Elevate, Party in the MSA has a shot at the highly prized proportionally elected National Union of Students delegates and Monash Student Council General Representatives, which would give it a foothold in national student politics and the MSA's governance, respectively.
+
+Independent candidates have nominated for President (two!), Indigenous Officer, Lot's Wife Editor and Student Affairs Committee. There were also 11 independent nominations rejected due to failing signatory requirements, including disqualified candidates for Secretary, Education (Academic Affairs) Officer, People of Colour Officer, MSC General Representatives, Student Welfare Committee, Creative & Live Arts Committee and Women's Affairs Committee. I do not know any explanation for the unusually high number of independent nominations or the rejection of nominations from nearly all independent candidates.
 
 ### Lot's Wife unbanned
 
