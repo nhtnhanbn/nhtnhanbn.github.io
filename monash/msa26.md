@@ -31,11 +31,25 @@ Free Palestine has nominated 11 unique candidates for the Environment & Social J
 
 Change is running 77 unique candidates, including for all office bearers, MSC General Representatives, NUS delegates and Lot's Wife Editors. Its ticket includes Social Alternative members for several MSC and NUS positions.
 
+Beyond touting its 2026 achievements, Change's major policy proposals include:
+- Abolishing graduation fees.
+- Permanent free parking during Mondays, swotvac and exams.
+- 40% cap on final exams.
+- Extending SURLY (MSA library) hours until 7:30pm.
+
 Party in the MSA is running 16 unique candidates, including for all office bearers except Creative & Live Arts Officer and Indigenous Officer, MSC General Representatives, NUS delegates and Lot's Wife Editor. An incumbent Residential Community Officer has defected from Change and is contesting for re-election as a Party in the MSA candidate. This is the ticket's largest ever slate of candidates and would give it control of the MSC if it wins the elections.
+
+Party in the MSA's announced policy proposals include:
+- Building the third runway at Clayton (and the first two).
+- Reversing all increases to office bearer pay passed by Change.
+- Deducting money spent in Sir John's Bar beers from SSAF fees.
+- Holding a royal commission into whether to have a royal commission.
 
 Effectively, the contest for MSC control is a choice between incumbents Change and opposition Party in the MSA. As the only opposition in the absence of the Labor Right and Elevate, Party in the MSA has a shot at the highly prized proportionally elected National Union of Students delegates and Monash Student Council General Representatives, which would give it a foothold in national student politics and the MSA's governance, respectively.
 
 Independent candidates have nominated for President (two!), Indigenous Officer, Lot's Wife Editor and Student Affairs Committee. There were also 11 independent nominations rejected due to failing signatory requirements, including disqualified candidates for Secretary, Education (Academic Affairs) Officer, People of Colour Officer, MSC General Representatives, Student Welfare Committee, Creative & Live Arts Committee and Women's Affairs Committee. I do not know any explanation for the unusually high number of independent nominations or the rejection of nominations from nearly all independent candidates.
+
+For more MSA election coverage, see Khoa Tran on [Instagram](https://instagram.com/khoa.tran.1291). Khoa is the leading student politics commentator in the country, including for the MSA as a former Monash student, and has been a major news source for me since the early years.
 
 ### Lot's Wife unbanned
 
