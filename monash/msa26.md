@@ -3,7 +3,7 @@ permalink: /msa26
 title: 2026 Monash Student Association elections
 ---
 
-Page last updated 20/8/2026.
+Page last updated 25/8/2026.
 
 ## 2026 elections of the Monash Student Association
 
@@ -14,6 +14,18 @@ Updates on this page in reverse chronological order.
 Polls are open Monday 7th September to Thursday 10th September. Students will vote in elections of MSA office bearers, Monash Student Council General Representatives, committees, Lot's Wife Editors and National Union of Students delegates. MSA office bearers and MSC General Representatives alongside MSA divisions are voting positions in the Monash Student Council, the MSA's governing body.
 
 ### [Election timeline](https://msa.monash.edu/hubfs/MSA%20Election%20Timeline%202026.pdf)
+
+### Voting opens for University Council
+
+Update 25/8/2026 - 1 clear week until polls open
+
+Voting opens today and will close at 5.00pm (AEST) on Tuesday 1 September 2026.
+
+There are [13](https://www.monash.edu/__data/assets/pdf_file/0007/4417036/2026-Monash-University-Council-Notice-of-Student-Nominations-Received.pdf) student candidates, among them the 2026 MSA President and Change authorised officer, the Party in the MSA candidate for Lot's Wife Editor (and various other positions), the two independent candidates for MSA President, and a member of the Labor Right.
+
+Change and the 2026 MSA President should easily win the University Council election. If this is the case, it would not have any major direct implication on the MSA elections.
+
+All but one of the candidates have provided [candidate statements](https://www.monash.edu/__data/assets/pdf_file/0003/4417104/2026-Candidate-Statements-for-the-Student-Member-Election-University-Council.pdf).
 
 ### The candidates
 
