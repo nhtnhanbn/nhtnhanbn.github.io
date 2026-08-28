@@ -3,7 +3,7 @@ permalink: /msa26
 title: 2026 Monash Student Association elections
 ---
 
-Page last updated 25/8/2026.
+Page last updated 28/8/2026.
 
 ## 2026 elections of the Monash Student Association
 
@@ -31,11 +31,11 @@ All but one of the candidates have provided [candidate statements](https://www.m
 
 Update 20/8/2026 - 2 clear weeks until polls open
 
-The provisional-but-final list of nominations received has been [released](https://msa.monash.edu/hubfs/2026%20Provisional%20MSA%20Notice%20of%20Nominations%20Received%20and%20Positions%20Elected%20Unopposed.pdf).
+The provisional-but-final list of nominations received has been [released](https://msa.monash.edu/elections).
 
 The tickets running are the incumbents Change (organised by the Labor Left), allies Free Palestine (Socialist Alternative), and Party in the MSA (registered as Party in le Redacted). Notably, Labor Right ticket Elevate has sat out the elections this year, leaving the joke ticket Party in the MSA as the only serious opposition. And following annihilation last year, autonomous tickets are no more.
 
-Almost every position will be contested. Change has secured the Queer Department unopposed. Only Change has nominated candidates for Creative & Live Arts Officer, but they have not been declared elected unopposed.
+Almost every position will be contested. Change has secured the Queer and Residential Community Departments unopposed.
 
 All tickets have nominated candidates for office bearers and committees. Only office bearers have power and a vote at the Monash Student Council, while committee election outcomes are not terribly meaningful. However, committee elections are important for tickets to engage supporters and the overall number of candidates is an indication of their campaigning strength come election week.
 
@@ -49,12 +49,12 @@ Beyond touting its 2026 achievements, Change's major policy proposals include:
 - 40% cap on final exams.
 - Extending SURLY (MSA library) hours until 7:30pm.
 
-Party in the MSA is running 16 unique candidates, including for all office bearers except Creative & Live Arts Officer and Indigenous Officer, MSC General Representatives, NUS delegates and Lot's Wife Editor. An incumbent Residential Community Officer has defected from Change and is contesting for re-election as a Party in the MSA candidate. This is the ticket's largest ever slate of candidates and would give it control of the MSC if it wins the elections.
+Party in the MSA is running 14 unique candidates, including for all office bearers except Indigenous Officer and Residential Community Officer, MSC General Representatives, NUS delegates and Lot's Wife Editor. This is the ticket's largest ever slate of candidates and would give it control of the MSC if it wins the elections.
 
 Party in the MSA's announced policy proposals include:
 - Building the third runway at Clayton (and the first two).
 - Reversing all increases to office bearer pay passed by Change.
-- Deducting money spent in Sir John's Bar beers from SSAF fees.
+- Deducting money spent on Sir John's Bar beers from SSAF fees.
 - Holding a royal commission into whether to have a royal commission.
 
 Effectively, the contest for MSC control is a choice between incumbents Change and opposition Party in the MSA. As the only opposition in the absence of the Labor Right and Elevate, Party in the MSA has a shot at the highly prized proportionally elected National Union of Students delegates and Monash Student Council General Representatives, which would give it a foothold in national student politics and the MSA's governance, respectively.
