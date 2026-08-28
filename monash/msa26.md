@@ -25,7 +25,7 @@ There are [13](https://www.monash.edu/__data/assets/pdf_file/0007/4417036/2026-M
 
 Change and the 2026 MSA President should easily win the University Council election. If this is the case, it would not have any major direct implication on the MSA elections.
 
-All but one of the candidates have provided [candidate statements](https://www.monash.edu/__data/assets/pdf_file/0003/4417104/2026-Candidate-Statements-for-the-Student-Member-Election-University-Council.pdf).
+All candidates have provided [candidate statements](https://www.monash.edu/__data/assets/pdf_file/0009/4417641/2026-University-Council-Election-Student-Candidate-Statements-v1.pdf) (although an earlier release was missing one for an unexplained reason).
 
 ### The candidates
 
