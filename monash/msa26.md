@@ -3,7 +3,7 @@ permalink: /msa26
 title: 2026 Monash Student Association elections
 ---
 
-Page last updated 28/8/2026.
+Page last updated 1/9/2026.
 
 ## 2026 elections of the Monash Student Association
 
@@ -14,6 +14,20 @@ Updates on this page in reverse chronological order.
 Polls are open Monday 7th September to Thursday 10th September. Students will vote in elections of MSA office bearers, Monash Student Council General Representatives, committees, Lot's Wife Editors and National Union of Students delegates. MSA office bearers and MSC General Representatives alongside MSA divisions are voting positions in the Monash Student Council, the MSA's governing body.
 
 ### [Election timeline](https://msa.monash.edu/hubfs/MSA%20Election%20Timeline%202026.pdf)
+
+### Election Guide released
+
+Update 1/9/2026 - 5 clear days until polls open
+
+Lot's Wife has released the [Election Guide](https://www.yumpu.com/en/document/view/71275719/msa-election-guide-2026), although it is not yet linked on the MSA website. The delay in publication was caused by waiting for the returning officer's approval.
+
+The only missing statements are the independent candidate for Lot's Wife Editor, Change's Residential Community Officer (elected unopposed), and Party in the MSA's statements for the ticket, Education (Public Affairs) Officer, Activities Officer and Women's Affairs Committee.
+
+Party in the MSA candidate statements are mixed in tone and content, but all critical of the MSA under Change for lacking transparency, neglecting campus experience, using their positions for political career advancement, and increasing office bearer honorariums.
+
+The list of nominations is hopefully [finalised](https://msa.monash.edu/hubfs/2026%20MSA%20Notice%20of%20Nominations%20Received_FINAL.pdf). There have been several "final" iterations released with substantial differences between each, so my numbers below might be slightly off. Notably, the two independent candidates for President have been rejected apparently for trying to submit a joint nomination to share the position, making the election for President a head-to-head between Change and Party in the MSA.
+
+Voting for the University Council elections closed today. Results are expected by Thursday.
 
 ### Voting opens for University Council
 
@@ -59,7 +73,7 @@ Party in the MSA's announced policy proposals include:
 
 Effectively, the contest for MSC control is a choice between incumbents Change and opposition Party in the MSA. As the only opposition in the absence of the Labor Right and Elevate, Party in the MSA has a shot at the highly prized proportionally elected National Union of Students delegates and Monash Student Council General Representatives, which would give it a foothold in national student politics and the MSA's governance, respectively.
 
-Independent candidates have nominated for President (two!), Indigenous Officer, Lot's Wife Editor and Student Affairs Committee. There were also 11 independent nominations rejected due to failing signatory requirements, including disqualified candidates for Secretary, Education (Academic Affairs) Officer, People of Colour Officer, MSC General Representatives, Student Welfare Committee, Creative & Live Arts Committee and Women's Affairs Committee. I do not know any explanation for the unusually high number of independent nominations or the rejection of nominations from nearly all independent candidates.
+Independent candidates have nominated for Indigenous Officer, Lot's Wife Editor and Student Affairs Committee. There were also 11 independent nominations rejected due to failing signatory requirements, including disqualified candidates for President (two!), Secretary, Education (Academic Affairs) Officer, People of Colour Officer, MSC General Representatives, Student Welfare Committee, Creative & Live Arts Committee and Women's Affairs Committee. I do not know any explanation for the unusually high number of independent nominations or the rejection of nominations from nearly all independent candidates.
 
 For more MSA election coverage, see Khoa Tran on [Instagram](https://instagram.com/khoa.tran.1291). Khoa is the leading student politics commentator in the country, including for the MSA as a former Monash student, and has been a major news source for me since the early years.
 
