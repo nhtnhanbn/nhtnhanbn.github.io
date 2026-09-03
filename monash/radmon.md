@@ -58,7 +58,7 @@ As attendees gathered for the Special General Meeting of Radio Monash, the regul
 
 Radio Monash is in some ways structurally similar to a regular club affiliated with MSA Clubs and Societies. It is led by a committee, elected at general meetings open to anybody who has been a member for 10 business days. Members may be anybody (with no fee for MSA+ subscribers and a $5 membership fee otherwise), unlike other MSA divisions where office bearers are elected by a class of students (MUISS, MAPS), C&S club presidents (C&S Council), or all students (MSA as a whole). But as an MSA division (a product of its long history as an independent non-MSA organisation), it has something that other clubs do not: a vote on the Monash Student Council (MSC), the MSA's governing body.
 
-The past few years were turbulent for Radio Monash. The pandemic, renovations of its recording studios and technical problems it through 2020-2022. The July 2023 Special General Meeting was supposed to represent a renewal, with all committee positions to face elections and a series of constitutional amendments to be approved.
+The past few years were turbulent for Radio Monash. The pandemic, renovations of its recording studios and technical problems plagued it through 2020-2022. The July 2023 Special General Meeting was supposed to represent a renewal, with all committee positions to face elections and a series of constitutional amendments to be approved.
 
 Early in the meeting, a question was asked to the outgoing Radio Monash President: "Why is this committee so awesome?"
 

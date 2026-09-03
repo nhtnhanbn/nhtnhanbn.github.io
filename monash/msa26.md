@@ -3,7 +3,7 @@ permalink: /msa26
 title: 2026 Monash Student Association elections
 ---
 
-Page last updated 1/9/2026.
+Page last updated 3/9/2026.
 
 ## 2026 elections of the Monash Student Association
 
@@ -14,6 +14,16 @@ Updates on this page in reverse chronological order.
 Polls are open Monday 7th September to Thursday 10th September. Students will vote in elections of MSA office bearers, Monash Student Council General Representatives, committees, Lot's Wife Editors and National Union of Students delegates. MSA office bearers and MSC General Representatives alongside MSA divisions are voting positions in the Monash Student Council, the MSA's governing body.
 
 ### [Election timeline](https://msa.monash.edu/hubfs/MSA%20Election%20Timeline%202026.pdf)
+
+### Change wins University Council race
+
+Update 3/9/2026 - 3 clear days until polls open
+
+Change's representative in the University Council election, the MSA President, has been [elected](https://www.monash.edu/__data/assets/pdf_file/0009/4424598/2026-Monash-University-Council-Elections-Notice-of-Results.pdf) as the student member of University Council.
+
+Student turnout was 6400 votes, up from 5052 in the last University Council election in 2024. The Change victor won 2520 primary votes (39%), with Party in the MSA coming second with 1020 (16%) and an international candidate a close third at 910 (14%). After the distribution of preferences, Change won the two-candidate preferred vote with 64% against Party in the MSA, excluding exhausted votes. 
+
+With a credible vote count against Change, this is a very positive result for Party in the MSA ahead of the MSA elections next week.
 
 ### Election Guide released
 
