@@ -15,6 +15,16 @@ Polls are open Monday 7th September to Thursday 10th September. Students will vo
 
 ### [Election timeline](https://msa.monash.edu/hubfs/MSA%20Election%20Timeline%202026.pdf)
 
+### Turnout down on day 1
+
+Update 7/9/2026 - 2 clear days until polls close
+
+1086 votes were received by 5pm Monday, down from 1366 at the same time last year.
+
+On a partly rain-affected and windy first day of campaigning, Change followed by Free Palestine had strong presence on the ground comparable to previous years, while Party in the MSA's small team of volunteers expanded since 2025.
+
+An independent candidate has been issued a 24-hour campaigning ban by the returning officer.
+
 ### Election week begins
 
 Update 7/9/2026 - 2 clear days until polls close

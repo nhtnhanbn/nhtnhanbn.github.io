@@ -54,7 +54,7 @@ Why were the Labor Left interested in Radio Monash? Possible reasons:
 
 *Filed 10/7/2023.*
 
-As attendees gathered for the Special General Meeting of Radio Monash, the regular members had no reason to suspect that it would be aything but business as intended. It was supposed to be an orderly affair, with a smooth transition to a new, pre-determined administration. After all, modern Monash is not particularly notorious for political machinations in the clubs space.
+As attendees gathered for the Special General Meeting of Radio Monash, the regular members had no reason to suspect that it would be anything but business as intended. It was supposed to be an orderly affair, with a smooth transition to a new, pre-determined administration. After all, modern Monash is not particularly notorious for political machinations in the clubs space.
 
 Radio Monash is in some ways structurally similar to a regular club affiliated with MSA Clubs and Societies. It is led by a committee, elected at general meetings open to anybody who has been a member for 10 business days. Members may be anybody (with no fee for MSA+ subscribers and a $5 membership fee otherwise), unlike other MSA divisions where office bearers are elected by a class of students (MUISS, MAPS), C&S club presidents (C&S Council), or all students (MSA as a whole). But as an MSA division (a product of its long history as an independent non-MSA organisation), it has something that other clubs do not: a vote on the Monash Student Council (MSC), the MSA's governing body.
 
