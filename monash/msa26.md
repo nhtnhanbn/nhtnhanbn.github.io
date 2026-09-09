@@ -3,7 +3,7 @@ permalink: /msa26
 title: 2026 Monash Student Association elections
 ---
 
-Page last updated 7/9/2026.
+Page last updated 9/9/2026.
 
 ## 2026 elections of the Monash Student Association
 
@@ -14,6 +14,24 @@ Updates on this page in reverse chronological order.
 Polls are open Monday 7th September to Thursday 10th September. Students will vote in elections of MSA office bearers, Monash Student Council General Representatives, committees, Lot's Wife Editors and National Union of Students delegates. MSA office bearers and MSC General Representatives alongside MSA divisions are voting positions in the Monash Student Council, the MSA's governing body.
 
 ### [Election timeline](https://msa.monash.edu/hubfs/MSA%20Election%20Timeline%202026.pdf)
+
+### Two days in the abyss
+
+Update 9/9/2026 - 18 clear hours until polls close
+
+Turnout tally around 10am Tuesday sat at 1330 votes, including 165 for Disabilities & Carers, 533 for Women's, and 412 for People of Colour Departments.
+
+Turnout tally around 9pm Tuesday sat at 1843 votes, including 233 for Disabilities & Carers, 754 for Women's, and 575 for People of Colour Departments.
+
+Turnout tally around 5pm Wednesday sat at 2581 votes, including 321 for Disabilities & Carers, 1066 for Women's, and 791 for People of Colour Departments.
+
+Turnout is well below last year's 4164 votes on the third evening of polling.
+
+The authorised officer and presidential candidate for Party in the MSA was issued a campaigning ban today Wednesday until 12pm. This was caused by publicising a supposed payment amount for University Council student representatives, which they allegedly heard from a senior Change member and the returning officer deemed to be incorrect.
+
+Party in the MSA has also been forced to cut off the top of their pamphlets, containing wording regarding the increase in this year's office bearer honorariums passed by the 2025 Monash Student Council that was alleged to have breached the election regulations.
+
+An independent candidate has been issued a second 24-hour campaigning ban by the returning officer.
 
 ### Turnout down on day 1
 
