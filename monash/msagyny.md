@@ -15,7 +15,7 @@ Everybody insists that there are two separate issues when looking at the misogyn
 
 ### Misogyny
 
-First, read [The State of Misogyny in the MSA](https://instagram.com/p/DPhuGQxE2J6). A condensed and edited version has been published by the University of Melbourne's [Farrago](https://farragomagazine.com/news/article/farrago/The-State-of-Misogyny-and-Sexism-in-the-Monash-Student-Association) and the University of Sydney's [Honi Soit](https://honisoit.com/2025/10/the-state-of-misogyny-and-sexism-in-the-monash-student-association).
+This article describes the events surrounding the article by Grace titled [The State of Misogyny in the MSA](https://instagram.com/p/DPhuGQxE2J6).
 
 ### Censorship
 
